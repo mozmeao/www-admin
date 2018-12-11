@@ -1,8 +1,10 @@
 ---
 # card 17, size: medium
-title: "Tips to boost your digital security"
-image: "home/digital-security.png"
-link_url: "https://blog.mozilla.org/internetcitizen/2018/10/01/worried-about-data-breach-protect-passwords/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Security"
+title: "Get Firefox Focus"
+image: "home/focus.png"
+link_url: "https://blog.mozilla.org/blog/2018/10/02/new-firefox-focus-comes-with-search-suggestions-revamped-visual-design-and-an-under-the-hood-surprise-for-android-users/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Firefox"
+aspect_ratio: "16-9"
+highres_image: false
 ---
-There is little you can do to prevent a data breach. However, there is plenty you can do to protect yourself in anticipation of one.
+The latest version comes with search suggestions, revamped visual design and an under-the-hood surprise for Android users.

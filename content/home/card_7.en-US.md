@@ -1,8 +1,10 @@
 ---
 # card 7, size: medium
-title: "Save a step when you’re searching"
-image: "home/search.png"
-link_url: "https://blog.mozilla.org/firefox/save-a-search-step/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Firefox"
+title: "Upgrade your wish lists"
+image: "home/email-tabs.png"
+link_url: "https://blog.mozilla.org/firefox/email-tabs/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Test Pilot"
+aspect_ratio: "16-9"
+highres_image: true
 ---
-Quick and savvy web users know love the multiple ways you can get to search from within Firefox.
+Sharing links via email just got easier. Email Tabs makes it a snap to share URLs, titles and descriptions with friends in a handy list.

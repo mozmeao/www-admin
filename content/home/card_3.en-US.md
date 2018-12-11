@@ -1,8 +1,10 @@
 ---
 # card 3, size: small
-title: "Latest Firefox rolls out Enhanced Tracking Protection"
-image: "home/firefox.png"
-link_url: "https://blog.mozilla.org/blog/2018/10/23/latest-firefox-rolls-out-enhanced-tracking-protection/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Firefox"
+title: "IRL returns with Manoush Zomorodi"
+image: "home/irl.jpg"
+link_url: "https://blog.mozilla.org/internetcitizen/2018/11/07/irl-podcast-manoush-zomorodi/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Podcast"
+aspect_ratio: "16-9"
+highres_image: true
 ---
-Get the power to block third-party cookies and effectively stop the most common form of cross-site tracking.
+Explore the potential of ethical tech and how people everywhere can take the wheel back to enjoy a more citizen-centric web.

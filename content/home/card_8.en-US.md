@@ -1,8 +1,10 @@
 ---
 # card 8, size: medium
-title: "Keeping AI accountable"
-image: "home/ai-accountable.jpg"
-link_url: "https://blog.mozilla.org/blog/2018/10/24/keeping-ai-accountable-with-science-fiction-documentaries-and-doodles-plus-225000/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Grants"
+title: "Be alert to website breaches"
+image: "home/firefox-monitor.png"
+link_url: "https://blog.mozilla.org/blog/2018/11/14/firefox-monitor-launches-in-26-languages-and-adds-new-desktop-browser-feature/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Security"
+aspect_ratio: "16-9"
+highres_image: true
 ---
-Meet the Creative Media Awards recipients whose projects use art and advocacy to highlight the unintended consequences of AI.
+With big thanks to our international community, Firefox Monitor can now alert users to data breaches in 26 languages.

@@ -1,8 +1,10 @@
 ---
 # card 13, size: small
-title: "Get the new Firefox Focus"
-image: "home/focus.png"
-link_url: "https://blog.mozilla.org/blog/2018/10/02/new-firefox-focus-comes-with-search-suggestions-revamped-visual-design-and-an-under-the-hood-surprise-for-android-users/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Firefox"
+title: "The power of web components"
+image: "home/web-components.png"
+link_url: "https://hacks.mozilla.org/2018/11/the-power-of-web-components/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Developers"
+aspect_ratio: "3-2"
+highres_image: true
 ---
-The latest version comes with search suggestions, revamped visual design and an under-the-hood surprise for Android users.
+Despite the long standardization process, the emerging promise of Web Components puts more power in the hand of creators.

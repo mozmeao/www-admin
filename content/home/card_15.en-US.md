@@ -1,8 +1,10 @@
 ---
 # card 15, size: small
-title: "Are you a developer?"
-image: "home/developer.png"
-link_url: "./firefox/developer/"
-tag_label: "Developers"
+title: "Show support for Firefox with badges"
+image: "home/badges.png"
+link_url: "https://hacks.mozilla.org/2018/10/show-your-support-for-firefox-with-new-badges/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Community"
+aspect_ratio: "16-9"
+highres_image: false
 ---
-Get the latest features, fast performance and the development tools you need to build for the open web with Firefox Develop Edition.
+If you’re a Firefox user and want to show your support, we’ve made a collection of badges you can add to your website.

@@ -1,8 +1,12 @@
 ---
 # card 1, size: large
-title: "Listen is a new way to read with Pocket"
-image: "home/pocket.png"
-link_url: "http://getpocket.com/blog/2018/10/introducing-the-new-pocket/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Pocket"
+title: "We keep your data safe, never sold."
+image: "home/ffyr.png"
+link_url: "firefox.fights-for-you"
+tag_label: "Video"
+aspect_ratio: "16-9"
+highres_image: true
+youtube_id: "rZAQ6vgt8nE"
+media_icon: "video"
 ---
-With Pocket’s enhanced listen feature, you can read or listen to content on the go.
+You have the right to your own life — and your own data. Everything we make and do fights for you.

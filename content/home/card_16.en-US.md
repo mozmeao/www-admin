@@ -1,8 +1,10 @@
 ---
 # card 16, size: medium
-title: "Data Detox for a healthier digital life"
-image: "home/data-detox.png"
-link_url: "https://blog.mozilla.org/internetcitizen/2017/11/08/data-detox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Internet Health"
+title: "Are you a developer?"
+image: "home/developer.png"
+link_url: "firefox.developer.index"
+tag_label: "Developers"
+aspect_ratio: "16-9"
+highres_image: false
 ---
-With data breaches, creepy ads following you, and years of photos on social media, now is the time for a Data Detox to regain control.
+Get the latest features, fast performance and the development tools you need to build for the open web with Firefox Develop Edition.

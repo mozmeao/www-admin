@@ -1,8 +1,10 @@
 ---
 # card 2, size: small
-title: "Firefox on The Cheddar"
-image: "home/cheddar.jpg"
-link_url: "https://blog.mozilla.org/internetcitizen/2018/11/05/cheddar-firefox-enhanced-tracking-protection/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "News"
+title: "Here’s to you. Here’s to the internet."
+image: "home/concerts.jpg"
+link_url: "firefox.concerts"
+tag_label: "Firefox Concert Series | Phosphorescent"
+aspect_ratio: "1-1"
+highres_image: false
 ---
-We want to be there to help protect you in your web experience — Denelle Dixon on why we built enhanced tracking protection into Firefox.
+Here’s to watching it free, from all kinds of artists, right from Firefox. Rock out with Phosphorescent, LIVE on Dec. 11.
