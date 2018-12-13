@@ -6,5 +6,5 @@ link_url: "https://blog.mozilla.org/blog/2018/10/02/new-firefox-focus-comes-with
 tag_label: "Firefox"
 aspect_ratio: "16-9"
 highres_image: false
+desc: "The latest version comes with search suggestions, revamped visual design and an under-the-hood surprise for Android users."
 ---
-The latest version comes with search suggestions, revamped visual design and an under-the-hood surprise for Android users.

@@ -6,5 +6,5 @@ link_url: "https://foundation.mozilla.org/privacynotincluded/?utm_source=www.moz
 tag_label: "Privacy"
 aspect_ratio: "16-9"
 highres_image: true
+desc: "On a scale from 1 to 10, how creepy are the gifts on your wish list this year?"
 ---
-On a scale from 1 to 10, how creepy are the gifts on your wish list this year?

@@ -6,5 +6,5 @@ link_url: "https://hacks.mozilla.org/2018/10/show-your-support-for-firefox-with-
 tag_label: "Community"
 aspect_ratio: "16-9"
 highres_image: false
+desc: "If you’re a Firefox user and want to show your support, we’ve made a collection of badges you can add to your website."
 ---
-If you’re a Firefox user and want to show your support, we’ve made a collection of badges you can add to your website.

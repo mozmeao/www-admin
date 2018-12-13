@@ -16,16 +16,14 @@ def print_card(card):
         tag_label: "{card['tag_label']}"
         aspect_ratio: "{card['aspect_ratio']}"
         highres_image: {card['include_highres_image']}
+        desc: "{card['desc']}"
         """)
     if 'youtube_id' in card:
         content += f'''youtube_id: "{card['youtube_id']}"\n'''
     if 'media_icon' in card:
         content += f'''media_icon: "{card['media_icon']}"\n'''
 
-    content += dedent(f"""\
-        ---
-        {card['desc']}
-        """)
+    content += '---\n'
     with open(c_file_name, 'w') as cf:
         cf.write(content)
 

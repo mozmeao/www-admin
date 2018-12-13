@@ -6,5 +6,5 @@ link_url: "https://getpocket.com/blog/2018/11/reads-to-replenish-and-recharge-th
 tag_label: "Pocket"
 aspect_ratio: "16-9"
 highres_image: true
+desc: "In the spirit of creative productivity, Pocket has bubbled up three articles that illuminate the creative mind and how it works."
 ---
-In the spirit of creative productivity, Pocket has bubbled up three articles that illuminate the creative mind and how it works.

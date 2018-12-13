@@ -6,5 +6,5 @@ link_url: "https://blog.mozilla.org/firefox/price-wise/?utm_source=www.mozilla.o
 tag_label: "Test Pilot"
 aspect_ratio: "16-9"
 highres_image: true
+desc: "Double down on deals from five major retailers in this Test Pilot feature for Firefox."
 ---
-Double down on deals from five major retailers in this Test Pilot feature for Firefox.

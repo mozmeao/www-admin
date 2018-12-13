@@ -6,5 +6,5 @@ link_url: "https://hacks.mozilla.org/2018/11/the-power-of-web-components/?utm_so
 tag_label: "Developers"
 aspect_ratio: "3-2"
 highres_image: true
+desc: "Despite the long standardization process, the emerging promise of Web Components puts more power in the hand of creators."
 ---
-Despite the long standardization process, the emerging promise of Web Components puts more power in the hand of creators.

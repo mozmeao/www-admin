@@ -6,5 +6,5 @@ link_url: "https://blog.mozilla.org/firefox/email-tabs/?utm_source=www.mozilla.o
 tag_label: "Test Pilot"
 aspect_ratio: "16-9"
 highres_image: true
+desc: "Sharing links via email just got easier. Email Tabs makes it a snap to share URLs, titles and descriptions with friends in a handy list."
 ---
-Sharing links via email just got easier. Email Tabs makes it a snap to share URLs, titles and descriptions with friends in a handy list.

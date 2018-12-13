@@ -6,5 +6,5 @@ link_url: "https://blog.mozilla.org/blog/2018/11/14/firefox-monitor-launches-in-
 tag_label: "Security"
 aspect_ratio: "16-9"
 highres_image: true
+desc: "With big thanks to our international community, Firefox Monitor can now alert users to data breaches in 26 languages."
 ---
-With big thanks to our international community, Firefox Monitor can now alert users to data breaches in 26 languages.

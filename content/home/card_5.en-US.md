@@ -6,5 +6,5 @@ link_url: "https://blog.mozilla.org/blog/2018/11/16/mozilla-fights-on-for-net-ne
 tag_label: "Policy"
 aspect_ratio: "16-9"
 highres_image: true
+desc: "We will continue to do all that we can to support an open and vibrant internet that is a resource accessible to all."
 ---
-We will continue to do all that we can to support an open and vibrant internet that is a resource accessible to all.

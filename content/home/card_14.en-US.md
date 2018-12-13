@@ -6,5 +6,5 @@ link_url: "https://blog.mozvr.com/lessons-learned-while-designing-for-the-immers
 tag_label: "Emerging Technologies"
 aspect_ratio: "16-9"
 highres_image: true
+desc: "UX designer and creative catalyst Nadja Haldimann talks about how she approached working on the new Firefox Reality browser."
 ---
-UX designer and creative catalyst Nadja Haldimann talks about how she approached working on the new Firefox Reality browser.
