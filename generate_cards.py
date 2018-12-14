@@ -15,7 +15,7 @@ def print_card(card):
         link_url: "{card['link_url']}"
         tag_label: "{card['tag_label']}"
         aspect_ratio: "{card['aspect_ratio']}"
-        highres_image: {card['include_highres_image']}
+        include_highres_image: {card['include_highres_image']}
         desc: "{card['desc']}"
         """)
     if 'youtube_id' in card:
@@ -63,7 +63,6 @@ def extract_cards(template_file):
 
 
 def process_card(card):
-    print(card)
     card['image_url'] = 'home/' + card['image_url'].split('/')[-1]
 
     if 'include_highres_image' in card:
