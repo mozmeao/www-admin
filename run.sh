@@ -40,16 +40,16 @@ for BUCKET in "${BUCKETS[@]}"; do
     #     "./${TMP_DIR}" "s3://bedrock-${BUCKET}-media/media/img/contentcards/"
 done
 
-if git status --porcelain | grep -E "\.md$"; then
-    git branch -D "${GIT_BRANCH_PROCESSED}" || true
-    git checkout -b "${GIT_BRANCH_PROCESSED}"
-    git add ./content/
-    git commit -m "Update card data with hashed image names"
-    # switch back to original branch
-    echo "Card data update committed"
-    git checkout -
-else
-    echo "No updates"
+if [[ "$1" == "commit" ]]; then
+    if git status --porcelain | grep -E "\.md$"; then
+        git branch -D "${GIT_BRANCH_PROCESSED}" || true
+        git checkout -b "${GIT_BRANCH_PROCESSED}"
+        git add ./content/
+        git commit -m "Update card data with hashed image names"
+        echo "Card data update committed"
+    else
+        echo "No updates"
+    fi
 fi
 
 if [[ -n "$SNITCH_URL" ]]; then
