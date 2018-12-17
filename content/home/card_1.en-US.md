@@ -1,7 +1,7 @@
 ---
 # card 1, size: large
 title: "We keep your data safe, never sold."
-image: "home/ffyr.9b59525acb90.png"
+image: "home/ffyr.png"
 link_url: "firefox.fights-for-you"
 tag_label: "Video"
 aspect_ratio: "16-9"

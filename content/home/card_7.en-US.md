@@ -1,7 +1,7 @@
 ---
 # card 7, size: medium
 title: "Upgrade your wish lists"
-image: "home/email-tabs.73847bb973c6.png"
+image: "home/email-tabs.png"
 link_url: "https://blog.mozilla.org/firefox/email-tabs/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Test Pilot"
 aspect_ratio: "16-9"

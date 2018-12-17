@@ -1,7 +1,7 @@
 ---
 # card 4, size: small
 title: "Better watch out"
-image: "home/privacy.dbf8e19d593f.jpg"
+image: "home/privacy.jpg"
 link_url: "https://foundation.mozilla.org/privacynotincluded/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Privacy"
 aspect_ratio: "16-9"

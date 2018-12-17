@@ -1,7 +1,7 @@
 ---
 # card 3, size: small
 title: "IRL returns with Manoush Zomorodi"
-image: "home/irl.bffa128297d2.jpg"
+image: "home/irl.jpg"
 link_url: "https://blog.mozilla.org/internetcitizen/2018/11/07/irl-podcast-manoush-zomorodi/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Podcast"
 aspect_ratio: "16-9"
