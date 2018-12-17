@@ -1,7 +1,7 @@
 ---
 # card 10, size: small
 title: "How to protect your data while traveling"
-image: "home/travelling.jpg"
+image: "home/travelling.f33e95ef8ac2.jpg"
 link_url: "https://blog.mozilla.org/internetcitizen/2017/03/28/protect-privacy-traveling/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Security"
 aspect_ratio: "16-9"

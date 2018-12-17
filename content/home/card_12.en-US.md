@@ -1,7 +1,7 @@
 ---
 # card 12, size: small
 title: "Reads to recharge the creative mind"
-image: "home/creative-mind.jpg"
+image: "home/creative-mind.efbb71edd2cb.jpg"
 link_url: "https://getpocket.com/blog/2018/11/reads-to-replenish-and-recharge-the-creative-mind/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Pocket"
 aspect_ratio: "16-9"

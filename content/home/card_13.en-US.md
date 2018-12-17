@@ -1,7 +1,7 @@
 ---
 # card 13, size: small
 title: "The power of web components"
-image: "home/web-components.png"
+image: "home/web-components.93e52b60593a.png"
 link_url: "https://hacks.mozilla.org/2018/11/the-power-of-web-components/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Developers"
 aspect_ratio: "3-2"

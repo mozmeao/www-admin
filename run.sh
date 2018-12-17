@@ -28,7 +28,7 @@ if ! imageExists; then
 fi
 
 rm -rf "${TMP_DIR}" && mkdir "${TMP_DIR}"
-docker run --rm -v "$PWD:/app" "$IMAGE_NAME"
+docker run --rm -u "$(id -u)" -v "$PWD:/app" "$IMAGE_NAME"
 
 for BUCKET in "${BUCKETS[@]}"; do
     S3_URL="s3://bedrock-${BUCKET}-media/media/img/contentcards/"
