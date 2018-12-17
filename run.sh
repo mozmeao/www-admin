@@ -33,11 +33,11 @@ docker run --rm -u "$(id -u)" -v "$PWD:/app" "$IMAGE_NAME"
 for BUCKET in "${BUCKETS[@]}"; do
     S3_URL="s3://bedrock-${BUCKET}-media/media/img/contentcards/"
     echo "Syncing to $S3_URL"
-    # aws s3 sync \
-    #     --acl public-read \
-    #     --cache-control "max-age=315360000, public, immutable" \
-    #     --profile bedrock-media \
-    #     "./${TMP_DIR}" "s3://bedrock-${BUCKET}-media/media/img/contentcards/"
+    aws s3 sync \
+        --acl public-read \
+        --cache-control "max-age=315360000, public, immutable" \
+        --profile bedrock-media \
+        "./${TMP_DIR}" "${S3_URL}"
 done
 
 if [[ "$1" == "commit" ]]; then
