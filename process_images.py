@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import hashlib
-import re
+import sys
 from itertools import chain
 from pathlib import Path
 from shutil import rmtree, copy
@@ -66,11 +66,16 @@ def fix_data_files(files_changed):
         with card.open(encoding='utf-8') as fh:
             for line in fh:
                 if line.startswith('image:'):
+                    image_updated = False
                     for forig, fhashed in files_changed:
                         orig_path = str(forig.relative_to(IMAGES_PATH))
-                        hashed_path = str(fhashed.relative_to(IMAGES_HASHED))
                         if orig_path in line:
+                            hashed_path = str(fhashed.relative_to(IMAGES_HASHED))
                             line = line.replace(orig_path, hashed_path)
+                            image_updated = True
+
+                    if not image_updated:
+                        raise RuntimeError('Image referenced but not found: %s' % line)
 
                 lines.append(line)
 
@@ -83,4 +88,9 @@ if __name__ == '__main__':
     images = get_all_images()
     files_changed = hash_filenames(images)
     copy_files(files_changed)
-    fix_data_files(files_changed)
+    try:
+        fix_data_files(files_changed)
+    except RuntimeError as e:
+        sys.exit(str(e))
+
+    print('Done')
