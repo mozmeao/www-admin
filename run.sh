@@ -31,7 +31,7 @@ rm -rf "${TMP_DIR}" && mkdir "${TMP_DIR}"
 docker run --rm -u "$(id -u)" -v "$PWD:/app" "$IMAGE_NAME"
 
 for BUCKET in "${BUCKETS[@]}"; do
-    S3_URL="s3://bedrock-${BUCKET}-media/media/img/contentcards/"
+    S3_URL="s3://bedrock-${BUCKET}-media/media/contentcards/"
     echo "Syncing to $S3_URL"
     aws s3 sync \
         --acl public-read \
