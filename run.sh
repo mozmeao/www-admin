@@ -30,22 +30,23 @@ fi
 rm -rf "${TMP_DIR}" && mkdir "${TMP_DIR}"
 docker run --rm -u "$(id -u)" -v "$PWD:/app" "$IMAGE_NAME"
 
-for BUCKET in "${BUCKETS[@]}"; do
-    S3_URL="s3://bedrock-${BUCKET}-media/media/contentcards/"
-    echo "Syncing to $S3_URL"
-    aws s3 sync \
-        --acl public-read \
-        --cache-control "max-age=315360000, public, immutable" \
-        --profile bedrock-media \
-        "./${TMP_DIR}" "${S3_URL}"
-done
-
 if [[ "$1" == "commit" ]]; then
-    if git status --porcelain | grep -E "\.md$"; then
+
+    for BUCKET in "${BUCKETS[@]}"; do
+        S3_URL="s3://bedrock-${BUCKET}-media/media/contentcards/"
+        echo "Syncing to $S3_URL"
+        aws s3 sync \
+            --acl public-read \
+            --cache-control "max-age=315360000, public, immutable" \
+            --profile bedrock-media \
+            "./${TMP_DIR}" "${S3_URL}"
+    done
+
+    if git status --porcelain | grep -E "\.json$"; then
         git branch -D "${GIT_BRANCH_PROCESSED}" || true
         git checkout -b "${GIT_BRANCH_PROCESSED}"
         git add ./content/
-        git commit -m "Update card data with hashed image names"
+        git commit -m "Add processed card data"
         echo "Card data update committed"
     else
         echo "No updates"
