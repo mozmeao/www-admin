@@ -41,6 +41,7 @@ if [[ "$1" == "commit" ]]; then
 #            "./${OUTPUT_DIR}/static" "${S3_URL}"
     done
 
+    git branch -D "${GIT_BRANCH_PROCESSED}" || true
     git fetch origin
     git checkout "${GIT_BRANCH_PROCESSED}"
     rm -rf content static
