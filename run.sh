@@ -5,7 +5,6 @@ set -exo pipefail
 IMAGE_NAME="${DOCKER_IMAGE_NAME:-www-admin-image-processor}"
 IMAGE_NAME="${IMAGE_NAME}:$(git rev-parse HEAD)"
 OUTPUT_DIR="output"
-OUTPUT_TMP="${OUTPUT_DIR}_TMP"
 GIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 GIT_BRANCH_PROCESSED="${GIT_BRANCH}-processed"
 
@@ -35,19 +34,19 @@ if [[ "$1" == "commit" ]]; then
     for BUCKET in "${BUCKETS[@]}"; do
         S3_URL="s3://bedrock-${BUCKET}-media/media/contentcards/"
         echo "Syncing to $S3_URL"
-        aws s3 sync \
-            --acl public-read \
-            --cache-control "max-age=315360000, public, immutable" \
-            --profile bedrock-media \
-            "./${OUTPUT_DIR}/static" "${S3_URL}"
+#        aws s3 sync \
+#            --acl public-read \
+#            --cache-control "max-age=315360000, public, immutable" \
+#            --profile bedrock-media \
+#            "./${OUTPUT_DIR}/static" "${S3_URL}"
     done
 
-    mv "$OUTPUT_DIR" "$OUTPUT_TMP"
-    git pull
+    git fetch origin
     git checkout "${GIT_BRANCH_PROCESSED}"
+    rm -rf content static
+    mv ${OUTPUT_DIR}/* ./
     rm -rf "$OUTPUT_DIR"
-    mv "$OUTPUT_TMP" "$OUTPUT_DIR"
-    git add "$OUTPUT_DIR"
+    git add .
     git commit -m "Add processed card data"
     echo "Card data update committed"
 fi
