@@ -43,8 +43,8 @@ if [[ "$1" == "commit" ]]; then
     done
 
     mv "$OUTPUT_DIR" "$OUTPUT_TMP"
-    git checkout "${GIT_BRANCH_PROCESSED}"
     git pull
+    git checkout "${GIT_BRANCH_PROCESSED}"
     rm -rf "$OUTPUT_DIR"
     mv "$OUTPUT_TMP" "$OUTPUT_DIR"
     git add "$OUTPUT_DIR"
