@@ -47,9 +47,13 @@ if [[ "$1" == "commit" ]]; then
     rm -rf content static
     mv ${OUTPUT_DIR}/* ./
     rm -rf "$OUTPUT_DIR"
-    git add .
-    git commit -m "Add processed card data"
-    echo "Card data update committed"
+    if git status --porcelain | grep content; then
+        git add .
+        git commit -m "Add processed card data"
+        echo "Card data update committed"
+    else
+        echo "No updates"
+    fi
 fi
 
 if [[ -n "$SNITCH_URL" ]]; then
