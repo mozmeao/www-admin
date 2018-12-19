@@ -9,11 +9,12 @@ def print_card(card):
     c_file_name = f'content/home/card_{card["id"]}.en-US.md'
     content = dedent(f"""\
         ---
-        # card {card['id']}, size: {card['card_size']}
+        # card {card['id']}
         title: "{card['title']}"
         image: "{card['image_url']}"
         link_url: "{card['link_url']}"
         tag_label: "{card['tag_label']}"
+        size: "{card['card_size']}"
         aspect_ratio: "{card['aspect_ratio']}"
         include_highres_image: {card['include_highres_image']}
         desc: "{card['desc']}"
