@@ -1,10 +1,13 @@
 ---
-# card 14, size: small
-title: "Designing for the immersive web"
-image: "home/immersive.png"
-link_url: "https://blog.mozvr.com/lessons-learned-while-designing-for-the-immersive-web/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Emerging Technologies"
+# card 14
+title: "Firefox Reality"
+image: "home/reality.jpg"
+link_url: "https://blog.mozvr.com/firefox-reality-update-supports-360-videos-and-7-additional-languages/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Video"
+size: "small"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "UX designer and creative catalyst Nadja Haldimann talks about how she approached working on the new Firefox Reality browser."
+desc: "Firefox Reality 1.1 is now available for download in the Viveport, Oculus, and Daydream app stores."
+youtube_id: "daK-nrAgCus"
+media_icon: "video"
 ---

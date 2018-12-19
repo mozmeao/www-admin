@@ -1,10 +1,11 @@
 ---
-# card 15, size: small
-title: "Show support for Firefox with badges"
-image: "home/badges.png"
-link_url: "https://hacks.mozilla.org/2018/10/show-your-support-for-firefox-with-new-badges/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Community"
+# card 15
+title: "Firefox Reality Developers Guide"
+image: "home/vr-guide.jpg"
+link_url: "https://blog.mozvr.com/firefox-reality-developers-guide/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Emerging Technologies"
+size: "small"
 aspect_ratio: "16-9"
 include_highres_image: false
-desc: "If you’re a Firefox user and want to show your support, we’ve made a collection of badges you can add to your website."
+desc: "Mozilla’s VR web browser is here. Let’s talk about how to make your experiences work well in this new browser."
 ---

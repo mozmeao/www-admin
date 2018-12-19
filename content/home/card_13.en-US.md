@@ -1,10 +1,11 @@
 ---
-# card 13, size: small
-title: "The power of web components"
-image: "home/web-components.png"
-link_url: "https://hacks.mozilla.org/2018/11/the-power-of-web-components/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Developers"
-aspect_ratio: "3-2"
+# card 13
+title: "Mozilla Research Grant recipients announced"
+image: "home/grants.jpg"
+link_url: "https://blog.mozilla.org/blog/2018/11/28/mozilla-funds-research-grants-in-four-areas/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Grants"
+size: "small"
+aspect_ratio: "16-9"
 include_highres_image: true
-desc: "Despite the long standardization process, the emerging promise of Web Components puts more power in the hand of creators."
+desc: "We awarded grants to support research in four areas: Web of the Things, Core Web Technologies, Voice/Language/Speech, and Mixed Reality."
 ---

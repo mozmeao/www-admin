@@ -1,10 +1,11 @@
 ---
-# card 2, size: small
-title: "Here’s to you. Here’s to live music."
-image: "home/concerts.jpg"
-link_url: "firefox.concerts"
-tag_label: "Firefox Concert Series"
+# card 2
+title: "Goodbye, EdgeHTML"
+image: "home/edge.png"
+link_url: "https://blog.mozilla.org/blog/2018/12/06/goodbye-edge/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Internet Health"
+size: "small"
 aspect_ratio: "1-1"
-include_highres_image: false
-desc: "Here’s to watching it free, from all kinds of artists, right from Firefox. Join us and rock out with the Firefox Concert Series."
+include_highres_image: true
+desc: "Microsoft is giving up on an independent shared platform for the internet, and in doing so, hands over control of more of online life to Google."
 ---

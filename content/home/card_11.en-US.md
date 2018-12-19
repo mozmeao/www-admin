@@ -1,10 +1,11 @@
 ---
-# card 11, size: small
-title: "Is it safe?"
-image: "home/internet-safety.png"
-link_url: "https://internethealthreport.org/2018/category/privacy-and-security/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Internet Health"
+# card 11
+title: "Data Leeks: Recipes for online privacy"
+image: "home/leeks.jpg"
+link_url: "https://www.dataleeks.com?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Security"
+size: "small"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "The internet is where we could live, learn and communicate freely. To be ourselves, we need to be able to trust the systems that protect us."
+desc: "Not convinced that a data breach could have real, personal implications? These stories might change your mind."
 ---
