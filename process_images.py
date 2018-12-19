@@ -7,10 +7,11 @@ from itertools import chain
 from pathlib import Path
 from shutil import rmtree, copy
 
-import yaml
 from markdown import markdown
+from ruamel.yaml import YAML
 
 
+yaml = YAML()
 IMAGES_PATH = Path('static/img')
 IMAGES_HASHED = Path('tmp_static/img')
 CARDS_PATH = Path('content')
@@ -51,7 +52,7 @@ def parse_md_file(file_obj):
     with file_obj.open(encoding='utf8') as fh:
         yamltext, mdtext = parse_md_front_matter(fh)
 
-    data = yaml.safe_load(yamltext)
+    data = yaml.load(yamltext)
     if mdtext.strip():
         data['html_content'] = markdown(mdtext)
 
