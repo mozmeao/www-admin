@@ -4,7 +4,8 @@ set -exo pipefail
 
 IMAGE_NAME="${DOCKER_IMAGE_NAME:-www-admin-image-processor}"
 IMAGE_NAME="${IMAGE_NAME}:$(git rev-parse HEAD)"
-TMP_DIR="tmp_static"
+OUTPUT_DIR="output"
+OUTPUT_TMP="${OUTPUT_DIR}_TMP"
 GIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 GIT_BRANCH_PROCESSED="${GIT_BRANCH}-processed"
 
@@ -27,7 +28,6 @@ if ! imageExists; then
     docker build -t "$IMAGE_NAME" --pull .
 fi
 
-rm -rf "${TMP_DIR}" && mkdir "${TMP_DIR}"
 docker run --rm -u "$(id -u)" -v "$PWD:/app" "$IMAGE_NAME"
 
 if [[ "$1" == "commit" ]]; then
@@ -39,13 +39,16 @@ if [[ "$1" == "commit" ]]; then
             --acl public-read \
             --cache-control "max-age=315360000, public, immutable" \
             --profile bedrock-media \
-            "./${TMP_DIR}" "${S3_URL}"
+            "./${OUTPUT_DIR}/static" "${S3_URL}"
     done
 
     if git status --porcelain | grep -E "\.json$"; then
-        git branch -D "${GIT_BRANCH_PROCESSED}" || true
-        git checkout -b "${GIT_BRANCH_PROCESSED}"
-        git add ./content/
+        mv "$OUTPUT_DIR" "$OUTPUT_TMP"
+        git checkout "${GIT_BRANCH_PROCESSED}"
+        git pull
+        rm -rf "$OUTPUT_DIR"
+        mv "$OUTPUT_TMP" "$OUTPUT_DIR"
+        git add "$OUTPUT_DIR"
         git commit -m "Add processed card data"
         echo "Card data update committed"
     else

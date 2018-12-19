@@ -12,9 +12,11 @@ from ruamel.yaml import YAML
 
 
 yaml = YAML()
+OUTPUT_PATH = Path('output')
 IMAGES_PATH = Path('static/img')
-IMAGES_HASHED = Path('tmp_static/img')
+IMAGES_HASHED = OUTPUT_PATH / 'static/img'
 CARDS_PATH = Path('content')
+CARDS_POST_PATH = OUTPUT_PATH / 'content'
 # Default chunk size from Django
 CHUNK_SIZE = 64 * 2 ** 10
 
@@ -60,7 +62,7 @@ def parse_md_file(file_obj):
 
 
 def clean_dirs():
-    rmtree(str(IMAGES_HASHED), ignore_errors=True)
+    rmtree(str(OUTPUT_PATH), ignore_errors=True)
 
 
 def get_all_images():
@@ -130,6 +132,8 @@ def process_data_files(files_changed):
                 raise RuntimeError('Image referenced but not found: %s' % image_path)
 
         json_card = card.with_suffix('.json')
+        json_card = OUTPUT_PATH / json_card
+        json_card.parent.mkdir(parents=True, exist_ok=True)
         with json_card.open('w', encoding='utf-8') as fh:
             json.dump(data, fh, ensure_ascii=False, indent=2, sort_keys=True)
 
