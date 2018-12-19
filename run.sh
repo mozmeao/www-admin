@@ -42,18 +42,14 @@ if [[ "$1" == "commit" ]]; then
             "./${OUTPUT_DIR}/static" "${S3_URL}"
     done
 
-    if git status --porcelain | grep -E "\.json$"; then
-        mv "$OUTPUT_DIR" "$OUTPUT_TMP"
-        git checkout "${GIT_BRANCH_PROCESSED}"
-        git pull
-        rm -rf "$OUTPUT_DIR"
-        mv "$OUTPUT_TMP" "$OUTPUT_DIR"
-        git add "$OUTPUT_DIR"
-        git commit -m "Add processed card data"
-        echo "Card data update committed"
-    else
-        echo "No updates"
-    fi
+    mv "$OUTPUT_DIR" "$OUTPUT_TMP"
+    git checkout "${GIT_BRANCH_PROCESSED}"
+    git pull
+    rm -rf "$OUTPUT_DIR"
+    mv "$OUTPUT_TMP" "$OUTPUT_DIR"
+    git add "$OUTPUT_DIR"
+    git commit -m "Add processed card data"
+    echo "Card data update committed"
 fi
 
 if [[ -n "$SNITCH_URL" ]]; then
