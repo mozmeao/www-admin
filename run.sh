@@ -19,6 +19,8 @@ else
     exit 1
 fi
 
+./slack-notify.sh --stage "Content card update" --status starting
+
 function imageExists() {
     docker history -q "${IMAGE_NAME}" > /dev/null 2>&1
     return $?
@@ -49,8 +51,10 @@ if [[ "$1" == "commit" ]]; then
                 --profile bedrock-media \
                 "./static" "${S3_URL}"
         done
+        ./slack-notify.sh --stage "Content card update" --status shipped
     else
         echo "No updates"
+        ./slack-notify.sh --stage "Nothing changed" --status success
     fi
 fi
 
