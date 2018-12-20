@@ -2,11 +2,12 @@
 
 set -exo pipefail
 
-IMAGE_NAME="${DOCKER_IMAGE_NAME:-www-admin-image-processor}"
-IMAGE_NAME="${IMAGE_NAME}:$(git rev-parse HEAD)"
-OUTPUT_DIR="output"
+GIT_COMMIT="$(git rev-parse HEAD)"
 GIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 GIT_BRANCH_PROCESSED="${GIT_BRANCH}-processed"
+IMAGE_NAME="${DOCKER_IMAGE_NAME:-www-admin-image-processor}"
+IMAGE_NAME="${IMAGE_NAME}:${GIT_COMMIT}"
+OUTPUT_DIR="output"
 
 if [[ "$GIT_BRANCH" == "master" ]]; then
     BUCKETS=(dev)
@@ -30,18 +31,15 @@ fi
 docker run --rm -u "$(id -u)" -v "$PWD:/app" "$IMAGE_NAME"
 
 if [[ "$1" == "commit" ]]; then
-
-    git branch -D "${GIT_BRANCH_PROCESSED}" || true
     git fetch origin
-    git checkout "${GIT_BRANCH_PROCESSED}"
+    git checkout -f "origin/${GIT_BRANCH_PROCESSED}"
     rm -rf content static
     mv ${OUTPUT_DIR}/* ./
     rm -rf "$OUTPUT_DIR"
-    if git status --porcelain | grep content; then
+    if git status --porcelain | grep ".json"; then
         git add .
-        git commit -m "Add processed card data"
+        git commit -m "Add processed card data for ${GIT_COMMIT}"
         echo "Card data update committed"
-
         for BUCKET in "${BUCKETS[@]}"; do
             S3_URL="s3://bedrock-${BUCKET}-media/media/contentcards/"
             echo "Syncing to $S3_URL"

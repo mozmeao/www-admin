@@ -6,7 +6,7 @@ ENV PYTHONUNBUFFERED=1
 ENV PIP_DISABLE_PIP_VERSION_CHECK=1
 
 WORKDIR /app
-CMD ["./process_images.py"]
+CMD ["./process_data.py"]
 
 COPY requirements.txt ./
 RUN pip install -r requirements.txt
