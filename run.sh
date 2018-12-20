@@ -2,8 +2,11 @@
 
 set -exo pipefail
 
-GIT_COMMIT="$(git rev-parse HEAD)"
-GIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+# store slack-notify.sh for when we switch branches later
+cp ./slack-notify.sh ../
+
+export GIT_COMMIT="$(git rev-parse HEAD)"
+export GIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 GIT_BRANCH_PROCESSED="${GIT_BRANCH}-processed"
 IMAGE_NAME="${DOCKER_IMAGE_NAME:-www-admin-image-processor}"
 IMAGE_NAME="${IMAGE_NAME}:${GIT_COMMIT}"
@@ -19,7 +22,7 @@ else
     exit 1
 fi
 
-./slack-notify.sh --stage "Content card update" --status starting
+../slack-notify.sh --stage "Content card update" --status starting
 
 function imageExists() {
     docker history -q "${IMAGE_NAME}" > /dev/null 2>&1
@@ -51,10 +54,10 @@ if [[ "$1" == "commit" ]]; then
                 --profile bedrock-media \
                 "./static" "${S3_URL}"
         done
-        ./slack-notify.sh --stage "Content card update" --status shipped
+        ../slack-notify.sh --stage "Content card update" --status shipped
     else
         echo "No updates"
-        ./slack-notify.sh --stage "Nothing changed" --status success
+        ../slack-notify.sh --stage "Nothing changed" --status success
     fi
 fi
 

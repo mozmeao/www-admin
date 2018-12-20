@@ -5,6 +5,7 @@ set -eo pipefail
 # BRANCH_NAME, BUILD_NUMBER
 
 # defaults and constants
+BRANCH_NAME="$GIT_BRANCH"
 CHANNEL="www-notify"
 CHANNEL_FAILURE="meao-alerts"
 BLUE_BUILD_URL="https://ci.us-west.moz.works/blue/organizations/jenkins/www-admin-master"
@@ -53,7 +54,7 @@ if [[ -n "$STATUS" ]]; then
 fi
 
 # add project name
-STATUS="*bedrock*: ${STATUS}"
+STATUS="*www-admin*: ${STATUS}"
 
 if [[ -n "$STAGE" ]]; then
     MESSAGE="${STATUS}${STAGE}:"
