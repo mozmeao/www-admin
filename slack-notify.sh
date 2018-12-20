@@ -9,7 +9,7 @@ BRANCH_NAME="$GIT_BRANCH"
 CHANNEL="www-notify"
 CHANNEL_FAILURE="meao-alerts"
 BLUE_BUILD_URL="https://ci.us-west.moz.works/blue/organizations/jenkins/www-admin-master"
-BLUE_BUILD_URL="${BLUE_BUILD_URL}/detail/${BRANCH_NAME/\//%2f}/${BUILD_NUMBER}/pipeline"
+BLUE_BUILD_URL="${BLUE_BUILD_URL}/detail/www-admin-master/${BUILD_NUMBER}/pipeline"
 
 # parse cli args
 while [[ $# -gt 1 ]]; do
