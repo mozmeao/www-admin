@@ -1,0 +1,7 @@
+site_name: Bedrock Content Cards Admin
+
+markdown_extensions:
+  - abbr
+
+repo_url: https://github.com/mozmeao/www-admin
+edit_uri: ""
