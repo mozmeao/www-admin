@@ -66,7 +66,7 @@ def extract_cards(template_file):
 
 
 def process_card(card):
-    card['image_url'] = 'home/' + card['image_url'].split('/')[-1]
+    card['image_url'] = card['image_url'].split('/')[-1]
 
     if 'include_highres_image' in card:
         card['include_highres_image'] = card['include_highres_image'].lower()
