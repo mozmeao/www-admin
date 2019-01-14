@@ -1,7 +1,7 @@
 ---
 # card 14
 title: "Firefox Reality"
-image: "home/reality.jpg"
+image: "reality.jpg"
 link_url: "https://blog.mozvr.com/firefox-reality-update-supports-360-videos-and-7-additional-languages/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Video"
 size: "small"

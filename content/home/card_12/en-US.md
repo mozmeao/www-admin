@@ -1,7 +1,7 @@
 ---
 # card 12
 title: "Marriott data breach — What to do?"
-image: "home/marriott.png"
+image: "marriott.png"
 link_url: "https://blog.mozilla.org/internetcitizen/2018/11/30/marriott-data-breach-what-to-do/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Security"
 size: "small"

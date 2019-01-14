@@ -1,7 +1,7 @@
 ---
 # card 5
 title: "Holiday tech support tips"
-image: "home/holidays.png"
+image: "holidays.png"
 link_url: "https://blog.mozilla.org/internetcitizen/2018/12/19/holiday-tech-support/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Security"
 size: "small"

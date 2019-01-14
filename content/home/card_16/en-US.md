@@ -1,7 +1,7 @@
 ---
 # card 16
 title: "Are you a developer?"
-image: "home/developer.jpg"
+image: "developer.jpg"
 link_url: "firefox.developer.index"
 tag_label: "Developers"
 size: "medium"

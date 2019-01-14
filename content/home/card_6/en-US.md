@@ -1,7 +1,7 @@
 ---
 # card 6
 title: "Can ethical tech be a thing?"
-image: "home/irl.jpg"
+image: "irl.jpg"
 link_url: "https://irlpodcast.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Podcast"
 size: "medium"

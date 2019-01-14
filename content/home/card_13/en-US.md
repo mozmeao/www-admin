@@ -1,7 +1,7 @@
 ---
 # card 13
 title: "Mozilla Research Grant recipients announced"
-image: "home/grants.jpg"
+image: "grants.jpg"
 link_url: "https://blog.mozilla.org/blog/2018/11/28/mozilla-funds-research-grants-in-four-areas/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Grants"
 size: "small"

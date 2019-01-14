@@ -1,7 +1,7 @@
 ---
 # card 11
 title: "Data Leeks: Recipes for online privacy"
-image: "home/leeks.jpg"
+image: "leeks.jpg"
 link_url: "https://www.dataleeks.com?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Security"
 size: "small"

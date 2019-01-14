@@ -1,7 +1,7 @@
 ---
 # card 3
 title: "Get the latest Firefox"
-image: "home/firefox.jpg"
+image: "firefox.jpg"
 link_url: "https://blog.mozilla.org/blog/2018/12/11/latest-firefox-release-available-today/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Firefox"
 size: "small"

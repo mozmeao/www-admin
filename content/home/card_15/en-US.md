@@ -1,7 +1,7 @@
 ---
 # card 15
 title: "Firefox Reality Developers Guide"
-image: "home/vr-guide.jpg"
+image: "vr-guide.jpg"
 link_url: "https://blog.mozvr.com/firefox-reality-developers-guide/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Emerging Technologies"
 size: "small"
