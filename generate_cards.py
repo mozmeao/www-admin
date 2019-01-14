@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*-
 
 import re
+from pathlib import Path
 from textwrap import dedent
 
 
 def print_card(card):
-    c_file_name = f'content/home/card_{card["id"]}.en-US.md'
+    c_file_path = Path(f'content/home/card_{card["id"]}/en-US.md')
     content = dedent(f"""\
         ---
         # card {card['id']}
@@ -25,7 +26,8 @@ def print_card(card):
         content += f'''media_icon: "{card['media_icon']}"\n'''
 
     content += '---\n'
-    with open(c_file_name, 'w') as cf:
+    c_file_path.parent.mkdir(parents=True, exist_ok=True)
+    with c_file_path.open('w', encoding='utf-8') as cf:
         cf.write(content)
 
 
