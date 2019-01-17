@@ -9,22 +9,21 @@ popular static site/blog generators like [Hugo][] and [Jekyll][].
 
 The directory layout and file names have meaning:
 
-    content/                     # folder for all of the data
-        home/                    # one folder per bedrock page
-            card_1.en-US.md      # card named "card_1" in "en-US" locale
-            card_1.de.md         # same card but in "de" locale
-            the_dude.en-US.md    # card named "the_dude"
-            
-    static/                      # folder for all static assets
-        img/                     # img folder in case we ever need other kinds
-            home/                # folder per page (not required)
-                dude-abides.jpg  # image referenced from "image: home/dude-abides.jpg" in card
+    content/                       # folder for all of the data
+        home/                      # one folder per bedrock page
+            card_1/                # one folder per card
+                en-US.md           # card named "card_1" in "en-US" locale
+                de.md              # same card but in "de" locale
+                fancy.png          # image referenced as "image: fancy.png" in .md file(s)
+                fancy-high-res.png # image retuired if "include_highres_image: true" in .md file(s)
+            the_dude/
+                en-US.md           # card named "the_dude" in "en-US"
+                abide.jpg          # image referenced from "image: abide.jpg" in .md file
 
-Images should also go into the `img` folder, but the structure under that can be whatever
-makes the most sense to you. Having at least a folder per page name that matches that of the data
-seems like a good first layer. The `home` directory under `content` above is important however,
+The `home` directory under `content` above is important,
 because it is the name by which you'll refer to all of the cards for that page when you fetch
-them in a bedrock view.
+them in a bedrock view. The next folder down (e.g. `card_1`) is also important as that's the name you'll
+use in your template where you'd like to output that card. See the [bedrock docs on this][] for more details.
 
 ## Data File Structure
 
@@ -88,6 +87,7 @@ Bedrock itself will load the files from these `{master,prod}-processed` branches
 You should see notifications of the CI process in the `#www-notify` channel on Slack.
 
 [Bedrock]: https://github.com/mozilla/bedrock
+[bedrock docs on this]: https://bedrock.readthedocs.io/en/latest/content-cards.html
 [www.mozilla.org]: https://www.mozilla.org/
 [Markdown]: https://daringfireball.net/projects/markdown/
 [yfm]: https://jekyllrb.com/docs/front-matter/
