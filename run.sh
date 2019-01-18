@@ -11,6 +11,10 @@ GIT_BRANCH_PROCESSED="${GIT_BRANCH}-processed"
 IMAGE_NAME="${DOCKER_IMAGE_NAME:-www-admin-image-processor}"
 IMAGE_NAME="${IMAGE_NAME}:${GIT_COMMIT}"
 OUTPUT_DIR="output"
+export GIT_AUTHOR_NAME="Mozmar Robot"
+export GIT_AUTHOR_EMAIL="pmac+github-mozmar-robot@mozilla.com"
+export GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
+export GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
 
 if [[ "$GIT_BRANCH" == "master" ]]; then
     BUCKET="dev"
