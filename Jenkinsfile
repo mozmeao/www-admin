@@ -1,6 +1,8 @@
 node {
+    stage ('Prepare') {
+        checkout scm
+    }
     stage('Build') {
-        echo 'Building....'
         sh './run.sh commit'
     }
 }
