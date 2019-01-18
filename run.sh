@@ -6,7 +6,11 @@ set -exo pipefail
 cp ./slack-notify.sh ../
 
 export GIT_COMMIT="$(git rev-parse HEAD)"
-export GIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+if [[ -n "${BRANCH_NAME}" ]]; then
+    export GIT_BRANCH="${BRANCH_NAME}"
+else
+    export GIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+fi
 GIT_BRANCH_PROCESSED="${GIT_BRANCH}-processed"
 IMAGE_NAME="${DOCKER_IMAGE_NAME:-www-admin-image-processor}"
 IMAGE_NAME="${IMAGE_NAME}:${GIT_COMMIT}"
