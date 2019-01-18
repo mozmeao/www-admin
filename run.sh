@@ -54,6 +54,7 @@ if [[ "$1" == "commit" ]]; then
             --cache-control "max-age=315360000, public, immutable" \
             --profile bedrock-media \
             "./static" "${S3_URL}"
+        git push github-mozmar-robot:mozmeao/www-admin.git HEAD:${GIT_BRANCH_PROCESSED}
         ../slack-notify.sh --stage "Content card update" --status shipped
     else
         echo "No updates"
