@@ -48,7 +48,12 @@ def parse_md_front_matter(lines):
 
 
 def parse_md_file(file_obj):
-    """Return the all data for file_obj."""
+    """Return the all data for file_obj.
+
+    :param file_obj pathlib.Path object of a .md file
+    :return dict of frontmatter data and the parsed Markdown in
+            the 'html_content' dict key
+    """
     with file_obj.open(encoding='utf8') as fh:
         yamltext, mdtext = parse_md_front_matter(fh)
 
@@ -60,10 +65,16 @@ def parse_md_file(file_obj):
 
 
 def clean_dirs():
+    """Delete the output directory in preparation for a clean build"""
     rmtree(str(OUTPUT_PATH), ignore_errors=True)
 
 
 def get_file_hash(file_obj):
+    """Return the md5 hash of a file
+
+    :param file_obj pathlib.Path object for a file
+    :return str md5 sum of the given file
+    """
     hasher = hashlib.md5()
     with file_obj.open('rb') as fh:
         while True:
@@ -77,6 +88,7 @@ def get_file_hash(file_obj):
 
 
 def get_hashed_filename(file_obj):
+    """Return a filename that includes the md5 hash"""
     shorthash = get_file_hash(file_obj)[:12]
     name = file_obj.stem
     ext = file_obj.suffix
@@ -85,12 +97,26 @@ def get_hashed_filename(file_obj):
 
 
 def get_highres_filename(file_obj):
+    """Return a filename for the High Resolution version of the given file.
+
+    :param file_obj Path object
+    :return Path object
+
+    >>> get_highres_filename(Path('home/card_1/dude.jpg'))
+    PosixPath('home/card_1/dude-high-res.jpg')
+    """
     name = file_obj.stem
     ext = file_obj.suffix
     return file_obj.with_name('%s-high-res%s' % (name, ext))
 
 
 def process_image_file(fobj):
+    """Calculate the hashed filename for an image and copy it to
+    that new name in the output directory.
+
+    :param fobj Path object for an image file
+    :return Path object for the new image file in the output dir
+    """
     hashed_fobj = get_hashed_filename(fobj)
     hashed_fobj.parent.mkdir(parents=True, exist_ok=True)
     print('Copying %s to %s' % (fobj, hashed_fobj))
@@ -99,6 +125,17 @@ def process_image_file(fobj):
 
 
 def process_card_images(card, data):
+    """Find and process images referenced by card file data.
+
+    If a card has an `image` field, process that image, and if it has
+    `include_highres_image: true` then calculate the high-res filename
+    and process that image as well. Once processed save the new filenames
+    to the card data. If a referenced image can't be found raise a RuntimeError.
+
+    :param card Path object for a card data file
+    :param data dict object of data parsed from `card`. Will be modified in place.
+    :return None
+    """
     if 'image' in data:
         image_path = card.parent / data['image']
         try:
@@ -119,6 +156,11 @@ def process_card_images(card, data):
 
 
 def get_json_card(card_obj):
+    """Given a card file object, return a new one for where the processed data should be written.
+
+    :param card_obj Path object for a card .md file
+    :return Path object for a .json file to which the processed data will be written.
+    """
     base_path = card_obj.parents[1]
     json_card = card_obj.with_suffix('.json')
     filename = '.'.join(json_card.parts[2:])
@@ -126,9 +168,10 @@ def get_json_card(card_obj):
 
 
 def process_card_files():
-    """Ingest .md files and produce .json files
+    """Ingest .md files and produce .json files.
 
-    Replace image paths with the hashed filename equivalents.
+    Search for all *.md files in the content directory, parse the data therein,
+    and replace image paths with the hashed filename equivalents.
     """
     cards = CARDS_PATH.glob('**/*.md')
     for card in cards:

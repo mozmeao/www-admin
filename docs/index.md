@@ -15,7 +15,7 @@ The directory layout and file names have meaning:
                 en-US.md           # card named "card_1" in "en-US" locale
                 de.md              # same card but in "de" locale
                 fancy.png          # image referenced as "image: fancy.png" in .md file(s)
-                fancy-high-res.png # image retuired if "include_highres_image: true" in .md file(s)
+                fancy-high-res.png # image required if "include_highres_image: true" in .md file(s)
             the_dude/
                 en-US.md           # card named "the_dude" in "en-US"
                 abide.jpg          # image referenced from "image: abide.jpg" in .md file
@@ -34,7 +34,7 @@ data is specially handeled however:
 
 * `image` is processed in this repo and converted to `image_url` in bedrock since bedrock
   knows the real static URL. Same for `include_highres_image`. These values should be relative
-  to the `static/img/` folder in this repo and the file(s) will be checked to make sure it exists.
+  to the card's folder and the file(s) will be checked to make sure it exists.
 * If you don't provide a `ga_title` it will be set to `title`. You may need to provide `ga_title`
   in situations where the `title` is in a different language than you'd like the GA data.
 * `media_icon` should just be the short name, e.g. "video" or "audio" and will be converted to the
@@ -50,9 +50,10 @@ Here is an example file.
 
 ```yaml
 ---
-# content/home/card_1.en-US.md
+# content/home/card_1/en-US.md
 title: "We keep your data safe, never sold."
-image: "home/ffyr.png"
+# content/home/card_1/ffyr.png
+image: "ffyr.png"
 link_url: "firefox.fights-for-you"
 tag_label: "Video"
 size: "large"
@@ -76,7 +77,7 @@ Once a change to these files is merged to the `master` branch a process in our C
 1. Calculates the md5 hash of the image file contents and adds that hash to the file name. This is similar
    to what Bedrock does to other static media and is what is called an "immutable file" for caching, since any
    change to the file will result in a different file name. This allows us to set the maximum cache expire times.
-2. Check to make sure that every image file (including high-res) referenced in a data file exists in the `static/img`
+2. Check to make sure that every image file (including high-res) referenced in a data file exists in the card
    directory and has been processed.
 3. Process the YAML and Markdown in the data files and output `.json` files that are easier to load by bedrock.
 4. Upload the static files to the s3 bucket for whichever site instance will be needed. `master` branch
