@@ -13,9 +13,11 @@ IMAGE_NAME="${IMAGE_NAME}:${GIT_COMMIT}"
 OUTPUT_DIR="output"
 
 if [[ "$GIT_BRANCH" == "master" ]]; then
-    BUCKETS=(dev)
+    BUCKET="dev"
+elif [[ "$GIT_BRANCH" == "stage" ]]; then
+    BUCKET="stage"
 elif [[ "$GIT_BRANCH" == "prod" ]]; then
-    BUCKETS=(stage prod)
+    BUCKET="prod"
 else
     # nothing to do
     echo "No matching branch. Nothing to do."
@@ -45,15 +47,13 @@ if [[ "$1" == "commit" ]]; then
         git add .
         git commit -m "Add processed card data for ${GIT_COMMIT}"
         echo "Card data update committed"
-        for BUCKET in "${BUCKETS[@]}"; do
-            S3_URL="s3://bedrock-${BUCKET}-media/media/contentcards/"
-            echo "Syncing to $S3_URL"
-            aws s3 sync \
-                --acl public-read \
-                --cache-control "max-age=315360000, public, immutable" \
-                --profile bedrock-media \
-                "./static" "${S3_URL}"
-        done
+        S3_URL="s3://bedrock-${BUCKET}-media/media/contentcards/"
+        echo "Syncing to $S3_URL"
+        aws s3 sync \
+            --acl public-read \
+            --cache-control "max-age=315360000, public, immutable" \
+            --profile bedrock-media \
+            "./static" "${S3_URL}"
         ../slack-notify.sh --stage "Content card update" --status shipped
     else
         echo "No updates"
