@@ -1,0 +1,12 @@
+process data:
+  stage: build
+  tags:
+    - meao
+  only:
+    - master
+    - stage
+    - prod
+  script:
+    - docker-compose build app
+    - docker-compose run --rm --user "$(id -u)" app
+    - ./push.sh
