@@ -84,7 +84,7 @@ Once a change to these files is merged to the `master` branch a process in our C
    changes go to dev, and `prod` branch changes go to stage and prod.
 5. Commit the changed images and new `.json` files to a new `master-processed` branch and push that to the repo.
 
-Bedrock itself will load the files from these `{master,prod}-processed` branches (depending on which bedrock it is).
+Bedrock itself will load the files from these `{master,stage,prod}-processed` branches (depending on which bedrock it is).
 You should see notifications of the CI process in the `#www-notify` channel on Slack.
 
 [Bedrock]: https://github.com/mozilla/bedrock
