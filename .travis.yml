@@ -1,0 +1,11 @@
+language: python
+services:
+  - docker
+before_install:
+  - docker -v
+  - docker-compose -v
+install:
+  - docker-compose build --pull app
+script:
+  - docker-compose run --rm --user "$(id -u)" app
+  - ls -lR output

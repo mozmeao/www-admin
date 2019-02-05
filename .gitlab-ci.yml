@@ -7,6 +7,6 @@ process data:
     - stage
     - prod
   script:
-    - docker-compose build app
+    - docker-compose build --pull app
     - docker-compose run --rm --user "$(id -u)" app
     - ./push.sh
