@@ -51,8 +51,8 @@ if [[ "$1" == "commit" ]]; then
     rm -rf content static
     mv ${OUTPUT_DIR}/* ./
     rm -rf "$OUTPUT_DIR"
+    git add content static
     if git status --porcelain | grep ".json"; then
-        git add .
         git commit -m "Add processed card data for ${GIT_COMMIT}"
         echo "Card data update committed"
         S3_URL="s3://bedrock-${BUCKET}-media/media/contentcards/"
