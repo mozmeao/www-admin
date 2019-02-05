@@ -1,11 +1,11 @@
 ---
 # card 11
-title: "Data Leeks: Recipes for online privacy"
-image: "leeks.jpg"
-link_url: "https://www.dataleeks.com?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Security"
-size: "small"
-aspect_ratio: "16-9"
-include_highres_image: true
-desc: "Not convinced that a data breach could have real, personal implications? These stories might change your mind."
+title: "Protect your family's privacy"
+image: "family-privacy.jpg"
+link_url: "https://blog.mozilla.org/internetcitizen/2019/01/28/firefox-fights-for-your-familys-privacy/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Privacy"
+size: "medium"
+aspect_ratio: "3-2"
+include_highres_image: false
+desc: "By the time a child turns 18, their digital footprint will be huge. Here are a few ways to look out for your family's privacy."
 ---

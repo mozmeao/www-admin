@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "Goodbye, EdgeHTML"
-image: "edge.png"
-link_url: "https://blog.mozilla.org/blog/2018/12/06/goodbye-edge/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Internet Health"
+title: "Hacking the STEM syllabus"
+image: "stem.png"
+link_url: "https://www.weforum.org/agenda/2018/12/hacking-the-stem-syllabus/"
+tag_label: "Op-Ed: Mitchell Baker"
 size: "small"
 aspect_ratio: "1-1"
 include_highres_image: true
-desc: "Microsoft is giving up on an independent shared platform for the internet, and in doing so, hands over control of more of online life to Google."
+desc: "The way we teach STEM is out of date. Here's how we can update it."
 ---

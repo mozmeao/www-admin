@@ -1,11 +1,11 @@
 ---
 # card 7
-title: "Pocket’s best of 2018"
-image: "best-pocket.png"
-link_url: "https://getpocket.com/blog/2018/11/2018-must-reads-on-pocket?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Pocket"
+title: "Women in emerging technology"
+image: "women-emerging-tech.png"
+link_url: "https://blog.mozilla.org/blog/2019/01/25/mozilla-fosters-the-next-generation-of-women-in-emerging-technologies/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Diversity + Inclusion"
 size: "medium"
-aspect_ratio: "16-9"
-include_highres_image: true
-desc: "Lose yourself in the articles, videos and publishers that captured the attention of the Pocket community this year."
+aspect_ratio: "3-2"
+include_highres_image: false
+desc: "Create your own inclusive development space in your community, city or company with our toolkit."
 ---

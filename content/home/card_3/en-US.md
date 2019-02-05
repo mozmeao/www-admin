@@ -1,11 +1,11 @@
 ---
 # card 3
-title: "Get the latest Firefox"
-image: "firefox.jpg"
-link_url: "https://blog.mozilla.org/blog/2018/12/11/latest-firefox-release-available-today/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Firefox"
+title: "Fine tune your privacy preferences"
+image: "privacy-prefs.png"
+link_url: "https://blog.mozilla.org/firefox/control-trackers-with-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Privacy"
 size: "small"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "This version of Firefox has a couple of new features that simplify and personalize your online experience."
+desc: "Tired of online ads that seems to know too much? Time to take back control over which sites and companies can track you."
 ---
