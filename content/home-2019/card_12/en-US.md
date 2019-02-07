@@ -1,7 +1,7 @@
 ---
 # card 12
 title: "Protect yourself with Firefox Monitor"
-image: "firefox-monitor.png"
+image: "firefox-monitor.jpg"
 link_url: "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 tag_label: "Security"
 size: "medium"
