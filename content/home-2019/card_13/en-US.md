@@ -7,5 +7,5 @@ tag_label: "Developers"
 size: "medium"
 aspect_ratio: "3-2"
 include_highres_image: false
-desc: "Get the latest features, fast performance and the development tools you need to build for the open web with Firefox Develop Edition."
+desc: "Get the latest features, fast performance and the development tools you need to build for the open web with Firefox Developer Edition."
 ---
