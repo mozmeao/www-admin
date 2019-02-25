@@ -1,8 +1,8 @@
 {
   "aspect_ratio": "16-9",
   "desc": "Firefox respektiert Deine Privatsphäre und macht es Dir leicht, Deine Daten zu schützen. Du entscheidest, was Du teilst und wann.",
-  "image": "home-de/card_1/fights-for-you.7ac1710888e4.png",
-  "include_highres_image": false,
+  "highres_image": "home-de/card_1/fights-for-you-high-res.0fa8a2a74bdf.jpg",
+  "image": "home-de/card_1/fights-for-you.98b2487acee3.jpg",
   "link_url": "https://www.mozilla.org/firefox/fights-for-you/",
   "media_icon": "video",
   "size": "large",
