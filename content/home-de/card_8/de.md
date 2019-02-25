@@ -1,7 +1,7 @@
 ---
 # card 8
 title: "Die heißeste Währung im Internet?"
-image: "advertising.png"
+image: "attention.png"
 link_url: "https://blog.mozilla.org/berlin/die-heisseste-waehrung-im-internet-deine-aufmerksamkeit/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card"
 tag_label: "Gastbeitrag"
 size: "small"
