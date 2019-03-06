@@ -1,11 +1,11 @@
 ---
 # card 7
-title: "Women in emerging technology"
-image: "women-emerging-tech.png"
-link_url: "https://blog.mozilla.org/blog/2019/01/25/mozilla-fosters-the-next-generation-of-women-in-emerging-technologies/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Diversity + Inclusion"
+title: "Gender diversity and inclusion in tech"
+image: "irl-women.png"
+link_url: "https://irlpodcast.org/season4/episode7/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Podcast"
 size: "medium"
-aspect_ratio: "3-2"
-include_highres_image: false
-desc: "Create your own inclusive development space in your community, city or company with our toolkit."
+aspect_ratio: "16-9"
+include_highres_image: true
+desc: "Find out why a pair of entrepreneurs created a fake man to join their team and send emails on their behalf in this episode of IRL."
 ---

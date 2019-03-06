@@ -1,11 +1,11 @@
 ---
 # card 8
-title: "Mozilla Hacks’ top 10 posts of 2018"
-image: "top-10.png"
-link_url: "https://hacks.mozilla.org/2018/12/mozilla-hacks-10-most-read-posts-of-2018/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Developers"
+title: "Firefox Reality is coming to HoloLens 2"
+image: "firefox-reality.jpg"
+link_url: "https://blog.mozvr.com/bringing-firefox-reality-to-hololens-2/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Emerging Technologies"
 size: "medium"
 aspect_ratio: "3-2"
 include_highres_image: true
-desc: "Our top posts ran the gamut – JavaScript and WebAssembly, CSS, the Web of Things and more. What else did we learn? People like code cartoons!"
+desc: "We are excited to announce that we’re working with Microsoft to bring the immersive web to the HoloLens 2 mixed reality headset."
 ---
