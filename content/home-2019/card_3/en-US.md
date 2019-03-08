@@ -1,11 +1,11 @@
 ---
 # card 3
-title: "Fine tune your privacy preferences"
-image: "privacy-prefs.png"
-link_url: "https://blog.mozilla.org/firefox/control-trackers-with-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Privacy"
+title: "Not all internet emergencies are equal"
+image: "internet-emergency.png"
+link_url: "https://blog.mozilla.org/firefox/when-an-internet-emergency-strikes/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Security"
 size: "small"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "Tired of online ads that seems to know too much? Time to take back control over which sites and companies can track you."
+desc: "Breaches, hacks, leaks and viruses are all serious security concerns. How you respond depends on the type of emergency you’re facing."
 ---
