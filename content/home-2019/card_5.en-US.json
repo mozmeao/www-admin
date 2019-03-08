@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Prevent Facebook from tracking you across the web with our Facebook Container extension.",
-  "highres_image": "home-2019/card_5/facebook-container-high-res.3e0c13f12acc.png",
-  "image": "home-2019/card_5/facebook-container.3956b377c407.png",
-  "link_url": "https://www.mozilla.org/firefox/facebookcontainer/",
+  "desc": "Fast Company: How Mozilla moved fast to block Facebook and other privacy invaders from your web browser.",
+  "highres_image": "home-2019/card_5/fast-company-high-res.921d03a6df2c.png",
+  "image": "home-2019/card_5/fast-company.86d305414b7b.png",
+  "link_url": "https://blog.mozilla.org/internetcitizen/2019/03/05/fast-company-innovative-2019/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Privacy",
-  "title": "Facebook, contained"
+  "tag_label": "Fast Company",
+  "title": "The World’s 50 Most Innovative Companies"
 }
