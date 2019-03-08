@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "We created a free, 5-part video course with Glitch to help anyone dive into creating virtual reality experiences.",
-  "highres_image": "home-2019/card_4/webvr-starter-high-res.88c1add91f66.jpg",
-  "image": "home-2019/card_4/webvr-starter.6015565f2697.jpg",
-  "link_url": "https://hacks.mozilla.org/2019/02/webvr-starter-kit-mozilla-glitch/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Pick up where you left off, from computer to mobile, by instantly sending tabs between devices without leaving your browser.",
+  "image": "home-2019/card_4/send-tabs.a54c622f55bc.png",
+  "include_highres_image": false,
+  "link_url": "https://blog.mozilla.org/firefox/send-tabs-a-better-way/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
   "tag_label": "Developers",
-  "title": "WebVR starter kit"
+  "title": "Stop texting yourself links"
 }

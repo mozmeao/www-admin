@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "3-2",
-  "desc": "Create your own inclusive development space in your community, city or company with our toolkit.",
-  "image": "home-2019/card_7/women-emerging-tech.4415d15713ca.png",
-  "include_highres_image": false,
-  "link_url": "https://blog.mozilla.org/blog/2019/01/25/mozilla-fosters-the-next-generation-of-women-in-emerging-technologies/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "16-9",
+  "desc": "Find out why a pair of entrepreneurs created a fake man to join their team and send emails on their behalf in this episode of IRL.",
+  "highres_image": "home-2019/card_7/irl-women-high-res.9e3e407ffb39.png",
+  "image": "home-2019/card_7/irl-women.65ef77c75391.png",
+  "link_url": "https://irlpodcast.org/season4/episode7/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Diversity + Inclusion",
-  "title": "Women in emerging technology"
+  "tag_label": "Podcast",
+  "title": "Gender diversity and inclusion in tech"
 }

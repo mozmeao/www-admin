@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Our top posts ran the gamut – JavaScript and WebAssembly, CSS, the Web of Things and more. What else did we learn? People like code cartoons!",
-  "highres_image": "home-2019/card_8/top-10-high-res.5c8c3f7d0d53.png",
-  "image": "home-2019/card_8/top-10.478bf6c946f2.png",
-  "link_url": "https://hacks.mozilla.org/2018/12/mozilla-hacks-10-most-read-posts-of-2018/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "We are excited to announce that we’re working with Microsoft to bring the immersive web to the HoloLens 2 mixed reality headset.",
+  "highres_image": "home-2019/card_8/firefox-reality-high-res.5c61cb05c841.jpg",
+  "image": "home-2019/card_8/firefox-reality.5a96cadc290e.jpg",
+  "link_url": "https://blog.mozvr.com/bringing-firefox-reality-to-hololens-2/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Developers",
-  "title": "Mozilla Hacks’ top 10 posts of 2018"
+  "tag_label": "Emerging Technologies",
+  "title": "Firefox Reality is coming to HoloLens 2"
 }

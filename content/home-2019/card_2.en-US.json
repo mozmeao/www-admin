@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "The way we teach STEM is out of date. Here's how we can update it.",
-  "highres_image": "home-2019/card_2/stem-high-res.753940914b4c.png",
-  "image": "home-2019/card_2/stem.60d256934dc8.png",
-  "link_url": "https://www.weforum.org/agenda/2018/12/hacking-the-stem-syllabus/",
+  "desc": "We asked women whose work we admire what they hope for women on the web. Here’s what they had to say.",
+  "highres_image": "home-2019/card_2/women-web-high-res.d290743cbf90.png",
+  "image": "home-2019/card_2/women-web.8e297ec36a82.png",
+  "link_url": "https://blog.mozilla.org/internetcitizen/2019/03/08/international-womens-day-2019/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Op-Ed: Mitchell Baker",
-  "title": "Hacking the STEM syllabus"
+  "tag_label": "Diversity + Inclusion",
+  "title": "Celebrating women and the web"
 }
