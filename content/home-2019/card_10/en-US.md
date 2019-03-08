@@ -7,5 +7,5 @@ tag_label: "Security"
 size: "medium"
 aspect_ratio: "3-2"
 include_highres_image: false
-desc: "In an increasingly connected world, the issues associated with insecure passwords and accounts will only increase. Take steps to protect your family."
+desc: "In a connected world, the issues associated with insecure passwords and accounts will only increase. Take steps to protect your family."
 ---
