@@ -1,11 +1,13 @@
 ---
 # card 1
-title: "Get the latest Firefox"
-image: "firefox-quantum.jpg"
-link_url: "https://www.mozilla.org/firefox/"
-tag_label: "Firefox"
+title: "Simple, private file sharing"
+image: "send.png"
+link_url: "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+tag_label: "Video"
 size: "large"
 aspect_ratio: "16-9"
-include_highres_image: false
-desc: "Firefox keeps what’s personal private. You decide what to share and when, because your life is your business, not ours."
+include_highres_image: true
+desc: "Get free file transfers with end-to-end encryption and a link that automatically expires with Firefox Send. Try it."
+youtube_id: "eRHpEn2eHJA"
+media_icon: "video"
 ---
