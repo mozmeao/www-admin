@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Firefox keeps what’s personal private. You decide what to share and when, because your life is your business, not ours.",
-  "image": "home-2019/card_1/firefox-quantum.dd1da4f34b25.jpg",
-  "include_highres_image": false,
-  "link_url": "https://www.mozilla.org/firefox/",
+  "desc": "Get free file transfers with end-to-end encryption and a link that automatically expires with Firefox Send. Try it.",
+  "highres_image": "home-2019/card_1/send-high-res.4d2798fec284.png",
+  "image": "home-2019/card_1/send.1df9b5a3174a.png",
+  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "large",
-  "tag_label": "Firefox",
-  "title": "Get the latest Firefox"
+  "tag_label": "Video",
+  "title": "Simple, private file sharing",
+  "youtube_id": "eRHpEn2eHJA"
 }
