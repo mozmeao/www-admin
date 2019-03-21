@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Breaches, hacks, leaks and viruses are all serious security concerns. How you respond depends on the type of emergency you’re facing.",
-  "highres_image": "home-2019/card_3/internet-emergency-high-res.3e96845cab33.png",
-  "image": "home-2019/card_3/internet-emergency.90ef261693c6.png",
-  "link_url": "https://blog.mozilla.org/firefox/when-an-internet-emergency-strikes/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "ISO technologists, activists, policy experts and scientists to help ensure the internet remains a force for good.",
+  "highres_image": "home-2019/card_3/fellowship-high-res.48efebdb5cee.jpg",
+  "image": "home-2019/card_3/fellowship.0392caf5a6be.jpg",
+  "link_url": "https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Security",
-  "title": "Not all internet emergencies are equal"
+  "tag_label": "Mozilla Fellows",
+  "title": "Apply to be a Mozilla Fellow"
 }
