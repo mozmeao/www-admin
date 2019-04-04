@@ -1,11 +1,11 @@
 ---
 # card 3
-title: "Apply to be a Mozilla Fellow"
-image: "fellowship.jpg"
-link_url: "https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Mozilla Fellows"
+title: "Add-ons to tidy up and spark joy"
+tag_label: "Extensions"
+desc: "We may not be able to help with a cluttered closet, but here are some exceptional extensions to help with digital disorder."
+link_url: "https://blog.mozilla.org/firefox/spring-cleaning-with-browser-extensions/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
+image: "spring.png"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "ISO technologists, activists, policy experts and scientists to help ensure the internet remains a force for good."
 ---

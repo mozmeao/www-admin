@@ -1,11 +1,11 @@
 ---
 # card 10
-title: "Build a nest of privacy and security"
-image: "security-nest.png"
-link_url: "https://blog.mozilla.org/internetcitizen/2019/02/14/how-to-build-a-nest-of-privacy-and-security-using-better-passwords/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Security"
+title: "WebVR starter kit"
+tag_label: "Developers"
+desc: "We created a free, 5-part video course with Glitch to help anyone dive into creating virtual reality experiences."
+link_url: "https://hacks.mozilla.org/2019/02/webvr-starter-kit-mozilla-glitch/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-aspect_ratio: "3-2"
+image: "tv.jpg"
+aspect_ratio: "16-9"
 include_highres_image: false
-desc: "In a connected world, the issues associated with insecure passwords and accounts will only increase. Take steps to protect your family."
 ---

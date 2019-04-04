@@ -1,11 +1,13 @@
 ---
 # card 7
-title: "Gender diversity and inclusion in tech"
-image: "irl-women.png"
-link_url: "https://irlpodcast.org/season4/episode7/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Podcast"
+title: "The tablet experience you deserve"
+tag_label: "Video"
+desc: "Learn a few tips and tricks to have an ideal tablet experience with Firefox."
+link_url: "https://blog.mozilla.org/firefox/firefox-for-ipad-tips/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-aspect_ratio: "16-9"
+image: "ipad.png"
+aspect_ratio: "3-2"
 include_highres_image: true
-desc: "Find out why a pair of entrepreneurs created a fake man to join their team and send emails on their behalf in this episode of IRL."
+youtube_id: "_l8vdYC_bLo"
+media_icon: "video"
 ---

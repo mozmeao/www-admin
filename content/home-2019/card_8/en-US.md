@@ -1,11 +1,13 @@
 ---
 # card 8
-title: "Firefox Reality is coming to HoloLens 2"
-image: "firefox-reality.jpg"
-link_url: "https://blog.mozvr.com/bringing-firefox-reality-to-hololens-2/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Emerging Technologies"
+title: "Standardizing WASI"
+tag_label: "Video"
+desc: "Announcing the start of a new standardization effort — WASI, the WebAssembly system interface."
+link_url: "https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-aspect_ratio: "3-2"
+image: "wasi.png"
+aspect_ratio: "16-9"
 include_highres_image: true
-desc: "We are excited to announce that we’re working with Microsoft to bring the immersive web to the HoloLens 2 mixed reality headset."
+youtube_id: "ggtEJC0Jv8A"
+media_icon: "video"
 ---

@@ -1,11 +1,13 @@
 ---
 # card 6
-title: "The antidote to Big Tech?"
-image: "irl-decentralize.png"
-link_url: "https://irlpodcast.org/season4/episode6/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-tag_label: "Podcast"
+title: "Better password management is here"
+tag_label: "Video"
+desc: "Keep track of your passwords with Firefox Lockbox on your Android and iOS devices."
+link_url: "https://lockbox.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+image: "lockbox.png"
 size: "medium"
-aspect_ratio: "16-9"
+aspect_ratio: "3-2"
 include_highres_image: true
-desc: "Some people believe that decentralization is the inevitable future of the web. But would it be as utopian as advocates suggest?"
+youtube_id: "PVbrmWFRt_k"
+media_icon: "video"
 ---

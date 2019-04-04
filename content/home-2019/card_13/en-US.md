@@ -1,11 +1,11 @@
 ---
 # card 13
-title: "Are you a developer?"
-image: "developer-edition.png"
-link_url: "https://www.mozilla.org/firefox/developer/"
-tag_label: "Developers"
+title: "Meet the content cleaners"
+tag_label: "Podcast"
+desc: "Content moderation is a difficult job. It also raises questions about censorship and free expression online. Listen in."
+link_url: "https://irlpodcast.org/season4/episode4/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-aspect_ratio: "3-2"
-include_highres_image: false
-desc: "Get the latest features, fast performance and the development tools you need to build for the open web with Firefox Developer Edition."
+image: "content.png"
+aspect_ratio: "16-9"
+include_highres_image: true
 ---
