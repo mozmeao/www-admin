@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "ISO technologists, activists, policy experts and scientists to help ensure the internet remains a force for good.",
-  "highres_image": "home-2019/card_3/fellowship-high-res.48efebdb5cee.jpg",
-  "image": "home-2019/card_3/fellowship.0392caf5a6be.jpg",
-  "link_url": "https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "We may not be able to help with a cluttered closet, but here are some exceptional extensions to help with digital disorder.",
+  "highres_image": "home-2019/card_3/spring-high-res.10384fa1cc2e.png",
+  "image": "home-2019/card_3/spring.71d071b0395d.png",
+  "link_url": "https://blog.mozilla.org/firefox/spring-cleaning-with-browser-extensions/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Mozilla Fellows",
-  "title": "Apply to be a Mozilla Fellow"
+  "tag_label": "Extensions",
+  "title": "Add-ons to tidy up and spark joy"
 }

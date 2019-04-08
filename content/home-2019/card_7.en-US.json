@@ -1,10 +1,12 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "Find out why a pair of entrepreneurs created a fake man to join their team and send emails on their behalf in this episode of IRL.",
-  "highres_image": "home-2019/card_7/irl-women-high-res.9e3e407ffb39.png",
-  "image": "home-2019/card_7/irl-women.65ef77c75391.png",
-  "link_url": "https://irlpodcast.org/season4/episode7/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "Learn a few tips and tricks to have an ideal tablet experience with Firefox.",
+  "highres_image": "home-2019/card_7/ipad-high-res.dfc99ef32aa9.png",
+  "image": "home-2019/card_7/ipad.9f720c9decd7.png",
+  "link_url": "https://blog.mozilla.org/firefox/firefox-for-ipad-tips/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "medium",
-  "tag_label": "Podcast",
-  "title": "Gender diversity and inclusion in tech"
+  "tag_label": "Video",
+  "title": "The tablet experience you deserve",
+  "youtube_id": "_l8vdYC_bLo"
 }
