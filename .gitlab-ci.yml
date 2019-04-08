@@ -3,8 +3,8 @@ process data:
   tags:
     - meao
   only:
+    - dev
     - master
-    - stage
     - prod
   script:
     - docker-compose build --pull app

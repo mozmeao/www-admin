@@ -70,9 +70,26 @@ If there was markdown content it would go *here*.
 We aren't currently using the Markdown content for the home page data, but it does work and is synced
 to the bedrock database for future use. Also note that any unicode character should work ([emoji included][]).
 
+## Local Validation
+
+If you'd like to check processing locally before pusing to the main repo and waiting for CI, you may run the following command:
+
+```bash
+$ docker-compose run app
+```
+
+If it completes successfully you can see the results in an `output` directory. If anything is wrong with YAML or image processing
+the command will fail with an error message.
+
 ## Deployment Process
 
-Once a change to these files is merged to the `master` branch a process in our CI does several things:
+In order to get your changes onto [dev][] you should push to the `dev` branch. You can do this before any pull-request
+or code review happens in order to get content review by the requesting team. Once that is tweaked and approved you should open
+a pull-request from `dev` (or whatever branch you want really) to `master` for code-review from a teammate. This pull-request
+isn't required as successful deployment and content approval is all that is really needed for review, but if you would like
+extra review then this is the time to do it.
+
+Once a change to these files is merged to the `master` (or `dev` or `prod`) branch a process in our CI does several things:
 
 1. Calculates the md5 hash of the image file contents and adds that hash to the file name. This is similar
    to what Bedrock does to other static media and is what is called an "immutable file" for caching, since any
@@ -81,15 +98,24 @@ Once a change to these files is merged to the `master` branch a process in our C
    directory and has been processed.
 3. Process the YAML and Markdown in the data files and output `.json` files that are easier to load by bedrock.
 4. Upload the static files to the s3 bucket for whichever site instance will be needed. `master` branch
-   changes go to dev, and `prod` branch changes go to stage and prod.
+   changes go to [stage][], and `prod` branch changes go to [prod][].
 5. Commit the changed images and new `.json` files to a new `master-processed` branch and push that to the repo.
 
-Bedrock itself will load the files from these `{master,stage,prod}-processed` branches (depending on which bedrock it is).
+Bedrock itself will load the files from these `{dev,master,prod}-processed` branches (depending on which bedrock it is).
 You should see notifications of the CI process in the `#www-notify` channel on Slack.
+
+Once again, to be clear, the branch to bedrock instance mapping is as follows:
+
+* `dev` -> [dev][]
+* `master` -> [stage][]
+* `prod` -> [prod][]
 
 [Bedrock]: https://github.com/mozilla/bedrock
 [bedrock docs on this]: https://bedrock.readthedocs.io/en/latest/content-cards.html
 [www.mozilla.org]: https://www.mozilla.org/
+[prod]: https://www.mozilla.org/
+[stage]: https://www.allizom.org/
+[dev]: https://www-dev.allizom.org/
 [Markdown]: https://daringfireball.net/projects/markdown/
 [yfm]: https://jekyllrb.com/docs/front-matter/
 [Jekyll]: https://jekyllrb.com/
