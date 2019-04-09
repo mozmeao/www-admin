@@ -1,10 +1,12 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "Some people believe that decentralization is the inevitable future of the web. But would it be as utopian as advocates suggest?",
-  "highres_image": "home-2019/card_6/irl-decentralize-high-res.71043e74e17e.png",
-  "image": "home-2019/card_6/irl-decentralize.f40fe0a89aaa.png",
-  "link_url": "https://irlpodcast.org/season4/episode6/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "Keep track of your passwords with Firefox Lockbox on your Android and iOS devices.",
+  "highres_image": "home-2019/card_6/lockbox-high-res.dadb25a36e87.png",
+  "image": "home-2019/card_6/lockbox.f692a4708a9b.png",
+  "link_url": "https://lockbox.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "medium",
-  "tag_label": "Podcast",
-  "title": "The antidote to Big Tech?"
+  "tag_label": "Video",
+  "title": "Better password management is here",
+  "youtube_id": "PVbrmWFRt_k"
 }

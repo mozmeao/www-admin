@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "3-2",
-  "desc": "Go behind the scenes to see how Mozilla’s Josh Marinacci built Jingle Smash, a block smashing WebVR game.",
-  "image": "home-2019/card_9/jingle-smash.7b1bf13e4aee.jpg",
-  "include_highres_image": false,
-  "link_url": "https://blog.mozvr.com/how-i-made-jingle-smash/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "16-9",
+  "desc": "This guide offers advice for creating and formatting content to best display on the immersive web in Firefox Reality.",
+  "highres_image": "home-2019/card_9/vr-high-res.c6de7d735bb8.jpg",
+  "image": "home-2019/card_9/vr.e8a4f94a78c7.jpg",
+  "link_url": "https://blog.mozvr.com/content-creation-guide/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
   "tag_label": "Developers",
-  "title": "Jingle Smash, a WebVR puzzler"
+  "title": "Immersive Media Content Creation Guide"
 }
