@@ -6,6 +6,6 @@ link_url: "https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?ut
 tag_label: "Add-On"
 size: "medium"
 aspect_ratio: "16-9"
-include_highres_image: false
+include_highres_image: true
 desc: "Prevent your likes, and dislikes from determining what ads you see online outside of Facebook."
 ---
