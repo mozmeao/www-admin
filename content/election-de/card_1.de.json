@@ -1,12 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Hol dir online die Kontrolle zurück. Firefox hilft dir dabei.",
+  "desc": "Kontrolliere selbst, wie Webseiten dich im Internet tracken können – mit dem verbesserten Tracking-Schutz in Firefox.",
   "highres_image": "election-de/card_1/one-high-res.bfb2359f1dd3.png",
   "image": "election-de/card_1/one.7a24084512e4.png",
-  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
+  "link_url": "https://www.youtube.com/watch?v=skqzOOQEQQ4",
   "media_icon": "video",
   "size": "large",
   "tag_label": "Tracking",
-  "title": "Lass dich nicht manipulieren",
-  "youtube_id": "eRHpEn2eHJA"
+  "title": "Verbesserter Tracking-Schutz in Firefox",
+  "youtube_id": "skqzOOQEQQ4"
 }

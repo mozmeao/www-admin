@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "FactCheckEU: Hier findest du Faktenchecks und Recherchen von 19 europäischen Medien aus 13 Ländern.",
+  "desc": "Das Add-on BotCheck.me analysiert Twitter-Accounts nach Propaganda-Bot-Mustern. Füge es einfach zu deinem Browser hinzu.",
   "highres_image": "election-de/card_8/eight-high-res.751222f31f47.png",
   "image": "election-de/card_8/eight.5126b33ac208.png",
-  "link_url": "https://factcheckeu.info/",
+  "link_url": "https://addons.mozilla.org/firefox/addon/botcheck-me/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
   "size": "medium",
-  "tag_label": "",
-  "title": "Fakten checken. Wählen gehen"
+  "tag_label": "Resource",
+  "title": "Mensch oder Bot?"
 }

@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "The interactive site of the European Parliament provides information on the most important topics of EU policy. ",
-  "highres_image": "election-en/card_9/nine-high-res.eda930da7346.png",
-  "image": "election-en/card_9/nine.d77a901baad7.png",
-  "link_url": "https://what-europe-does-for-me.eu/en/portal",
+  "desc": "FactCheckEU: 19 European media outlets from 13 countries are fact-checking the EU parliament elections for you.",
+  "image": "election-en/card_9/nine.e07dd4397484.png",
+  "include_highres_image": false,
+  "link_url": "https://factcheckeu.info/",
   "size": "medium",
-  "tag_label": "EU-Wahlen",
-  "title": "What does the EU do for you & your region?"
+  "tag_label": "Resource",
+  "title": "Check facts. Go vote."
 }

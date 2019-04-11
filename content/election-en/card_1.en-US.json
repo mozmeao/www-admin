@@ -1,12 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Take back control online with Firefox.",
+  "desc": "Take control of how websites track you on the internet with Firefox's enhanced tracking protection. Here's how.",
   "highres_image": "election-en/card_1/one-high-res.bfb2359f1dd3.png",
   "image": "election-en/card_1/one.7a24084512e4.png",
-  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
+  "link_url": "https://www.youtube.com/watch?v=QtEMYSJyd-c/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
   "media_icon": "video",
   "size": "large",
-  "tag_label": "Tracking",
-  "title": "Are you being manipulated online?",
-  "youtube_id": "eRHpEn2eHJA"
+  "tag_label": "Video",
+  "title": "Improved tracking protection in Firefox",
+  "youtube_id": "QtEMYSJyd-c"
 }

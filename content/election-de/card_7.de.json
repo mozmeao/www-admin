@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Auf vielen Websites werden Cookies gesetzt, die dir später noch durchs Web folgen. Mit Firefox kannst du Online-Tracking einfach blockieren.",
-  "highres_image": "election-de/card_7/seven-high-res.af9913394ec7.png",
-  "image": "election-de/card_7/seven.d1f1b76f07c1.png",
-  "link_url": "https://blog.mozilla.org/firefox/de/verbesserter-tracking-schutz-von-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
+  "desc": "Die interaktive Seite vom europäischen Parlament informiert zu den wichtigsten Themen der EU-Politik. ",
+  "highres_image": "election-de/card_7/seven-high-res.eda930da7346.png",
+  "image": "election-de/card_7/seven.d77a901baad7.png",
+  "link_url": "https://what-europe-does-for-me.eu/portal/",
   "size": "medium",
-  "tag_label": "Firefox",
-  "title": "Mehr Privatsphäre: Lass Tracker draußen"
+  "tag_label": "EU-Wahlen",
+  "title": "Was tut die EU für dich & deine Region?"
 }

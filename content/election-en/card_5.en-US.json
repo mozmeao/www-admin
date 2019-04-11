@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "You want to know who's behind the advertising you see on the web and why you see it? This tool can help.",
-  "highres_image": "election-en/card_5/five-high-res.346670c6d438.png",
-  "image": "election-en/card_5/five.983c05d1c5fa.png",
-  "link_url": "https://blog.mozilla.org/internetcitizen/2019/03/05/fast-company-innovative-2019/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
+  "desc": "Every vote counts toward a better future. Invite your friends and family throughout the EU to vote, too.",
+  "highres_image": "election-en/card_5/five-high-res.dd165b9ae81d.png",
+  "image": "election-en/card_5/five.c8d37b39d8db.png",
+  "link_url": "https://www.thistimeimvoting.eu/",
   "size": "small",
-  "tag_label": "",
-  "title": "Why am I seeing this ad?"
+  "tag_label": "Voter drive",
+  "title": "When everyone votes, everyone wins"
 }
