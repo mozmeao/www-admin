@@ -1,11 +1,11 @@
 ---
 # card 5
-title: "Die Werbung, die ich rief?"
+title: "Europa, du hast die Wahl"
 image: "five.png"
-link_url: "https://blog.mozilla.org/internetcitizen/2019/03/05/fast-company-innovative-2019/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card"
-tag_label: ""
+link_url: "https://www.thistimeimvoting.eu/"
+tag_label: "EU-Wahlen"
 size: "small"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "Du willst wissen, von wem die Werbung kommt, die dir im Web begegnet und warum du sie siehst? Dieses Tool kann helfen."
+desc: "Warum du bei der EU-Wahl im Mai 2019 wählen solltest und wie du auch andere davon überzeugst, ihre Stimme abzugeben."
 ---

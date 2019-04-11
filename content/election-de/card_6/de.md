@@ -1,11 +1,11 @@
 ---
 # card 6
-title: "Container auf, Facebook rein"
+title: "Privatsphäre-Optionen in Firefox"
 image: "six.png"
-link_url: "https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card"
-tag_label: "Add-On"
+link_url: "https://blog.mozilla.org/firefox/de/verbesserter-tracking-schutz-von-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card"
+tag_label: "Firefox"
 size: "medium"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "Verhindere, dass deine Likes und Shares ausserhalb von Facebook bestimmen, welche Werbung du online siehst."
+desc: "In Firefox hast du jetzt mehr Kontrolle darüber, welche Websites, Unternehmen und Kampagnen dich tracken können. So geht's."
 ---

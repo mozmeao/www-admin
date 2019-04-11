@@ -1,11 +1,11 @@
 ---
 # card 7
-title: "More privacy: Leave Tracker outside"
+title: "What does the EU do for you?"
 image: "seven.png"
-link_url: "https://blog.mozilla.org/firefox/control-trackers-with-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card"
-tag_label: "Firefox"
+link_url: "https://what-europe-does-for-me.eu/portal"
+tag_label: "Resource"
 size: "medium"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "Many websites set cookies that follow you  through the web. With Firefox you can easily block online tracking."
+desc: "Check out the European Parliament's interactive site to explore the impact of projects, policies and initiatives across the EU."
 ---
