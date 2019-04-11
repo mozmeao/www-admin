@@ -2,7 +2,7 @@
 # card 6
 title: "Fine tune your privacy preferences"
 image: "six.png"
-link_url: "https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card"
+link_url: "https://blog.mozilla.org/firefox/control-trackers-with-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card"
 tag_label: "Privacy"
 size: "medium"
 aspect_ratio: "16-9"
