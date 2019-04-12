@@ -1,7 +1,7 @@
 ---
 # card 4
 title: "Gut informiert und selbstbestimmt wählen"
-image: "four.png"
+image: "four.jpg"
 link_url: "https://blog.mozilla.org/internetcitizen/de/2019/04/08/eu-wahl-warum-waehlen-so-wichtig-ist-und-wie-du-manipulation-vermeidest/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card"
 tag_label: "Policy"
 size: "small"
