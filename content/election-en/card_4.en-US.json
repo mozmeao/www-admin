@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Why you should vote in the May 2019 EU Parliament election and how to convince others to join you.",
-  "highres_image": "election-en/card_4/four-high-res.751222f31f47.png",
-  "image": "election-en/card_4/four.5126b33ac208.png",
-  "link_url": "https://www.thistimeimvoting.eu/",
+  "desc": "Disinformation isn’t new, but the ability to spread it virally and target it at voters means the stakes are higher than ever before.",
+  "highres_image": "election-en/card_4/four-high-res.784da7a93a9d.jpg",
+  "image": "election-en/card_4/four.0b4453922abf.jpg",
+  "link_url": "https://blog.mozilla.org/internetcitizen/2019/04/08/eu-parliament-elections-why-it-matters-and-what-you-can-do-to-fight-back-against-manipulation/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
   "size": "small",
-  "tag_label": "EU-Wahlen",
-  "title": "Europe, you have a choice."
+  "tag_label": "Policy",
+  "title": "Fight back against election manipulation"
 }

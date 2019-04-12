@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "3-2",
-  "desc": "card 8",
-  "highres_image": "election-en/card_8/eight-high-res.751222f31f47.png",
-  "image": "election-en/card_8/eight.5126b33ac208.png",
-  "link_url": "https://factcheckeu.info/",
+  "aspect_ratio": "16-9",
+  "desc": "The BotCheck.me extension analyzes Twitter accounts for potential propaganda bot patterns. Just add it to your browser.",
+  "highres_image": "election-en/card_8/eight-high-res.4d890ed9180e.png",
+  "image": "election-en/card_8/eight.2c7e0426080e.png",
+  "link_url": "https://addons.mozilla.org/firefox/addon/botcheck-me/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
   "size": "medium",
-  "tag_label": "",
-  "title": "Checking facts. Go to vote."
+  "tag_label": "Extensions",
+  "title": "Human or bot?"
 }

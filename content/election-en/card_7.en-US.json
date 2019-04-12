@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Many websites set cookies that follow you  through the web. With Firefox you can easily block online tracking.",
-  "highres_image": "election-en/card_7/seven-high-res.af9913394ec7.png",
-  "image": "election-en/card_7/seven.d1f1b76f07c1.png",
-  "link_url": "https://blog.mozilla.org/firefox/control-trackers-with-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
+  "desc": "Check out the European Parliament's interactive site to explore the impact of projects, policies and initiatives across the EU.",
+  "highres_image": "election-en/card_7/seven-high-res.eda930da7346.png",
+  "image": "election-en/card_7/seven.d77a901baad7.png",
+  "link_url": "https://what-europe-does-for-me.eu/portal",
   "size": "medium",
-  "tag_label": "Firefox",
-  "title": "More privacy: Leave Tracker outside"
+  "tag_label": "Resource",
+  "title": "What does the EU do for you?"
 }

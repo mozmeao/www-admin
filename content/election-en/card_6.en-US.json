@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Prevent your likes, and dislikes from determining what ads you see online outside of Facebook.",
-  "image": "election-en/card_6/six.ff0847c8dc15.png",
-  "include_highres_image": false,
-  "link_url": "https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
+  "desc": "Tired of online ads that seems to know too much? Time to take back control over which sites, companies and campaigns can track you.",
+  "highres_image": "election-en/card_6/six-high-res.af9913394ec7.png",
+  "image": "election-en/card_6/six.d1f1b76f07c1.png",
+  "link_url": "https://blog.mozilla.org/firefox/control-trackers-with-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
   "size": "medium",
-  "tag_label": "Add-On",
-  "title": "Container on, Facebook in"
+  "tag_label": "Privacy",
+  "title": "Fine tune your privacy preferences"
 }

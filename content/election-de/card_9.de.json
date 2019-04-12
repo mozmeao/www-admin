@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Die interaktive Seite vom europäischen Parlament informiert zu den wichtigsten Themen der EU-Politik.",
-  "highres_image": "election-de/card_9/nine-high-res.751222f31f47.png",
-  "image": "election-de/card_9/nine.5126b33ac208.png",
-  "link_url": "https://what-europe-does-for-me.eu/en/portal/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
+  "desc": "FactCheckEU: Hier findest du Faktenchecks und Recherchen von 19 europäischen Medien aus 13 Ländern.",
+  "image": "election-de/card_9/nine.e07dd4397484.png",
+  "include_highres_image": false,
+  "link_url": "https://factcheckeu.info/",
   "size": "medium",
-  "tag_label": "EU-Wahlen",
-  "title": "Was tut die EU für dich & deine Region?"
+  "tag_label": "Resource",
+  "title": "Fakten checken. Wählen gehen"
 }

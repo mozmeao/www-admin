@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Disinformation, manipulation and triggering. How can we protect our decision making from online manipulation?",
-  "highres_image": "election-en/card_3/three-high-res.217397a5b9b1.png",
-  "image": "election-en/card_3/three.4cac7832822d.png",
-  "link_url": "https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
+  "desc": "Prevent Facebook from tracking you across the web with our Facebook Container extension.",
+  "highres_image": "election-en/card_3/three-high-res.985c3bf32cfc.png",
+  "image": "election-en/card_3/three.fbafaf9c0213.png",
+  "link_url": "https://addons.mozilla.org/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
   "size": "small",
-  "tag_label": "",
-  "title": "EU-election: vote informed, not mislead"
+  "tag_label": "Extensions",
+  "title": "Keep Facebook contained"
 }
