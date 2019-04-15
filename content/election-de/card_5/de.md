@@ -2,7 +2,7 @@
 # card 5
 title: "Europa, du hast die Wahl"
 image: "five.png"
-link_url: "https://www.thistimeimvoting.eu/"
+link_url: "https://www.diesmalwaehleich.eu/"
 tag_label: "EU-Wahlen"
 size: "small"
 aspect_ratio: "16-9"

@@ -2,7 +2,7 @@
 # card 9
 title: "Fakten checken. Wählen gehen"
 image: "nine.png"
-link_url: "https://factcheckeu.info/"
+link_url: "https://factcheckeu.info/de/"
 tag_label: "Resource"
 size: "medium"
 aspect_ratio: "16-9"
