@@ -1,0 +1,12 @@
+{
+  "aspect_ratio": "16-9",
+  "desc": "Announcing the start of a new standardization effort — WASI, the WebAssembly system interface.",
+  "highres_image": "home-2019/card_8/wasi-high-res.1c079cac2c6b.png",
+  "image": "home-2019/card_8/wasi.54bb693f88db.png",
+  "link_url": "https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
+  "size": "medium",
+  "tag_label": "Video",
+  "title": "Standardizing WASI",
+  "youtube_id": "ggtEJC0Jv8A"
+}
