@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Pick your favorite unicorn theme, from sparkly to majestic, and add some whimsy to your day.",
-  "highres_image": "home-2019/card_5/unicorns-high-res.a5fef48797c8.png",
-  "image": "home-2019/card_5/unicorns.542e1d674552.png",
-  "link_url": "https://blog.mozilla.org/firefox/unicorn-themes-for-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Prevent audio and video from automatically playing, say goodbye to jumpy pages, and find what you're looking for across all your tabs.",
+  "highres_image": "home-2019/card_5/66-high-res.98f087f62692.png",
+  "image": "home-2019/card_5/66.91a013a452ce.png",
+  "link_url": "https://blog.mozilla.org/blog/2019/03/19/todays-firefox-aims-to-reduce-your-online-annoyances/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Extensions",
-  "title": "Extra magic for your browser"
+  "tag_label": "Firefox",
+  "title": "Get the latest Firefox"
 }

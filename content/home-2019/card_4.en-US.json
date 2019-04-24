@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "When you need to share files and documents, Firefox Send’s end-to-end encryption and password protection helps keep them safe and private.",
-  "highres_image": "home-2019/card_4/plus-high-res.91b292095b22.png",
-  "image": "home-2019/card_4/plus.56ee2beae21e.png",
-  "link_url": "https://blog.mozilla.org/firefox/do-taxes-with-firefox-send/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "If you're traveling with a laptop, phone or tablet, don't let your personal information get exposed to hackers.",
+  "highres_image": "home-2019/card_4/vacation-high-res.539ab73b3df4.jpg",
+  "image": "home-2019/card_4/vacation.d1dbdd6e77b4.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/how-to-stay-safe-online-while-on-vacation/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
   "tag_label": "Security",
-  "title": "Prep for tax season with Firefox Send"
+  "title": "Stay safe online while on vacation"
 }
