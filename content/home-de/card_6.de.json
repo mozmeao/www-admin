@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Deine Beziehung zu Facebook ist kompliziert, aber Schluss machen geht nicht? Wir haben da etwas für dich: Container auf, Facebook rein.",
-  "image": "home-de/card_6/facebook-container.d0814533e834.png",
+  "desc": "Warst du schon mal von einem Daten-Leak betroffen? Finde es heraus und lasse dich auch in Zukunft warnen.",
+  "image": "home-de/card_6/firefox-monitor.c2f98078b113.png",
   "include_highres_image": false,
-  "link_url": "https://blog.mozilla.org/firefox/de/facebook-container-erweiterung/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
+  "link_url": "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
   "size": "medium",
-  "tag_label": "Firefox Tools",
-  "title": "Hol dir den Facebook Container"
+  "tag_label": "Sicherheit",
+  "title": "Dein Schutz vor Hackern: Firefox Monitor"
 }
