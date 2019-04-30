@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "So holst Du Dir Firefox Reality auf Dein Virtual-Reality-Headset.",
-  "highres_image": "home-de/card_13/firefox-reality-high-res.cb9feb90322a.png",
-  "image": "home-de/card_13/firefox-reality.ce83e51a6141.png",
-  "link_url": "https://blog.mozilla.org/firefox/de/firefox-reality-vr-headset-oculus-go/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
+  "desc": "Das Common-Voice-Projekt ist eine Initiative von Mozilla, die dabei helfen soll, Maschinen beizubringen, wie echte Menschen sprechen.",
+  "highres_image": "home-de/card_13/common-voice-high-res.27423e936f12.png",
+  "image": "home-de/card_13/common-voice.65fbb8a26b45.png",
+  "link_url": "https://voice.mozilla.org/de?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
   "size": "small",
-  "tag_label": "Emerging Tech",
-  "title": "Mit Firefox durch virtuelle Welten"
+  "tag_label": "Spracherkennung",
+  "title": "Sprachtechnologie für alle! Common Voice"
 }

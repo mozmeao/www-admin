@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "3-2",
-  "desc": "Unsere Datenschutz-Prinzipien bringen’s auf den Punkt… 5 Punkte, um genau zu sein.",
-  "highres_image": "home-de/card_5/privacy-philosophy-high-res.9e67c8f7f76d.png",
-  "image": "home-de/card_5/privacy-philosophy.c719bf27e7a6.png",
-  "link_url": "https://blog.mozilla.org/internetcitizen/de/2018/08/31/so-stehen-wir-bei-mozilla-zu-deiner-privatsphaere/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
+  "aspect_ratio": "16-9",
+  "desc": "Die neueste Firefox Version gibt dir mehr Kontrolle darüber, welche Websites und Unternehmen dich im Web tracken können.",
+  "highres_image": "home-de/card_5/monitor-high-res.6eff72315cb1.png",
+  "image": "home-de/card_5/monitor.f5e3f5defccd.png",
+  "link_url": "https://blog.mozilla.org/firefox/de/verbesserter-tracking-schutz-von-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
   "size": "small",
-  "tag_label": "Datenschutz",
-  "title": "Firefox' Privatsphäre-Philosophie"
+  "tag_label": "Tipps",
+  "title": "Verbesserter Tracking-Schutz"
 }

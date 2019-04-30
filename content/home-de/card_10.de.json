@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Bildschirmfotos direkt aus dem Browser machen – bei Firefox immer automatisch mit dabei.",
-  "highres_image": "home-de/card_10/screenshots-high-res.f37383ced6ba.png",
-  "image": "home-de/card_10/screenshots.bc66c2c8567c.png",
-  "link_url": "https://blog.mozilla.org/firefox/de/einfach-schoen-schoen-einfach-firefox-screenshots/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
+  "desc": "File-Sharing mit Firefox: Versende selbst große Dateien einfach, schnell und sicher – passwortgeschützt und mit verschlüsseltem Link.",
+  "highres_image": "home-de/card_10/send-high-res.397edaa4727d.png",
+  "image": "home-de/card_10/send.9e4e94e05fd8.png",
+  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
   "size": "small",
-  "tag_label": "Firefox Feature",
-  "title": "Einfach. Schnell. Firefox Screenshots."
+  "tag_label": "Firefox Tools",
+  "title": "Firefox Send: Dateien sicher teilen"
 }

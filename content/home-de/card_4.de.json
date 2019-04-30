@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Große und kleine Geschichten aus der Wildnis des Internets. Hier hörst Du, wie das Internet tickt.",
-  "highres_image": "home-de/card_4/about-web-high-res.71e2f3385800.png",
-  "image": "home-de/card_4/about-web.3e823b6beb0e.png",
-  "link_url": "https://blog.mozilla.org/berlin/aboutweb/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
+  "desc": "Unsere Datenschutz-Prinzipien bringen’s auf den Punkt… 5 Punkte, um genau zu sein.",
+  "highres_image": "home-de/card_4/privat-high-res.82f5775f1308.png",
+  "image": "home-de/card_4/privat.fac2c6ee20db.png",
+  "link_url": "https://blog.mozilla.org/internetcitizen/de/2018/08/31/so-stehen-wir-bei-mozilla-zu-deiner-privatsphaere/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
   "size": "small",
-  "tag_label": "Podcast",
-  "title": "about:web – Der Podcast"
+  "tag_label": "Datenschutz",
+  "title": "Firefox' Privatsphäre-Philosophie"
 }
