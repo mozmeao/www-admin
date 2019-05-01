@@ -1,11 +1,11 @@
 ---
 # card 9
-title: "Check facts. Go vote."
+title: "Ad targeting: Who's behind it?"
+tag_label: "Extension"
+desc: "The WhoTargetsMe extension shows you what campaigns and companies use Facebook ads to win your vote and how."
+link_url: "https://addons.mozilla.org/firefox/addon/who-targets-me-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card"
 image: "nine.png"
-link_url: "https://factcheckeu.info/"
-tag_label: "Resource"
 size: "medium"
 aspect_ratio: "16-9"
-include_highres_image: false
-desc: "FactCheckEU: 19 European media outlets from 13 countries are fact-checking the EU parliament elections for you."
+include_highres_image: true
 ---
