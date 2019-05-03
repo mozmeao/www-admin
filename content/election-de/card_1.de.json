@@ -1,12 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Kontrolliere selbst, wie Webseiten dich im Internet tracken können – mit dem verbesserten Tracking-Schutz in Firefox.",
-  "highres_image": "election-de/card_1/one-high-res.bfb2359f1dd3.png",
-  "image": "election-de/card_1/one.7a24084512e4.png",
-  "link_url": "https://www.youtube.com/watch?v=skqzOOQEQQ4",
+  "desc": "Manchmal vergessen wir, wie viele Daten online über uns gesammelt werden. Daten, die genutzt werden können, um uns zu manipulieren.",
+  "highres_image": "election-de/card_1/election-manipulation-high-res.95e75ccef114.jpg",
+  "image": "election-de/card_1/election-manipulation.2c56f7bd8597.jpg",
+  "link_url": "https://youtu.be/1A9IiZH1YFA",
   "media_icon": "video",
   "size": "large",
   "tag_label": "Tracking",
-  "title": "Verbesserter Tracking-Schutz in Firefox",
-  "youtube_id": "skqzOOQEQQ4"
+  "title": "EU-Wahl: Werden wir online manipuliert?",
+  "youtube_id": "1A9IiZH1YFA"
 }

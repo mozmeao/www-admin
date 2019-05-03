@@ -1,12 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Take control of how websites track you on the internet with Firefox's enhanced tracking protection. Here's how.",
-  "highres_image": "election-fr/card_1/one-high-res.bfb2359f1dd3.png",
-  "image": "election-fr/card_1/one.7a24084512e4.png",
-  "link_url": "https://www.youtube.com/watch?v=QtEMYSJyd-c/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card",
+  "desc": "Reprenez le contrôle de votre présence en ligne. Nous sommes là pour vous aider.",
+  "highres_image": "election-fr/card_1/election-manipulation-high-res.95e75ccef114.jpg",
+  "image": "election-fr/card_1/election-manipulation.2c56f7bd8597.jpg",
+  "link_url": "https://youtu.be/tBYkUCW4Qsc",
   "media_icon": "video",
   "size": "large",
-  "tag_label": "Video",
-  "title": "Improved tracking protection in Firefox",
-  "youtube_id": "QtEMYSJyd-c"
+  "tag_label": "Tracking",
+  "title": "Êtes-vous manipulé(e) en ligne?",
+  "youtube_id": "tBYkUCW4Qsc"
 }
