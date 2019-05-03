@@ -1,13 +1,13 @@
 ---
 # card 1
-title: "Improved tracking protection in Firefox"
-image: "one.png"
-link_url: "https://www.youtube.com/watch?v=QtEMYSJyd-c/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card"
-tag_label: "Video"
+title: "EU election: Are you being manipulated online?"
+image: "election-manipulation.jpg"
+link_url: "https://youtu.be/kw9LiqF-lNw"
+tag_label: "Tracking"
 size: "large"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "Take control of how websites track you on the internet with Firefox's enhanced tracking protection. Here's how."
-youtube_id: "QtEMYSJyd-c"
+desc: "Sometimes we forget how much data is collected about us online. That data that can be used to manipulate us. Find out more."
+youtube_id: "kw9LiqF-lNw"
 media_icon: "video"
 ---
