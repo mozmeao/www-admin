@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "Privatsphäre ist für uns mehr als ein hippes Buzzword. Das zeigt sich auch in der neuesten Version. Jetzt mit verbessertem Tracking-Schutz.",
-  "image": "home-de/card_2/firefox-logo.80b7b5f13f97.jpg",
-  "include_highres_image": false,
-  "link_url": "https://blog.mozilla.org/press-de/2019/01/29/neuer-firefox-ermoeglicht-noch-mehr-kontrolle-ueber-die-eigene-privatsphaere/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
+  "desc": "Ruhe im Karton: Im Firefox Browser kannst du automatische Wiedergaben jetzt standardmäßig stoppen. So geht's.",
+  "highres_image": "home-de/card_2/block-high-res.d2181326b6a0.jpg",
+  "image": "home-de/card_2/block.9e201e2c4cad.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/de/autoplay-im-firefox-browser-automatisch-blockieren/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
   "size": "small",
-  "tag_label": "Firefox",
-  "title": "Hol Dir den neuesten Firefox Browser!"
+  "tag_label": "Tipps",
+  "title": "Autoplay blockieren in Firefox"
 }
