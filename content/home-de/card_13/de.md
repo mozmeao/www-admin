@@ -1,11 +1,11 @@
 ---
 # card 13
-title: "Mit Firefox durch virtuelle Welten"
-image: "firefox-reality.png"
-link_url: "https://blog.mozilla.org/firefox/de/firefox-reality-vr-headset-oculus-go/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card"
-tag_label: "Emerging Tech"
+title: "Sprachtechnologie für alle! Common Voice"
+tag_label: "Spracherkennung"
+desc: "Das Common-Voice-Projekt ist eine Initiative von Mozilla, die dabei helfen soll, Maschinen beizubringen, wie echte Menschen sprechen."
+link_url: "https://voice.mozilla.org/de?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card"
 size: "small"
+image: "common-voice.png"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "So holst Du Dir Firefox Reality auf Dein Virtual-Reality-Headset."
 ---

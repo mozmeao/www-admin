@@ -1,13 +1,13 @@
 ---
 # card 1
-title: "Improved tracking protection in Firefox"
-tag_label: "Video"
-desc: "Take control of how websites track you on the internet with Firefox's enhanced tracking protection. Here's how."
-link_url: "https://www.youtube.com/watch?v=QtEMYSJyd-c/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=election&utm_content=card"
-image: "one.png"
+title: "Êtes-vous manipulé(e) en ligne?"
+image: "election-manipulation.jpg"
+link_url: "https://youtu.be/tBYkUCW4Qsc"
+tag_label: "Tracking"
 size: "large"
 aspect_ratio: "16-9"
 include_highres_image: true
-youtube_id: "QtEMYSJyd-c"
+desc: "Reprenez le contrôle de votre présence en ligne. Nous sommes là pour vous aider."
+youtube_id: "tBYkUCW4Qsc"
 media_icon: "video"
 ---

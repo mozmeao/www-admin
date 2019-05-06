@@ -1,13 +1,13 @@
 ---
 # card 1
-title: "Verbesserter Tracking-Schutz in Firefox"
-image: "one.png"
-link_url: "https://www.youtube.com/watch?v=skqzOOQEQQ4"
+title: "EU-Wahl: Werden wir online manipuliert?"
+image: "election-manipulation.jpg"
+link_url: "https://youtu.be/1A9IiZH1YFA"
 tag_label: "Tracking"
 size: "large"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "Kontrolliere selbst, wie Webseiten dich im Internet tracken können – mit dem verbesserten Tracking-Schutz in Firefox."
-youtube_id: "skqzOOQEQQ4"
+desc: "Manchmal vergessen wir, wie viele Daten online über uns gesammelt werden. Daten, die genutzt werden können, um uns zu manipulieren."
+youtube_id: "1A9IiZH1YFA"
 media_icon: "video"
 ---

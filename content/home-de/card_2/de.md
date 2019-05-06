@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "Hol Dir den neuesten Firefox Browser!"
-image: "firefox-logo.jpg"
-link_url: "https://blog.mozilla.org/press-de/2019/01/29/neuer-firefox-ermoeglicht-noch-mehr-kontrolle-ueber-die-eigene-privatsphaere/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card"
-tag_label: "Firefox"
+title: "Autoplay blockieren in Firefox"
+tag_label: "Tipps"
+desc: "Ruhe im Karton: Im Firefox Browser kannst du automatische Wiedergaben jetzt standardmäßig stoppen. So geht's."
+link_url: "https://blog.mozilla.org/firefox/de/autoplay-im-firefox-browser-automatisch-blockieren/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card"
 size: "small"
+image: "block.jpg"
 aspect_ratio: "1-1"
-include_highres_image: false
-desc: "Privatsphäre ist für uns mehr als ein hippes Buzzword. Das zeigt sich auch in der neuesten Version. Jetzt mit verbessertem Tracking-Schutz."
+include_highres_image: true
 ---
