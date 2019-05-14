@@ -1,6 +1,6 @@
 ---
 # card 1
-title: "Êtes-vous manipulé(e) en ligne?"
+title: "Êtes-vous manipulé(e) en ligne ?"
 image: "election-manipulation.jpg"
 link_url: "https://youtu.be/tBYkUCW4Qsc"
 tag_label: "Tracking"
