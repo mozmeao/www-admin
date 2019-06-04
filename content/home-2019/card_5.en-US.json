@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "The latest Firefox brings fast and private together with new features to keep your personal information safe while you’re online with us.",
-  "highres_image": "home-2019/card_5/loop-high-res.1526bbd36431.png",
-  "image": "home-2019/card_5/loop.a9add01fbcab.png",
+  "desc": "Get free file transfers with end-to-end encryption and a link that automatically expires with Firefox Send.",
+  "highres_image": "home-2019/card_5/send-high-res.c9e60aba6a38.jpg",
+  "image": "home-2019/card_5/send.24a2809d7915.jpg",
   "link_url": "https://blog.mozilla.org/blog/2019/05/21/latest-firefox-release-is-faster-than-ever/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "small",
-  "tag_label": "Firefox",
-  "title": "Get the latest Firefox"
+  "tag_label": "Video",
+  "title": "Simple, private file sharing",
+  "youtube_id": "eRHpEn2eHJA"
 }
