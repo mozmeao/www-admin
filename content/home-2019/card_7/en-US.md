@@ -1,13 +1,11 @@
 ---
 # card 7
-title: "The tablet experience you deserve"
-tag_label: "Video"
-desc: "Learn a few tips and tricks to have an ideal tablet experience with Firefox."
-link_url: "https://blog.mozilla.org/firefox/firefox-for-ipad-tips/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Monitor watches for account breaches"
+tag_label: "Security"
+desc: "See if you’ve been part of an online data breach. Search for your email address in public data breaches going back to 2007."
+link_url: "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "ipad.png"
+image: "monitor.jpg"
 aspect_ratio: "3-2"
 include_highres_image: true
-youtube_id: "_l8vdYC_bLo"
-media_icon: "video"
 ---

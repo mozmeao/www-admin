@@ -1,11 +1,11 @@
 ---
 # card 9
-title: "Immersive Media Content Creation Guide"
-tag_label: "Developers"
-desc: "This guide offers advice for creating and formatting content to best display on the immersive web in Firefox Reality."
-link_url: "https://blog.mozvr.com/content-creation-guide/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "How to block fingerprinting"
+tag_label: "Privacy"
+desc: "If you keep seeing the same ad, it could be fingerprinting, a type of tracking that’s different from cookies or ordinary trackers."
+link_url: "https://blog.mozilla.org/firefox/how-to-block-fingerprinting-with-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "vr.jpg"
+image: "fingerprint.jpg"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---

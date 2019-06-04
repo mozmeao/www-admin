@@ -1,11 +1,11 @@
 ---
 # card 13
-title: "Meet the content cleaners"
-tag_label: "Podcast"
-desc: "Content moderation is a difficult job. It also raises questions about censorship and free expression online. Listen in."
-link_url: "https://irlpodcast.org/season4/episode4/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "The 2019 Internet Health Report"
+tag_label: "Internet Health"
+desc: "Our 2019 compilation of research and stories explains what's key to a healthier internet, from personal experience to global concerns."
+link_url: "http://internethealthreport.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "content.png"
+image: "health.jpg"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---
