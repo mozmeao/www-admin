@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "We may not be able to help with a cluttered closet, but here are some exceptional extensions to help with digital disorder.",
-  "highres_image": "home-2019/card_3/spring-high-res.10384fa1cc2e.png",
-  "image": "home-2019/card_3/spring.71d071b0395d.png",
-  "link_url": "https://blog.mozilla.org/firefox/spring-cleaning-with-browser-extensions/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Enhanced Tracking Protection is now automatic in Firefox, blocking sites from tracking you.",
+  "highres_image": "home-2019/card_3/etp-high-res.6a344138c820.jpg",
+  "image": "home-2019/card_3/etp.d19ca0c8cd83.jpg",
+  "link_url": "https://blog.mozilla.org/blog/2019/06/04/firefox-now-available-with-enhanced-tracking-protection-by-default?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Extensions",
-  "title": "Add-ons to tidy up and spark joy"
+  "tag_label": "Enhanced Tracking Protection",
+  "title": "Firefox blocks sites from tracking you"
 }

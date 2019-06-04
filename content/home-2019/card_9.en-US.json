@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "This guide offers advice for creating and formatting content to best display on the immersive web in Firefox Reality.",
-  "highres_image": "home-2019/card_9/vr-high-res.c6de7d735bb8.jpg",
-  "image": "home-2019/card_9/vr.e8a4f94a78c7.jpg",
-  "link_url": "https://blog.mozvr.com/content-creation-guide/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "If you keep seeing the same ad, it could be fingerprinting, a type of tracking that’s different from cookies or ordinary trackers.",
+  "highres_image": "home-2019/card_9/fingerprint-high-res.6e2d42ed1eff.jpg",
+  "image": "home-2019/card_9/fingerprint.782d306b4a75.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/how-to-block-fingerprinting-with-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Developers",
-  "title": "Immersive Media Content Creation Guide"
+  "tag_label": "Privacy",
+  "title": "How to block fingerprinting"
 }

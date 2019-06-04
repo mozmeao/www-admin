@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "If you're traveling with a laptop, phone or tablet, don't let your personal information get exposed to hackers.",
-  "highres_image": "home-2019/card_4/vacation-high-res.539ab73b3df4.jpg",
-  "image": "home-2019/card_4/vacation.d1dbdd6e77b4.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/how-to-stay-safe-online-while-on-vacation/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Privacy shouldn’t be relegated to optional settings in the technology you use. That’s why we're making it the default.",
+  "highres_image": "home-2019/card_4/default-high-res.e41edec17e1a.jpg",
+  "image": "home-2019/card_4/default.997d5cdac3fb.jpg",
+  "link_url": "https://blog.mozilla.org/blog/2019/06/04/when-it-comes-to-privacy-default-settings-matter/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Security",
-  "title": "Stay safe online while on vacation"
+  "tag_label": "Firefox",
+  "title": "Default settings matter"
 }
