@@ -1,11 +1,10 @@
 ---
 # card 12
-title: "Are you checked out?"
-tag_label: "Podcast"
-desc: "When shopping online, your data may be the most valuable thing for sale Hear how your data now follows you into physical stores, too."
-link_url: "https://irlpodcast.org/season4/episode1/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Lessons learned from a playground"
+tag_label: "Accessibility"
+desc: "Let’s build products — from playgrounds to technology — inclusive by design, in partnership with the people they serve."
+link_url: "https://blog.mozilla.org/internetcitizen/2019/05/14/web-accessibility-playground/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "shopping.png"
+image: "dream.jpg"
 aspect_ratio: "16-9"
-include_highres_image: true
 ---
