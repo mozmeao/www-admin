@@ -2,7 +2,7 @@
   "aspect_ratio": "16-9",
   "desc": "Firefox kommt ab sofort mit standardmäßig eingestelltem verbesserten Tracking-Schutz und hindert Seiten daran, dir durchs Web zu folgen.",
   "image": "home-de/card_3/three.55921025b330.png",
-  "link_url": "?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "link_url": "https://www.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
   "tag_label": "Tracking-Schutz",
   "title": "Hindere Websites daran, dich zu tracken"
