@@ -1,11 +1,11 @@
 ---
 # card 11
-title: "Mit Firefox durch virtuelle Welten"
-image: "firefox-reality.png"
-link_url: "https://blog.mozilla.org/firefox/de/firefox-reality-vr-headset-oculus-go/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card"
-tag_label: "Emerging Tech"
+title: "Die Rust 2018 Edition ist da!"
+tag_label: "Programmiersprache"
+desc: "Mit Rust können alle zuverlässige und effiziente Software schreiben. Erfahre mehr!"
+link_url: "https://www.rust-lang.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
+image: "rust.png"
 aspect_ratio: "16-9"
 include_highres_image: true
-desc: "So holst du dir Firefox Reality auf dein Virtual-Reality-Headset."
 ---
