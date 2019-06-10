@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Mit Rust können alle zuverlässige und effiziente Software schreiben. Erfahre mehr!",
-  "highres_image": "home-de/card_12/rust-high-res.3f293ccb143d.png",
-  "image": "home-de/card_12/rust.0aa5705e29fa.png",
-  "link_url": "https://www.rust-lang.org/",
+  "desc": "Das Common-Voice-Projekt ist eine Initiative von Mozilla, die dabei helfen soll, Maschinen beizubringen, wie echte Menschen sprechen.",
+  "highres_image": "home-de/card_12/common-voice-high-res.27423e936f12.png",
+  "image": "home-de/card_12/common-voice.65fbb8a26b45.png",
+  "link_url": "https://voice.mozilla.org/de?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Programmiersprache",
-  "title": "Die Rust 2018 Edition ist da!"
+  "tag_label": "Spracherkennung",
+  "title": "Sprachtechnologie für alle! Common Voice"
 }

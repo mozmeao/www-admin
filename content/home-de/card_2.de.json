@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "Ruhe im Karton: Im Firefox Browser kannst du automatische Wiedergaben jetzt standardmäßig stoppen. So geht's.",
-  "highres_image": "home-de/card_2/block-high-res.d2181326b6a0.jpg",
-  "image": "home-de/card_2/block.9e201e2c4cad.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/de/autoplay-im-firefox-browser-automatisch-blockieren/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
+  "desc": "Wir behandeln dich nicht wie ein Produkt, sondern der wunderbare Mensch, der du bist. Lies hier mehr über unser Versprechen für deine persönlichen Daten.",
+  "highres_image": "home-de/card_2/promise-high-res.941ec4f32554.jpg",
+  "image": "home-de/card_2/promise.a41ee193ef9d.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/de/firefox-versprechen-fuer-deine-persoenlichen-daten/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Tipps",
-  "title": "Autoplay blockieren in Firefox"
+  "tag_label": "Privacy",
+  "title": "Das Firefox Daten-Versprechen"
 }
