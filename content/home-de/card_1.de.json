@@ -1,12 +1,11 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Mach dich bereit für die Europawahl – mit Tools, die dir helfen, dich besser vor Tracking und Online-Targeting zu schützen.",
-  "highres_image": "home-de/card_1/election-manipulation-high-res.95e75ccef114.jpg",
-  "image": "home-de/card_1/election-manipulation.2c56f7bd8597.jpg",
-  "link_url": "https://www.mozilla.org/firefox/election/",
+  "desc": "Bei Firefox steckt Privatsphäre in jedem einzelnen Produkt. Nicht nur in der Tagline. Komm zu Firefox und hol dir Tech mit Respekt.",
+  "image": "home-de/card_1/five.c82076cb53af.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/de/join-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "media_icon": "video",
   "size": "large",
   "tag_label": "Video",
-  "title": "EU-Wahl: Werden wir online manipuliert?",
-  "youtube_id": "1A9IiZH1YFA"
+  "title": "Alle reden über Privatsphäre. Wir machen Privatsphäre.",
+  "youtube_id": "3lPSQ5KjamI"
 }

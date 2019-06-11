@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Bedenken wegen des nächsten Datenlecks? Durchatmen, Tipps durchlesen, Kuchen essen!",
-  "highres_image": "home-de/card_9/tips-high-res.0d70fb1ea7c1.png",
-  "image": "home-de/card_9/tips.276b3867fdd6.png",
-  "link_url": "https://blog.mozilla.org/internetcitizen/de/2018/10/29/sichere-zuallererst-deine-passwoerter/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
-  "size": "small",
-  "tag_label": "Tipps",
-  "title": "Das 1x1 des sicheren Passworts"
+  "desc": "Wenn du immer wieder dieselbe Werbung siehst, könnte Fingerprinting dahinterstecken. Was das ist und wie du es blockst? Jetzt im Blog.",
+  "highres_image": "home-de/card_9/fingerprint-high-res.6e2d42ed1eff.jpg",
+  "image": "home-de/card_9/fingerprint.782d306b4a75.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/de/loesche-deinen-digitalen-fingerabdruck-in-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "size": "medium",
+  "tag_label": "Privacy",
+  "title": "So blockierst du Fingerprinting"
 }
