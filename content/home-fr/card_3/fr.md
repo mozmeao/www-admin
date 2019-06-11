@@ -1,10 +1,12 @@
 ---
 # card 3
-title: "Hindere Websites daran, dich zu tracken"
-tag_label: "Tracking-Schutz"
-desc: "Firefox kommt ab sofort mit standardmäßig eingestelltem verbesserten Tracking-Schutz und hindert Seiten daran, dir durchs Web zu folgen."
-link_url: "https://www.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Firefox empêche les sites de vous pister"
+tag_label: "Vidéo"
+desc: "La protection renforcée contre le pistage est désormais automatique avec Firefox, empêchant les site des vous suivre."
+link_url: "https://youtu.be/TIyixFhOhYU"
 size: "small"
-image: "three.png"
+image: "etp.jpg"
 aspect_ratio: "16-9"
+youtube_id: "TIyixFhOhYU"
+media_icon: "video"
 ---
