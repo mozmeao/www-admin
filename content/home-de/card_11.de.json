@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Mit Rust können alle zuverlässige und effiziente Software schreiben. Erfahre mehr!",
-  "highres_image": "home-de/card_11/rust-high-res.3f293ccb143d.png",
-  "image": "home-de/card_11/rust.0aa5705e29fa.png",
-  "link_url": "https://www.rust-lang.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "So holst du dir Firefox Reality auf dein Virtual-Reality-Headset.",
+  "highres_image": "home-de/card_11/firefox-reality-high-res.dc96010ec4a4.png",
+  "image": "home-de/card_11/firefox-reality.a4f98f3055cb.png",
+  "link_url": "https://blog.mozilla.org/firefox/de/firefox-reality-vr-headset-oculus-go/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
   "size": "small",
-  "tag_label": "Programmiersprache",
-  "title": "Die Rust 2018 Edition ist da!"
+  "tag_label": "Emerging Tech",
+  "title": "Mit Firefox durch virtuelle Welten"
 }

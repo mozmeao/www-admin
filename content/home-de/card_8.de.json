@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Krypto was? Ja, Krypto-Miner können versuchen, deine Rechner-Ressourcen über den Browser anzuzapfen. Firefox hilft dir, das zu verhindern.",
-  "highres_image": "home-de/card_8/ico-high-res.2df141059af7.jpg",
-  "image": "home-de/card_8/ico.ac8bc0f98c89.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/de/so-blockierst-du-krypto-mining-auf-deinem-computer-mit-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "size": "medium",
-  "tag_label": "Sicherheit",
-  "title": "Heimliches Krypto-Mining verhindern"
+  "desc": "Bildschirmfotos direkt aus dem Browser machen – bei Firefox immer automatisch mit dabei.",
+  "highres_image": "home-de/card_8/screenshots-high-res.f37383ced6ba.png",
+  "image": "home-de/card_8/screenshots.bc66c2c8567c.png",
+  "link_url": "https://blog.mozilla.org/firefox/de/einfach-schoen-schoen-einfach-firefox-screenshots/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
+  "size": "small",
+  "tag_label": "Firefox Tools",
+  "title": "Firefox Screenshots"
 }
