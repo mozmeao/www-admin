@@ -7,5 +7,4 @@ link_url: "https://blog.mozilla.org/firefox/fr/engagements-concernant-les-donnee
 size: "small"
 image: "promise.jpg"
 aspect_ratio: "1-1"
-include_highres_image: true
 ---
