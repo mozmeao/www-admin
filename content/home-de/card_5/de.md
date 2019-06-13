@@ -1,9 +1,9 @@
 ---
 # card 5
-title: "[a:web] – Podcast-Folge zur Europawahl"
+title: "awebpodcast Folge 2: New Kids On The Web"
 tag_label: "Podcast"
-desc: "Die erste Folge des Firefox Podcasts ist da! Hochaktuell zur Europawahl: Wie stark werden Wahlen online beeinflusst?"
-link_url: "https://www.awebpodcast.org?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card"
+desc: "Meine Straße, mein Block, meine Persönlichkeitsrechte! In dieser Folge aweb geht’s um Kids und das Web – die New Kids on the Web. "
+link_url: "https://awebpodcast.org/staffel1/folge2/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
 image: "aweb.jpg"
 aspect_ratio: "16-9"

@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "Autoplay blockieren in Firefox"
-tag_label: "Tipps"
-desc: "Ruhe im Karton: Im Firefox Browser kannst du automatische Wiedergaben jetzt standardmäßig stoppen. So geht's."
-link_url: "https://blog.mozilla.org/firefox/de/autoplay-im-firefox-browser-automatisch-blockieren/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card"
+title: "Das Firefox Daten-Versprechen"
+tag_label: "Privacy"
+desc: "Wir behandeln dich nicht wie ein Produkt, sondern der wunderbare Mensch, der du bist. Lies hier mehr über unser Versprechen für deine persönlichen Daten."
+link_url: "https://blog.mozilla.org/firefox/de/firefox-versprechen-fuer-deine-persoenlichen-daten/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "block.jpg"
+image: "promise.jpg"
 aspect_ratio: "1-1"
 include_highres_image: true
 ---
