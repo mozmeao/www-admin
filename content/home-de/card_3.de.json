@@ -1,10 +1,11 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Unsere Datenschutz-Prinzipien bringen’s auf den Punkt… 5 Punkte, um genau zu sein.",
-  "highres_image": "home-de/card_3/privat-high-res.82f5775f1308.png",
-  "image": "home-de/card_3/privat.fac2c6ee20db.png",
-  "link_url": "https://blog.mozilla.org/internetcitizen/de/2018/08/31/so-stehen-wir-bei-mozilla-zu-deiner-privatsphaere/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
+  "desc": "Firefox kommt ab sofort mit standardmäßig eingestelltem verbesserten Tracking-Schutz und hindert Seiten daran, dir durchs Web zu folgen.",
+  "image": "home-de/card_3/etp.d19ca0c8cd83.jpg",
+  "link_url": "https://youtu.be/OTepGIwH70Y",
+  "media_icon": "video",
   "size": "small",
-  "tag_label": "Datenschutz",
-  "title": "Firefox' Privatsphäre-Philosophie"
+  "tag_label": "Video",
+  "title": "Hindere Websites daran, dich zu tracken",
+  "youtube_id": "OTepGIwH70Y"
 }

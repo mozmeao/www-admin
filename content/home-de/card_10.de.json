@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "File-Sharing mit Firefox: Versende selbst große Dateien einfach, schnell und sicher – passwortgeschützt und mit verschlüsseltem Link.",
-  "highres_image": "home-de/card_10/send-high-res.397edaa4727d.png",
-  "image": "home-de/card_10/send.9e4e94e05fd8.png",
-  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
+  "desc": "So holst du dir Firefox Reality auf dein Virtual-Reality-Headset.",
+  "highres_image": "home-de/card_10/firefox-reality-high-res.dc96010ec4a4.png",
+  "image": "home-de/card_10/firefox-reality.a4f98f3055cb.png",
+  "link_url": "https://blog.mozilla.org/firefox/de/firefox-reality-vr-headset-oculus-go/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Firefox Tools",
-  "title": "Firefox Send: Dateien sicher teilen"
+  "tag_label": "Emerging Tech",
+  "title": "Mit Firefox durch virtuelle Welten"
 }
