@@ -1,11 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "La protection renforcée contre le pistage est désormais automatique avec Firefox, empêchant les site de vous suivre.",
-  "image": "home-fr/card_3/etp.d19ca0c8cd83.jpg",
-  "link_url": "https://youtu.be/TIyixFhOhYU",
+  "desc": "Connexions sécurisées, mises à jour régulières et mots de passe robustes : apprenez à vous défendre contre les attaques sur le Web.",
+  "highres_image": "home-fr/card_3/promise-high-res.cf6e616e593e.jpg",
+  "image": "home-fr/card_3/promise.8560645f7090.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/fr/comment-proteger-son-identite-en-ligne?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "media_icon": "video",
   "size": "small",
-  "tag_label": "Vidéo",
-  "title": "Firefox empêche les sites de vous pister",
-  "youtube_id": "TIyixFhOhYU"
+  "tag_label": "Sécurité",
+  "title": "Améliorez votre sécurité en ligne",
+  "youtube_id": "3lPSQ5KjamI"
 }
