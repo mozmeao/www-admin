@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Wenn du immer wieder dieselbe Werbung siehst, könnte Fingerprinting dahinterstecken. Was das ist und wie du es blockst? Jetzt im Blog.",
-  "highres_image": "home-de/card_9/fingerprint-high-res.6e2d42ed1eff.jpg",
-  "image": "home-de/card_9/fingerprint.782d306b4a75.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/de/loesche-deinen-digitalen-fingerabdruck-in-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Hindere Facebook daran, dir durchs Web zu folgen. Facebook Container blockt jetzt auch Social Buttons, die dich tracken wollen. So geht's.",
+  "highres_image": "home-de/card_9/container-high-res.c93f0d01f1c3.png",
+  "image": "home-de/card_9/container.eba8f91f3006.png",
+  "link_url": "https://blog.mozilla.org/firefox/de/der-neueste-facebook-container-fuer-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Privacy",
-  "title": "So blockierst du Fingerprinting"
+  "tag_label": "Firefox Tool",
+  "title": "Der neue Facebook Container"
 }

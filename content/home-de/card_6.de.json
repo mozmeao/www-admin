@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Nimm deine Passwörter einfach mit – vom Computer auf Smartphone oder Tablet, iOS und/oder Android. Passwörter merken, kannste vergessen. ",
-  "highres_image": "home-de/card_6/lockwise-high-res.6ea285a4071d.jpg",
-  "image": "home-de/card_6/lockwise.ce9566297149.jpg",
-  "link_url": "https://lockwise.firefox.com?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
+  "desc": "File-Sharing mit Firefox: Versende bis zu 2.5 GB einfach, schnell und sicher – passwortgeschützt und mit verschlüsseltem Link.",
+  "highres_image": "home-de/card_6/send-high-res.b4cf65a0bd4f.png",
+  "image": "home-de/card_6/send.43abc4729df2.png",
+  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
   "tag_label": "Firefox Tool",
-  "title": "Lockwise: Verwalte Passwörter sicher",
-  "youtube_id": "yW7KdWVYng0"
+  "title": "Firefox Send: Dateien sicher teilen"
 }

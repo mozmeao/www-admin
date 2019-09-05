@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Meine Straße, mein Block, meine Persönlichkeitsrechte! In dieser Folge aweb geht’s um Kids und das Web – die New Kids on the Web. ",
-  "highres_image": "home-de/card_5/aweb-high-res.c3e1d5412222.jpg",
-  "image": "home-de/card_5/aweb.4bac25972c97.jpg",
-  "link_url": "https://awebpodcast.org/staffel1/folge2/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Nimm deine Passwörter einfach mit – vom Computer aufs Smartphone oder Tablet, iOS und/oder Android. Passwörter merken, kannste vergessen.",
+  "highres_image": "home-de/card_5/lockwise-high-res.bad446deb2b4.jpg",
+  "image": "home-de/card_5/lockwise.34eb3a6b5447.jpg",
+  "link_url": "https://lockwise.firefox.com?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "small",
-  "tag_label": "Podcast",
-  "title": "awebpodcast Folge 2: New Kids On The Web"
+  "tag_label": "Firefox Tool",
+  "title": "Lockwise: Verwalte Passwörter sicher",
+  "youtube_id": "yW7KdWVYng0"
 }

@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Krypto was? Ja, Krypto-Miner können versuchen, deine Rechner-Ressourcen über den Browser anzuzapfen. Firefox hilft dir, das zu verhindern.",
-  "highres_image": "home-de/card_8/ico-high-res.2df141059af7.jpg",
-  "image": "home-de/card_8/ico.ac8bc0f98c89.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/de/so-blockierst-du-krypto-mining-auf-deinem-computer-mit-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Wenn du immer wieder dieselbe Werbung siehst, könnte Fingerprinting dahinterstecken. Was das ist und wie du es blockst? Jetzt im Blog.",
+  "highres_image": "home-de/card_8/fingerprint-high-res.6e2d42ed1eff.jpg",
+  "image": "home-de/card_8/fingerprint.782d306b4a75.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/de/loesche-deinen-digitalen-fingerabdruck-in-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Sicherheit",
-  "title": "Heimliches Krypto-Mining verhindern"
+  "tag_label": "Privacy",
+  "title": "So blockierst du Fingerprinting"
 }

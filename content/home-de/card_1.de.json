@@ -1,11 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Bei Firefox steckt Privatsphäre in jedem einzelnen Produkt. Nicht nur in der Tagline. Komm zu Firefox und hol dir Tech mit Respekt.",
-  "image": "home-de/card_1/five.c82076cb53af.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/de/join-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
+  "desc": "Wir behandeln dich nicht wie ein Produkt, sondern der wunderbare Mensch, der du bist. Das ist unser Versprechen für deine persönlichen Daten.",
+  "highres_image": "home-de/card_1/promise-high-res.6df0d037bdda.png",
+  "image": "home-de/card_1/promise.e92ec7678d1a.png",
+  "link_url": "https://blog.mozilla.org/firefox/de/firefox-versprechen-fuer-deine-persoenlichen-daten/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "large",
-  "tag_label": "Video",
-  "title": "Alle reden über Privatsphäre. Wir machen Privatsphäre.",
-  "youtube_id": "5xsFfIQD1K4"
+  "tag_label": "Privacy",
+  "title": "Das Firefox Daten-Versprechen"
 }
