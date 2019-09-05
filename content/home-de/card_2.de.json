@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "Wir behandeln dich nicht wie ein Produkt, sondern der wunderbare Mensch, der du bist. Lies hier mehr über unser Versprechen für deine persönlichen Daten.",
-  "highres_image": "home-de/card_2/promise-high-res.c4a19e6808ea.jpg",
-  "image": "home-de/card_2/promise.c013cee5e752.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/de/firefox-versprechen-fuer-deine-persoenlichen-daten/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Wir behandeln dich nicht wie ein Produkt, sondern wie der wunderbare Mensch, der du bist. Lies hier mehr über unser Versprechen für deine persönlichen Daten.",
+  "highres_image": "home-de/card_2/aweb-high-res.3f1efef593d5.jpg",
+  "image": "home-de/card_2/aweb.426c05040f08.jpg",
+  "link_url": "https://awebpodcast.org/staffel1/folge6/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Privacy",
-  "title": "Das Firefox Daten-Versprechen"
+  "tag_label": "Podcast",
+  "title": "aweb Podcast – Wer wacht übers Web?"
 }
