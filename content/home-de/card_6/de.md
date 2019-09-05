@@ -1,13 +1,11 @@
 ---
 # card 6
-title: "Lockwise: Verwalte Passwörter sicher"
+title: "Firefox Send: Dateien sicher teilen"
 tag_label: "Firefox Tool"
-desc: "Nimm deine Passwörter einfach mit – vom Computer auf Smartphone oder Tablet, iOS und/oder Android. Passwörter merken, kannste vergessen. "
-link_url: "https://lockwise.firefox.com?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+desc: "File-Sharing mit Firefox: Versende bis zu 2.5 GB einfach, schnell und sicher – passwortgeschützt und mit verschlüsseltem Link."
+link_url: "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "lockwise.jpg"
+image: "send.png"
 aspect_ratio: "16-9"
 include_highres_image: true
-youtube_id: "yW7KdWVYng0"
-media_icon: "video"
 ---
