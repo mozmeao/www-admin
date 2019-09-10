@@ -1,11 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "La protection renforcée contre le pistage est désormais automatique avec Firefox, empêchant les site de vous suivre.",
-  "image": "home-fr/card_3/etp.d19ca0c8cd83.jpg",
-  "link_url": "https://youtu.be/TIyixFhOhYU",
-  "media_icon": "video",
+  "desc": "Vous pouvez personnaliser Firefox grâce aux milliers de thèmes élaborés par notre communauté. En voici quelques-uns qui valent le détour",
+  "highres_image": "home-fr/card_3/plugins-high-res.fe223d5406b7.jpg",
+  "image": "home-fr/card_3/plugins.d6ae25de09ad.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/fr/personnalisez-firefox-avec-les-themes-quon-aime/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Vidéo",
-  "title": "Firefox empêche les sites de vous pister",
-  "youtube_id": "TIyixFhOhYU"
+  "tag_label": "Firefox",
+  "title": "Personnalisez Firefox avec les thèmes"
 }
