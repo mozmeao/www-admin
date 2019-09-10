@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Connexions sécurisées, mises à jour régulières et mots de passe robustes : apprenez à vous défendre contre les cybercriminels.",
-  "highres_image": "home-fr/card_3/promise-high-res.cf6e616e593e.jpg",
-  "image": "home-fr/card_3/promise.8560645f7090.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/comment-proteger-son-identite-en-ligne?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
+  "desc": "Vous pouvez personnaliser Firefox grâce aux milliers de thèmes élaborés par notre communauté. En voici quelques-uns qui valent le détour",
+  "highres_image": "home-fr/card_3/plugins-high-res.fe223d5406b7.jpg",
+  "image": "home-fr/card_3/plugins.d6ae25de09ad.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/fr/personnalisez-firefox-avec-les-themes-quon-aime/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Sécurité",
-  "title": "Améliorez votre sécurité en ligne",
-  "youtube_id": "3lPSQ5KjamI"
+  "tag_label": "Firefox",
+  "title": "Personnalisez Firefox avec les thèmes"
 }
