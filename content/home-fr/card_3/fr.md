@@ -1,12 +1,11 @@
 ---
 # card 3
-title: "Firefox empêche les sites de vous pister"
-tag_label: "Vidéo"
-desc: "La protection renforcée contre le pistage est désormais automatique avec Firefox, empêchant les site de vous suivre."
-link_url: "https://youtu.be/TIyixFhOhYU"
+title: "Personnalisez Firefox avec les thèmes"
+tag_label: "Firefox"
+desc: "Vous pouvez personnaliser Firefox grâce aux milliers de thèmes élaborés par notre communauté. En voici quelques-uns qui valent le détour"
+link_url: "https://blog.mozilla.org/firefox/fr/personnalisez-firefox-avec-les-themes-quon-aime/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "etp.jpg"
+image: "plugins.jpg"
 aspect_ratio: "16-9"
-youtube_id: "TIyixFhOhYU"
-media_icon: "video"
+include_highres_image: true
 ---

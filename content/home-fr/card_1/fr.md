@@ -1,12 +1,13 @@
 ---
 # card 1
-title: "Vie privée : des actes, pas des paroles"
+title: "Firefox empêche les sites de vous pister"
 tag_label: "Vidéo"
-desc: "Pour nous, protéger votre vie privée est une mission, pas un slogan publicitaire. Prenez le contrôle en rejoignant Firefox."
-link_url: "https://blog.mozilla.org/firefox/fr/rejoignez-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+desc: "La protection renforcée contre le pistage est désormais automatique avec Firefox, empêchant les site de vous suivre."
+link_url: "https://youtu.be/TIyixFhOhYU"
 size: "large"
-image: "five.jpg"
+image: "etp.png"
 aspect_ratio: "16-9"
-youtube_id: "3lPSQ5KjamI"
+include_highres_image: true
+youtube_id: "TIyixFhOhYU"
 media_icon: "video"
 ---
