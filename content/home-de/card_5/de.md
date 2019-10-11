@@ -3,7 +3,7 @@
 title: "Lockwise: Verwalte Passwörter sicher"
 tag_label: "Firefox Tool"
 desc: "Nimm deine Passwörter einfach mit – vom Computer aufs Smartphone oder Tablet, iOS und/oder Android. Passwörter merken, kannste vergessen."
-link_url: "https://lockwise.firefox.com?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+link_url: "https://www.mozilla.org/firefox/lockwise/"
 size: "small"
 image: "lockwise.jpg"
 aspect_ratio: "16-9"
