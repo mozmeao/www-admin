@@ -3,7 +3,7 @@
 title: "Lockwise remembers passwords for you"
 tag_label: "Video"
 desc: "Manage your passwords safely, and take them everywhere you go with Firefox Lockwise."
-link_url: "https://lockwise.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+link_url: "https://www.mozilla.org/firefox/lockwise/"
 image: "lockwise.jpg"
 size: "medium"
 aspect_ratio: "3-2"
