@@ -1,8 +1,8 @@
 ---
 # card 5
-title: "Lockwise: Verwalte Passwörter sicher"
+title: "Lockwise: Passwörter sicher speichern"
 tag_label: "Firefox Tool"
-desc: "Nimm deine Passwörter einfach mit – vom Computer aufs Smartphone oder Tablet, iOS und/oder Android. Passwörter merken, kannste vergessen."
+desc: "Verwalte deine Passwörter jetzt direkt im Browser und nimm sie per Lockwise App mit aufs Smartphone oder Tablet."
 link_url: "https://www.mozilla.org/firefox/lockwise/"
 size: "small"
 image: "lockwise.jpg"

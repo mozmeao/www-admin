@@ -1,11 +1,11 @@
 ---
 # card 11
-title: "L'édition 2018 de Rust est arrivée"
-tag_label: "Codage"
-desc: "Le langage Rust permet de programmer de façon sûre et efficace."
-link_url: "https://www.rust-lang.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Que faire en cas de fuite de données"
+tag_label: "Sécurité"
+desc: "Découvrez les mesures à prendre immédiatement quand vous apprenez qu'une fuite de données vous concerne afin de limiter les dégâts."
+link_url: "https://blog.mozilla.org/firefox/fr/que-faire-en-cas-de-fuite-de-donnees/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "rust.png"
+image: "breach.jpg"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---

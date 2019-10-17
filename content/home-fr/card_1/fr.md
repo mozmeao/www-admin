@@ -1,13 +1,13 @@
 ---
 # card 1
-title: "Firefox empêche les sites de vous pister"
-tag_label: "Vidéo"
-desc: "La protection renforcée contre le pistage est désormais automatique avec Firefox, empêchant les site de vous suivre."
-link_url: "https://youtu.be/TIyixFhOhYU"
+title: "Dites stop aux traqueurs publicitaires"
+tag_label: "Firefox"
+desc: "Plus de 2000 traqueurs vous suivent partout sur le Web et menacent votre vie privée. Alors Firefox les bloque pour vous."
+link_url: "https://youtu.be/4OKMVy859wA"
 size: "large"
-image: "etp.png"
+image: "firefox.png"
 aspect_ratio: "16-9"
 include_highres_image: true
-youtube_id: "TIyixFhOhYU"
+youtube_id: "4OKMVy859wA"
 media_icon: "video"
 ---
