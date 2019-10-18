@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Si vous voyez souvent la même pub, c'est peut-être à cause d'une prise d'empreinte numérique, une forme de pistage différente des cookies.",
-  "highres_image": "home-fr/card_9/fingerprint-high-res.6e2d42ed1eff.jpg",
-  "image": "home-fr/card_9/fingerprint.782d306b4a75.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/comment-bloquer-le-fingerprinting-avec-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Le langage Rust permet de programmer de façon sûre et efficace.",
+  "highres_image": "home-fr/card_9/rust-high-res.2f4b2890c84f.png",
+  "image": "home-fr/card_9/rust.c9d73e20c92f.png",
+  "link_url": "https://www.rust-lang.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Vie privée",
-  "title": "Comment bloquer la prise d'empreintes"
+  "tag_label": "Codage",
+  "title": "L'édition 2018 de Rust est arrivée"
 }

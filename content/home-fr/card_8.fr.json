@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Les mineurs de cryptomonnaie peuvent utiliser votre ordinateur pour générer la monnaie sans votre consentement. Firefox les en empêche.",
-  "highres_image": "home-fr/card_8/ico-high-res.2df141059af7.jpg",
-  "image": "home-fr/card_8/ico.ac8bc0f98c89.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/bloquez-les-cryptominers-avec-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Common Voice est une initiative de Mozilla pour aider à apprendre aux machines comment les humains parlent vraiment.",
+  "highres_image": "home-fr/card_8/common-voice-high-res.9458fd39740a.png",
+  "image": "home-fr/card_8/common-voice.dbab2b8d4786.png",
+  "link_url": "https://voice.mozilla.org/fr?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Sécurité",
-  "title": "Cryptominage : mauvaise pioche"
+  "tag_label": "Technologies émergentes",
+  "title": "Common Voice, un projet en bonne voie"
 }

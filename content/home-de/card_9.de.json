@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Hindere Facebook daran, dir durchs Web zu folgen. Facebook Container blockt jetzt auch Social Buttons, die dich tracken wollen. So geht's.",
-  "highres_image": "home-de/card_9/container-high-res.c93f0d01f1c3.png",
-  "image": "home-de/card_9/container.eba8f91f3006.png",
-  "link_url": "https://blog.mozilla.org/firefox/de/der-neueste-facebook-container-fuer-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Hacker-ABC: Wie kommen Hacker an deine persönlichen Daten, was können sie damit anstellen und wie kannst du dich schützen? Jetzt im Blog.",
+  "highres_image": "home-de/card_9/glitch-high-res.d8b908327cd3.jpg",
+  "image": "home-de/card_9/glitch.26388a14b5c3.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/de/firefox-sicherheits-tipp-so-arbeiten-hacker/utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Firefox Tool",
-  "title": "Der neue Facebook Container"
+  "tag_label": "Sicherheit",
+  "title": "So arbeiten Hacker"
 }

@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Vous pouvez personnaliser Firefox grâce aux milliers de thèmes élaborés par notre communauté. En voici quelques-uns qui valent le détour.",
-  "highres_image": "home-fr/card_3/plugins-high-res.fe223d5406b7.jpg",
-  "image": "home-fr/card_3/plugins.d6ae25de09ad.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/personnalisez-firefox-avec-les-themes-quon-aime/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "size": "small",
-  "tag_label": "Firefox",
-  "title": "Personnalisez Firefox avec les thèmes"
+  "desc": "Partagez gratuitement vos fichiers avec un chiffrement de bout en bout et un lien qui expire automatiquement avec Firefox Send.",
+  "highres_image": "home-fr/card_3/send-high-res.934ae31d2d40.png",
+  "image": "home-fr/card_3/send.3be094c6134c.png",
+  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "size": "medium",
+  "tag_label": "Outils Firefox",
+  "title": "Un partage fichiers simple et sécurisé"
 }

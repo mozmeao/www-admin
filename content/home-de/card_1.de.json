@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Wir behandeln dich nicht wie ein Produkt, sondern wie der wunderbare Mensch, der du bist. Lies hier mehr über unser Versprechen für deine persönlichen Daten.",
-  "highres_image": "home-de/card_1/promise-high-res.6df0d037bdda.png",
-  "image": "home-de/card_1/promise.e92ec7678d1a.png",
-  "link_url": "https://blog.mozilla.org/firefox/de/firefox-versprechen-fuer-deine-persoenlichen-daten/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Über 2000 Online-Tracker gefährden deine Privatsphäre. Firefox mag Privatsphäre. Also blocken wir Tracker.",
+  "highres_image": "home-de/card_1/firefox-high-res.c08539c712ca.png",
+  "image": "home-de/card_1/firefox.cc6a7b5d4621.png",
+  "link_url": "https://www.youtube.com/watch?v=1haCP8aAzFA&feature=youtu.be",
+  "media_icon": "video",
   "size": "large",
-  "tag_label": "Privacy",
-  "title": "Das Firefox Daten-Versprechen"
+  "tag_label": "Firefox",
+  "title": "Verbesserter Tracking-Schutz",
+  "youtube_id": "1haCP8aAzFA"
 }

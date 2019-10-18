@@ -1,11 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Firefox kommt ab sofort mit standardmäßig eingestelltem verbesserten Tracking-Schutz und hindert Seiten daran, dir durchs Web zu folgen.",
-  "image": "home-de/card_3/etp.d19ca0c8cd83.jpg",
-  "link_url": "https://youtu.be/OTepGIwH70Y",
-  "media_icon": "video",
+  "desc": "File-Sharing mit Firefox: Versende bis zu 2.5 GB einfach, schnell und sicher – passwortgeschützt und mit verschlüsseltem Link.",
+  "highres_image": "home-de/card_3/send-high-res.934ae31d2d40.png",
+  "image": "home-de/card_3/send.3be094c6134c.png",
+  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Video",
-  "title": "Hindere Websites daran, dich zu tracken",
-  "youtube_id": "OTepGIwH70Y"
+  "tag_label": "Firefox Tool",
+  "title": "Firefox Send: Dateien sicher teilen"
 }

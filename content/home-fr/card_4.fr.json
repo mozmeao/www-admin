@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Avec l'extension Facebook Container, vous rendez difficile pour Facebook de collecter vos données et de vous pister sur le Web.",
-  "highres_image": "home-fr/card_4/container-high-res.74739d633b68.png",
-  "image": "home-fr/card_4/container.6cd16c18471c.png",
-  "link_url": "https://addons.mozilla.org/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Visualisez les traqueurs que nous bloquons directement dans le navigateur.",
+  "highres_image": "home-fr/card_4/privacy-high-res.90f0ff7630f9.jpg",
+  "image": "home-fr/card_4/privacy.4e9409ae68df.jpg",
+  "link_url": "https://www.mozilla.org/firefox/privacy/products",
+  "media_icon": "video",
   "size": "small",
-  "tag_label": "Firefox",
-  "title": "Mettez Facebook en boîte"
+  "tag_label": "Outils Firefox",
+  "title": "Découvrez votre rapport de protection",
+  "youtube_id": "2vYod9b31DQ"
 }
