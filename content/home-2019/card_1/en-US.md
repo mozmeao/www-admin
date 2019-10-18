@@ -7,6 +7,7 @@ link_url: "https://blog.mozilla.org/firefox/join-firefox/?utm_source=www.mozilla
 size: "large"
 image: "five.jpg"
 aspect_ratio: "16-9"
+include_highres_image: true
 youtube_id: "8cmBd7lkunk"
 media_icon: "video"
 ---
