@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "Our 2019 compilation of research and stories explains what's key to a healthier internet, from personal experience to global concerns.",
-  "highres_image": "home-2019/card_13/health-high-res.ef2f32b7b282.jpg",
-  "image": "home-2019/card_13/health.bd63d4aabab8.jpg",
-  "link_url": "http://internethealthreport.org/2019/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "Your password is the first line of defense against unauthorized access to your accounts, and its strength directly impacts your online security.",
+  "highres_image": "home-2019/card_13/13-pass-high-res.a41242c37ac6.jpg",
+  "image": "home-2019/card_13/13-pass.c01d4c28aa4e.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/how-to-create-strong-passwords/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Internet Health",
-  "title": "The 2019 Internet Health Report"
+  "tag_label": "Security",
+  "title": "How to create strong passwords"
 }

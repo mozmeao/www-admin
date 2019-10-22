@@ -1,9 +1,10 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "Let’s build products — from playgrounds to technology — inclusive by design, in partnership with the people they serve.",
-  "image": "home-2019/card_12/dream.cee2918ab999.jpg",
-  "link_url": "https://blog.mozilla.org/internetcitizen/2019/05/14/web-accessibility-playground/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "Get the latest features, fast performance and the development tools you need to build for the open web.",
+  "highres_image": "home-2019/card_12/12-dev-high-res.b17c79866b91.png",
+  "image": "home-2019/card_12/12-dev.ba31813c7f41.png",
+  "link_url": "https://www.mozilla.org/firefox/developer/",
   "size": "medium",
-  "tag_label": "Accessibility",
-  "title": "Lessons learned from a playground"
+  "tag_label": "Developers",
+  "title": "The Firefox browser made for developers"
 }

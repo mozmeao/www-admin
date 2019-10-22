@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "If you keep seeing the same ad, it could be fingerprinting, a type of tracking that’s different from cookies or ordinary trackers.",
-  "highres_image": "home-2019/card_9/fingerprint-high-res.6e2d42ed1eff.jpg",
-  "image": "home-2019/card_9/fingerprint.782d306b4a75.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/how-to-block-fingerprinting-with-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "AI is being woven into more products and being applied to decisions that affect people globally. We all need to scale up our understanding.",
+  "highres_image": "home-2019/card_9/9-ai-high-res.b821a138338d.jpg",
+  "image": "home-2019/card_9/9-ai.f8952bf6b41f.jpg",
+  "link_url": "https://internethealthreport.org/2019/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Privacy",
-  "title": "How to block fingerprinting"
+  "tag_label": "Internet Health",
+  "title": "Let’s ask more of AI, and our selves"
 }

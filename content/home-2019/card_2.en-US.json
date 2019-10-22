@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "Our business doesn’t depend on abusing your trust. In fact, respecting your privacy is at the core of every Firefox product.",
-  "highres_image": "home-2019/card_2/promise-high-res.7bea4b5f0078.jpg",
-  "image": "home-2019/card_2/promise.3e7195762af2.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/firefox-data-privacy-promise/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "How deep is the rabbit hole of privacy? Drop in to explore twists, turns and surprises at this interactive exhibit in San Francisco.",
+  "highres_image": "home-2019/card_2/2-glass-high-res.e3b085268ce0.jpg",
+  "image": "home-2019/card_2/2-glass.9e96a1a94501.jpg",
+  "link_url": "https://theglassroom.org/san-francisco?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Privacy",
-  "title": "Firefox Personal Data Promise"
+  "tag_label": "Event",
+  "title": "Art tackles tech at The Glass Room"
 }
