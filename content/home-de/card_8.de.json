@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Wenn du immer wieder dieselbe Werbung siehst, könnte Fingerprinting dahinterstecken. Was das ist und wie du es blockst? Jetzt im Blog.",
-  "highres_image": "home-de/card_8/fingerprint-high-res.6e2d42ed1eff.jpg",
-  "image": "home-de/card_8/fingerprint.782d306b4a75.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/de/loesche-deinen-digitalen-fingerabdruck-in-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Der aktuelle Statusbericht zur Internetgesundheit ist da und zeigt, was ein gesundes Internet jetzt unbedingt braucht.",
+  "highres_image": "home-de/card_8/health-high-res.b6fc30dd43b3.jpg",
+  "image": "home-de/card_8/health.0a184c3c7111.jpg",
+  "link_url": "https://internethealthreport.org/de/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Privacy",
-  "title": "So blockierst du Fingerprinting"
+  "tag_label": "Internet Health",
+  "title": "Internet Health Report 2019"
 }

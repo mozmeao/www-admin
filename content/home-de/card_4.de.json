@@ -1,10 +1,11 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Der aktuelle Statusbericht zur Internetgesundheit ist da und zeigt, was ein gesundes Internet jetzt unbedingt braucht.",
-  "highres_image": "home-de/card_4/health-high-res.834e71fd947d.jpg",
-  "image": "home-de/card_4/health.ab459e926029.jpg",
-  "link_url": "https://internethealthreport.org/de/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Schau dir direkt in deinem Browser an, welche Tracker Firefox für dich blockt.",
+  "image": "home-de/card_4/privacy.31c2bf452d9b.jpg",
+  "link_url": "https://www.mozilla.org/firefox/privacy/products",
+  "media_icon": "video",
   "size": "small",
-  "tag_label": "Internet Health",
-  "title": "Internet Health Report 2019"
+  "tag_label": "Firefox Tool",
+  "title": "Dein persönlicher Tracking-Bericht",
+  "youtube_id": "furGGGe1Mwg"
 }

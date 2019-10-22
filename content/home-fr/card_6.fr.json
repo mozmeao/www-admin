@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Partagez gratuitement vos fichiers avec un chiffrement de bout en bout et un lien qui expire automatiquement avec Firefox Send.",
-  "highres_image": "home-fr/card_6/send-high-res.d8ecc3f21b3d.png",
-  "image": "home-fr/card_6/send.357af9eaf624.png",
-  "link_url": "https://blog.mozilla.org/firefox/fr/utilisez-firefox-send-pour-partager-gratuitement-des-fichiers-en-toute-securite/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Cette compilation 2019 d’études et d’articles présente les éléments clés au développement d’un Internet plus sain.",
+  "highres_image": "home-fr/card_6/health-high-res.b6fc30dd43b3.jpg",
+  "image": "home-fr/card_6/health.0a184c3c7111.jpg",
+  "link_url": "https://internethealthreport.org/2019/?lang=fr&utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card",
   "size": "medium",
-  "tag_label": "Outils Firefox",
-  "title": "Un partage fichiers simple et sécurisé"
+  "tag_label": "Santé d'internet",
+  "title": "Bulletin de santé d’Internet 2019"
 }
