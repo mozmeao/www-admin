@@ -1,12 +1,11 @@
 ---
 # card 3
-title: "Hindere Websites daran, dich zu tracken"
-tag_label: "Video"
-desc: "Firefox kommt ab sofort mit standardmäßig eingestelltem verbesserten Tracking-Schutz und hindert Seiten daran, dir durchs Web zu folgen."
-link_url: "https://youtu.be/OTepGIwH70Y"
+title: "Firefox Send: Dateien sicher teilen"
+tag_label: "Firefox Tool"
+desc: "File-Sharing mit Firefox: Versende bis zu 2,5 GB einfach, schnell und sicher – passwortgeschützt und mit verschlüsseltem Link."
+link_url: "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "etp.jpg"
+image: "send.png"
 aspect_ratio: "16-9"
-youtube_id: "OTepGIwH70Y"
-media_icon: "video"
+include_highres_image: true
 ---

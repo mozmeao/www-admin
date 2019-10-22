@@ -1,11 +1,12 @@
 ---
 # card 4
-title: "Internet Health Report 2019"
-tag_label: "Internet Health"
-desc: "Der aktuelle Statusbericht zur Internetgesundheit ist da und zeigt, was ein gesundes Internet jetzt unbedingt braucht."
-link_url: "https://internethealthreport.org/de/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Dein persönlicher Tracking-Bericht"
+tag_label: "Firefox Tool"
+desc: "Schau dir direkt in deinem Browser an, welche Tracker Firefox für dich blockt."
+link_url: "https://www.mozilla.org/firefox/privacy/products"
 size: "small"
-image: "health.jpg"
+image: "privacy.jpg"
 aspect_ratio: "16-9"
-include_highres_image: true
+youtube_id: "furGGGe1Mwg"
+media_icon: "video"
 ---
