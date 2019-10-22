@@ -1,11 +1,11 @@
 ---
 # card 7
-title: "Monitor watches for account breaches"
-tag_label: "Security"
-desc: "See if you’ve been part of an online data breach. Search for your email address in public data breaches going back to 2007."
-link_url: "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Social media trackers explained"
+tag_label: "Privacy"
+desc: "Your favorite free social media sites aren’t really free. You’re paying with your data and your privacy."
+link_url: "https://blog.mozilla.org/firefox/what-are-social-media-trackers/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "monitor.jpg"
+image: "explain.jpg"
 aspect_ratio: "3-2"
 include_highres_image: true
 ---

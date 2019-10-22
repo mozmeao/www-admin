@@ -1,10 +1,11 @@
 ---
 # card 11
-title: "A new interface for VR storytelling"
-tag_label: "Emerging Technologies"
-desc: "We’re teaming up with Emblematic Group to showcase next generation of storytelling on the web."
-link_url: "https://blog.mozilla.org/blog/2019/05/22/emblematic-group-and-mozilla-team-up-to-showcase-next-generation-of-storytelling-on-the-web/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Create faster layouts with CSS Grid"
+tag_label: "Tutorial"
+desc: "Learn how to build some previously-complex layouts in under 10 minutes, with only a few lines of code."
+link_url: "https://hacks.mozilla.org/2019/10/faster-layouts-with-css-grid-and-subgrid/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "story.jpg"
+image: "grid.jpg"
 aspect_ratio: "16-9"
+include_highres_image: true
 ---
