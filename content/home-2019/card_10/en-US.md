@@ -1,11 +1,11 @@
 ---
 # card 10
-title: "WebVR starter kit"
-tag_label: "Developers"
-desc: "We created a free, 5-part video course with Glitch to help anyone dive into creating virtual reality experiences."
-link_url: "https://hacks.mozilla.org/2019/02/webvr-starter-kit-mozilla-glitch/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Examining AI’s effect on media and truth"
+tag_label: "Grants"
+desc: "These eight art and advocacy projects highlight how AI intersects with online media and truth — and impacts our everyday lives."
+link_url: "https://blog.mozilla.org/blog/2019/09/17/examining-ais-effect-on-media-and-truth/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "tv.jpg"
+image: "award.png"
 aspect_ratio: "16-9"
-include_highres_image: false
+include_highres_image: true
 ---

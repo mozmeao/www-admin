@@ -1,11 +1,11 @@
 ---
 # card 13
-title: "The 2019 Internet Health Report"
-tag_label: "Internet Health"
-desc: "Our 2019 compilation of research and stories explains what's key to a healthier internet, from personal experience to global concerns."
-link_url: "http://internethealthreport.org/2019/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "How to create strong passwords"
+tag_label: "Security"
+desc: "Your password is the first line of defense against unauthorized access to your accounts, and its strength directly impacts your online security."
+link_url: "https://blog.mozilla.org/firefox/how-to-create-strong-passwords/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "health.jpg"
-aspect_ratio: "16-9"
+image: "pass.jpg"
+aspect_ratio: "3-2"
 include_highres_image: true
 ---
