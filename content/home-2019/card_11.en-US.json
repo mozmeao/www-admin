@@ -1,8 +1,8 @@
 {
   "aspect_ratio": "16-9",
   "desc": "Learn how to build some previously-complex layouts in under 10 minutes, with only a few lines of code.",
-  "highres_image": "home-2019/card_11/11-grid-high-res.ac240e5bf42a.jpg",
-  "image": "home-2019/card_11/11-grid.185c90bb7191.jpg",
+  "highres_image": "home-2019/card_11/grid-high-res.ac240e5bf42a.jpg",
+  "image": "home-2019/card_11/grid.185c90bb7191.jpg",
   "link_url": "https://hacks.mozilla.org/2019/10/faster-layouts-with-css-grid-and-subgrid/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
   "tag_label": "Tutorial",
