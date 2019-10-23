@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "See if you’ve been part of an online data breach. Search for your email address in public data breaches going back to 2007.",
-  "highres_image": "home-2019/card_7/monitor-high-res.b85fc015a1f1.jpg",
-  "image": "home-2019/card_7/monitor.9d6a6583c815.jpg",
-  "link_url": "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Your favorite free social media sites aren’t really free. You’re paying with your data and your privacy.",
+  "highres_image": "home-2019/card_7/explain-high-res.3d5b60bb7c7d.jpg",
+  "image": "home-2019/card_7/explain.72d2135f855c.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/what-are-social-media-trackers/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Security",
-  "title": "Monitor watches for account breaches"
+  "tag_label": "Privacy",
+  "title": "Social media trackers explained"
 }

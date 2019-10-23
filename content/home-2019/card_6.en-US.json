@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Manage your passwords safely, and take them everywhere you go with Firefox Lockwise.",
-  "highres_image": "home-2019/card_6/lockwise-high-res.6ea285a4071d.jpg",
-  "image": "home-2019/card_6/lockwise.ce9566297149.jpg",
-  "link_url": "https://www.mozilla.org/firefox/lockwise/",
-  "media_icon": "video",
+  "desc": "Pocket recommends a rotating selection of new articles every day, so it’s like a little surprise each time you open a new tab.",
+  "highres_image": "home-2019/card_6/pocket-high-res.65eb43567657.png",
+  "image": "home-2019/card_6/pocket.d1d3f7022385.png",
+  "link_url": "https://blog.mozilla.org/firefox/pocket-in-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Video",
-  "title": "Lockwise remembers passwords for you",
-  "youtube_id": "ltRDl6FJKck"
+  "tag_label": "Pocket",
+  "title": "The best reading on the web"
 }

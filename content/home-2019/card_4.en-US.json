@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Privacy shouldn’t be relegated to optional settings in the technology you use. That’s why we're making it the default.",
-  "highres_image": "home-2019/card_4/default-high-res.e41edec17e1a.jpg",
-  "image": "home-2019/card_4/default.997d5cdac3fb.jpg",
-  "link_url": "https://blog.mozilla.org/blog/2019/06/04/when-it-comes-to-privacy-default-settings-matter/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "That ad really is following you. How do sites know exactly how to tempt you to a point of annoyance? Answer: web trackers.",
+  "highres_image": "home-2019/card_4/watch-high-res.5265de96673e.png",
+  "image": "home-2019/card_4/watch.441180fb0760.png",
+  "link_url": "https://blog.mozilla.org/firefox/what-is-a-web-tracker/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Firefox",
-  "title": "Default settings matter"
+  "tag_label": "Privacy",
+  "title": "It's not just a feeling"
 }
