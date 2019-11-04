@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "How deep is the rabbit hole of privacy? Drop in to explore twists, turns and surprises at this interactive exhibit in San Francisco.",
-  "highres_image": "home-2019/card_2/glass-high-res.95736ab78adb.jpg",
-  "image": "home-2019/card_2/glass.b48a9a03ef5b.jpg",
-  "link_url": "https://theglassroom.org/san-francisco?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Matt Navarra kept a diary of his online day while using Firefox’s privacy protections. Any guesses how many trackers were blocked from following him?",
+  "highres_image": "home-2019/card_2/matt-high-res.a7096c99c136.jpg",
+  "image": "home-2019/card_2/matt.9a5a8c2f5af0.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/tracking-diaries-matt-navarra/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Event",
-  "title": "Art tackles tech at The Glass Room"
+  "tag_label": "Privacy",
+  "title": "Real people, real trackers"
 }
