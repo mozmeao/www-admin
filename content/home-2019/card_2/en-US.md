@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "Art tackles tech at The Glass Room"
-tag_label: "Event"
-desc: "How deep is the rabbit hole of privacy? Drop in to explore twists, turns and surprises at this interactive exhibit in San Francisco."
-link_url: "https://theglassroom.org/san-francisco?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Real people, real trackers"
+tag_label: "Privacy"
+desc: "Matt Navarra kept a diary of his online day while using Firefox’s privacy protections. Any guesses how many trackers were blocked from following him?"
+link_url: "https://blog.mozilla.org/firefox/tracking-diaries-matt-navarra/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "glass.jpg"
+image: "matt.jpg"
 aspect_ratio: "1-1"
 include_highres_image: true
 ---
