@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "Real people, real trackers"
+title: "*Privacy Not Included"
 tag_label: "Privacy"
-desc: "Matt Navarra kept a diary of his online day while using Firefox’s privacy protections. Any guesses how many trackers were blocked from following him?"
-link_url: "https://blog.mozilla.org/firefox/tracking-diaries-matt-navarra/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+desc: "Featuring this holiday's most requested gifts, our 2019 buyer's guide reviews over 70 connected products against our minimum security standards."
+link_url: "https://foundation.mozilla.org/en/privacynotincluded/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "matt.jpg"
+image: "guide.jpg"
 aspect_ratio: "1-1"
 include_highres_image: true
 ---
