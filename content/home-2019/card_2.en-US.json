@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "Matt Navarra kept a diary of his online day while using Firefox’s privacy protections. Any guesses how many trackers were blocked from following him?",
-  "highres_image": "home-2019/card_2/matt-high-res.a7096c99c136.jpg",
-  "image": "home-2019/card_2/matt.9a5a8c2f5af0.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/tracking-diaries-matt-navarra/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Featuring this holiday’s most requested gifts, our 2019 buyer’s guide reviews over 70 connected products against our minimum security standards.",
+  "highres_image": "home-2019/card_2/guide-high-res.a12bff1c92ab.jpg",
+  "image": "home-2019/card_2/guide.6b78a2dd78e4.jpg",
+  "link_url": "https://foundation.mozilla.org/privacynotincluded/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
   "tag_label": "Privacy",
-  "title": "Real people, real trackers"
+  "title": "*Privacy Not Included"
 }
