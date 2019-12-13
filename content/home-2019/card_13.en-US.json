@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Your password is the first line of defense against unauthorized access to your accounts, and its strength directly impacts your online security.",
-  "highres_image": "home-2019/card_13/pass-high-res.a41242c37ac6.jpg",
-  "image": "home-2019/card_13/pass.c01d4c28aa4e.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/how-to-create-strong-passwords/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "We launched Common Voice, a project to help make voice recognition open and accessible to everyone. Share your voice today!",
+  "highres_image": "home-2019/card_13/voice-high-res.2369576f450b.jpg",
+  "image": "home-2019/card_13/voice.b0eda61287f3.jpg",
+  "link_url": "https://voice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Security",
-  "title": "How to create strong passwords"
+  "tag_label": "Emerging Technologies",
+  "title": "Have a minute? Donate your voice"
 }
