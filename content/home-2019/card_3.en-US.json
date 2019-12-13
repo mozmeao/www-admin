@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "The Firefox privacy protections dashboard reveals who’s trying to track you behind the scenes and helps you stop them.",
-  "highres_image": "home-2019/card_3/protect-high-res.35bdac04bfc2.png",
-  "image": "home-2019/card_3/protect.367fdac2e80a.png",
-  "link_url": "https://blog.mozilla.org/firefox/firefox-privacy-protections/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Keep your holiday shopping under wraps. Give trackers and advertisers a lump of coal instead.",
+  "highres_image": "home-2019/card_3/gifts-high-res.961941cb8396.jpg",
+  "image": "home-2019/card_3/gifts.db55b467a42e.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/holiday-shopping-privacy/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
   "tag_label": "Enhanced Tracking Protection",
-  "title": "How many trackers did you block today?"
+  "title": "Don't let your gifts get spoiled"
 }

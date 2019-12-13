@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "That ad really is following you. How do sites know exactly how to tempt you to a point of annoyance? Answer: web trackers.",
-  "highres_image": "home-2019/card_4/watch-high-res.5265de96673e.png",
-  "image": "home-2019/card_4/watch.441180fb0760.png",
-  "link_url": "https://blog.mozilla.org/firefox/what-is-a-web-tracker/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Take a look back at your year online. What you find might surprise you.",
+  "highres_image": "home-2019/card_4/flashback-high-res.80fed24a4b90.png",
+  "image": "home-2019/card_4/flashback.d18605b87b30.png",
+  "link_url": "https://www.mozilla.org/firefox/flashback/",
   "size": "small",
-  "tag_label": "Privacy",
-  "title": "It's not just a feeling"
+  "tag_label": "Firefox",
+  "title": "That’s a wrap"
 }
