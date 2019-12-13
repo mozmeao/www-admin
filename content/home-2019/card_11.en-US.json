@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Learn how to build some previously-complex layouts in under 10 minutes, with only a few lines of code.",
-  "highres_image": "home-2019/card_11/grid-high-res.ac240e5bf42a.jpg",
-  "image": "home-2019/card_11/grid.185c90bb7191.jpg",
-  "link_url": "https://hacks.mozilla.org/2019/10/faster-layouts-with-css-grid-and-subgrid/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Do you know a bit about accessibility and want to start keyboard testing, but not sure where to start? This video will help.",
+  "highres_image": "home-2019/card_11/keyboard-high-res.45d98bcfc465.jpg",
+  "image": "home-2019/card_11/keyboard.8e410b84c52f.jpg",
+  "link_url": "https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "medium",
   "tag_label": "Tutorial",
-  "title": "Create faster layouts with CSS Grid"
+  "title": "Troubleshoot keyboard accessibility",
+  "youtube_id": "0FiQZnkKglk"
 }

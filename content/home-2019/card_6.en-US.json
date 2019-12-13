@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Pocket recommends a rotating selection of new articles every day, so it’s like a little surprise each time you open a new tab.",
-  "highres_image": "home-2019/card_6/pocket-high-res.65eb43567657.png",
-  "image": "home-2019/card_6/pocket.d1d3f7022385.png",
-  "link_url": "https://blog.mozilla.org/firefox/pocket-in-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "See if you’ve been part of an online data breach. Search for your email address in public data breaches going back to 2007.",
+  "highres_image": "home-2019/card_6/monitor-high-res.b1f186f8d7f3.jpg",
+  "image": "home-2019/card_6/monitor.06cf5bc21707.jpg",
+  "link_url": "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Pocket",
-  "title": "The best reading on the web"
+  "tag_label": "Security",
+  "title": "Monitor watches for account breaches"
 }
