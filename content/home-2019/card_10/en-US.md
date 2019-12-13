@@ -1,11 +1,11 @@
 ---
 # card 10
-title: "Examining AI’s effect on media and truth"
-tag_label: "Grants"
-desc: "These eight art and advocacy projects highlight how AI intersects with online media and truth — and impacts our everyday lives."
-link_url: "https://blog.mozilla.org/blog/2019/09/17/examining-ais-effect-on-media-and-truth/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "No soup for these friendly passwords"
+tag_label: "Tips"
+desc: "If you're using your favorite sport, sitcom or state as your passwords, 1) you're not alone, and 2) you need to change them."
+link_url: "https://blog.mozilla.org/firefox/pop-culture-bad-passwords/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "award.png"
+image: "friends.png"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---
