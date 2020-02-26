@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Take a look back at your year online. What you find might surprise you.",
-  "highres_image": "home-2019/card_4/flashback-high-res.80fed24a4b90.png",
-  "image": "home-2019/card_4/flashback.d18605b87b30.png",
-  "link_url": "https://www.mozilla.org/firefox/flashback/",
+  "desc": "Sometimes we need space from the things we love, including our phones.",
+  "highres_image": "home-2019/card_4/detox-high-res.ae9b6eda4e54.png",
+  "image": "home-2019/card_4/detox.ff8804d14288.png",
+  "link_url": "https://blog.mozilla.org/firefox/data-detox-phone/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Firefox",
-  "title": "That’s a wrap"
+  "tag_label": "Data detox",
+  "title": "Reset your relationship with your phone"
 }
