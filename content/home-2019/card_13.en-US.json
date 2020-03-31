@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "We launched Common Voice, a project to help make voice recognition open and accessible to everyone. Share your voice today!",
-  "highres_image": "home-2019/card_13/voice-high-res.2369576f450b.jpg",
-  "image": "home-2019/card_13/voice.b0eda61287f3.jpg",
-  "link_url": "https://voice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Sometimes we need space from the things we love, including our phones.",
+  "highres_image": "home-2019/card_13/phone-high-res.13ad1fee7bc8.png",
+  "image": "home-2019/card_13/phone.01ac7c54faa9.png",
+  "link_url": "https://blog.mozilla.org/firefox/data-detox-phone/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Emerging Technologies",
-  "title": "Have a minute? Donate your voice"
+  "tag_label": "Data detox",
+  "title": "Reset your relationship with your phone"
 }

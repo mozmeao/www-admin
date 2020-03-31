@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "Addressing ethical issues in the tech industry is not impossible. And it is, increasingly, necessary.",
-  "highres_image": "home-2019/card_2/ethical-high-res.dc33c9a8f997.jpg",
-  "image": "home-2019/card_2/ethical.c9c248e56f9b.jpg",
-  "link_url": "https://foundation.mozilla.org/en/initiatives/great-tech-great-responsibility/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "We're doing our best to check in on one another, stay connected and invite pets and kids to our calls for a bit of joy.",
+  "highres_image": "home-2019/card_2/pup-high-res.0c2bb1d5b735.jpg",
+  "image": "home-2019/card_2/pup.024e51b0c0fd.jpg",
+  "link_url": "https://youtu.be/_EeFDE5WW0I",
+  "media_icon": "video",
   "size": "small",
-  "tag_label": "Mozilla Foundation",
-  "title": "Navigating ethical issues in tech"
+  "tag_label": "Video",
+  "title": "At Mozilla, we're all in this together",
+  "youtube_id": "_EeFDE5WW0I"
 }

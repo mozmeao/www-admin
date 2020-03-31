@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "If you're using your favorite sport, sitcom or state as your passwords, 1) you're not alone, and 2) you need to change them.",
-  "highres_image": "home-2019/card_10/friends-high-res.463dcc6db6a9.png",
-  "image": "home-2019/card_10/friends.5ff3668ef7a7.png",
-  "link_url": "https://blog.mozilla.org/firefox/pop-culture-bad-passwords/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "Here are some web development learning resources for kids of all ages. All you need is a web browser.",
+  "highres_image": "home-2019/card_10/colour-high-res.97a99fbdc0d7.jpg",
+  "image": "home-2019/card_10/colour.8281310fd004.jpg",
+  "link_url": "https://hacks.mozilla.org/2020/03/learn-web-technology-at-sofa-school/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Tips",
-  "title": "No soup for these friendly passwords"
+  "tag_label": "Developers",
+  "title": "Kid-friendly coding"
 }
