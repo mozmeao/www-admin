@@ -1,11 +1,11 @@
 ---
 # card 10
-title: "No soup for these friendly passwords"
-tag_label: "Tips"
-desc: "If you're using your favorite sport, sitcom or state as your passwords, 1) you're not alone, and 2) you need to change them."
-link_url: "https://blog.mozilla.org/firefox/pop-culture-bad-passwords/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Kid-friendly coding"
+tag_label: "Developers"
+desc: "Here are some web development learning resources for kids of all ages. All you need is a web browser."
+link_url: "https://hacks.mozilla.org/2020/03/learn-web-technology-at-sofa-school/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "friends.png"
-aspect_ratio: "16-9"
+image: "colour.jpg"
+aspect_ratio: "3-2"
 include_highres_image: true
 ---

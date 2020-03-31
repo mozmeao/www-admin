@@ -1,11 +1,11 @@
 ---
 # card 8
-title: "Spoke: the Architecture Kit"
-tag_label: "Emerging Technologies"
-desc: "Creators can access 400+ different pieces that are designed to be used together to create beautiful, immersive building experiences."
-link_url: "https://blog.mozvr.com/year-with-spoke-architecture-kit/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "An original podcast from Firefox"
+tag_label: "Podcast"
+desc: "Catch up on real talk about the future of the web with stories about the surveillance economy, privacy vs profits, and more."
+link_url: "https://irlpodcast.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "spoke.jpg"
-aspect_ratio: "3-2"
+image: "irl.jpg"
+aspect_ratio: "16-9"
 include_highres_image: true
 ---

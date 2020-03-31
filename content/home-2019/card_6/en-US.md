@@ -1,11 +1,11 @@
 ---
 # card 6
-title: "Monitor watches for account breaches"
-tag_label: "Security"
-desc: "See if you’ve been part of an online data breach. Search for your email address in public data breaches going back to 2007."
-link_url: "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Hubs by Mozilla"
+tag_label: "Emerging Technologies"
+desc: "Share a virtual room with friends. Watch videos, play with 3D objects, or just hang out."
+link_url: "https://hubs.mozilla.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "monitor.jpg"
+image: "hubs.jpg"
 aspect_ratio: "3-2"
 include_highres_image: true
 ---
