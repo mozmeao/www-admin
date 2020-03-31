@@ -1,11 +1,11 @@
 ---
 # card 13
-title: "Have a minute? Donate your voice"
-tag_label: "Emerging Technologies"
-desc: "We launched Common Voice, a project to help make voice recognition open and accessible to everyone. Share your voice today!"
-link_url: "https://voice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Reset your relationship with your phone"
+tag_label: "Data detox"
+desc: "Adjust these settings on your phone to protect your data and find a usage balance."
+link_url: "https://blog.mozilla.org/firefox/data-detox-phone/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "voice.jpg"
+image: "phone.png"
 aspect_ratio: "3-2"
 include_highres_image: true
 ---

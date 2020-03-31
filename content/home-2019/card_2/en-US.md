@@ -1,11 +1,13 @@
 ---
 # card 2
-title: "Navigating ethical issues in tech"
-tag_label: "Mozilla Foundation"
-desc: "Addressing ethical issues in the tech industry is not impossible. And it is, increasingly, necessary."
-link_url: "https://foundation.mozilla.org/en/initiatives/great-tech-great-responsibility/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "At Mozilla, we're all in this together"
+tag_label: "Video"
+desc: "We're doing our best to check in on one another, stay connected and invite pets and kids to our calls for a bit of joy."
+link_url: "https://blog.mozilla.org/careers/working-from-home-at-mozilla/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "ethical.jpg"
+image: "pup.jpg"
 aspect_ratio: "1-1"
 include_highres_image: true
+youtube_id: "_EeFDE5WW0I"
+media_icon: "video"
 ---
