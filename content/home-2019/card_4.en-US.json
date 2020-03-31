@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Sometimes we need space from the things we love, including our phones.",
-  "highres_image": "home-2019/card_4/detox-high-res.ae9b6eda4e54.png",
-  "image": "home-2019/card_4/detox.ff8804d14288.png",
-  "link_url": "https://blog.mozilla.org/firefox/data-detox-phone/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Facebook Container lets you connect with friends while making it harder for Facebook to track you on the web.",
+  "highres_image": "home-2019/card_4/container-high-res.9b822c067978.png",
+  "image": "home-2019/card_4/container.bde57ad32765.png",
+  "link_url": "https://www.mozilla.org/firefox/facebookcontainer/",
   "size": "small",
-  "tag_label": "Data detox",
-  "title": "Reset your relationship with your phone"
+  "tag_label": "Privacy",
+  "title": "Facebook, well contained"
 }

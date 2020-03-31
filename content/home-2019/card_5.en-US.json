@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Secure your network connection with our new service — especially handy while traveling and using airport and coffee shop WiFi.",
-  "highres_image": "home-2019/card_5/fpn-high-res.81697841a654.jpg",
-  "image": "home-2019/card_5/fpn.907c0240e486.jpg",
-  "link_url": "https://fpn.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "The internet is full of information we need to stay healthy right now. We pulled together some some resources to help.",
+  "highres_image": "home-2019/card_5/foundation-high-res.107e7265a888.png",
+  "image": "home-2019/card_5/foundation.812f3bc4c6dc.png",
+  "link_url": "https://foundation.mozilla.org/en/blog/thank-goodness-internet/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Privacy",
-  "title": "Feel safer on public WiFi"
+  "tag_label": "Mozilla Foundation",
+  "title": "Thank goodness for the internet"
 }

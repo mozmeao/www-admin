@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Manage your passwords safely, and take them everywhere you go with Firefox Lockwise.",
-  "highres_image": "home-2019/card_7/lockwise-high-res.42e425d5d866.jpg",
-  "image": "home-2019/card_7/lockwise.ee2245d62390.jpg",
-  "link_url": "https://www.mozilla.org/firefox/lockwise/",
-  "media_icon": "video",
+  "desc": "Common Voice is our initiative to help teach machines how real people speak. Pitch in with your voice or help us validate others.",
+  "highres_image": "home-2019/card_7/common-high-res.7284fc96fbc3.jpg",
+  "image": "home-2019/card_7/common.94281f1a24ed.jpg",
+  "link_url": "https://voice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Video",
-  "title": "Lockwise remembers passwords for you",
-  "youtube_id": "8VoheBpsLoY"
+  "tag_label": "Emerging Technologies",
+  "title": "Have a minute? Come talk to us."
 }

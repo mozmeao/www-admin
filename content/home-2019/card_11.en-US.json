@@ -1,12 +1,10 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "Do you know a bit about accessibility and want to start keyboard testing, but not sure where to start? This video will help.",
-  "highres_image": "home-2019/card_11/keyboard-high-res.45d98bcfc465.jpg",
-  "image": "home-2019/card_11/keyboard.8e410b84c52f.jpg",
-  "link_url": "https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
+  "aspect_ratio": "3-2",
+  "desc": "Get tools, resources, videos and more to develop high quality, compatible web experiences.",
+  "highres_image": "home-2019/card_11/dev-high-res.231b9c104561.jpg",
+  "image": "home-2019/card_11/dev.e52f8c52f2a7.jpg",
+  "link_url": "https://developer.mozilla.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Tutorial",
-  "title": "Troubleshoot keyboard accessibility",
-  "youtube_id": "0FiQZnkKglk"
+  "tag_label": "Developers",
+  "title": "Browse our developer tools"
 }

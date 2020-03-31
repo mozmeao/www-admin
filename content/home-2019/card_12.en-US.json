@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Get the latest features, fast performance and the development tools you need to build for the open web.",
-  "highres_image": "home-2019/card_12/dev-high-res.b17c79866b91.png",
-  "image": "home-2019/card_12/dev.ba31813c7f41.png",
-  "link_url": "https://www.mozilla.org/firefox/developer/",
+  "desc": "Social media has become an online extension of who we are. Check out these four ways to protect yourself while being social.",
+  "highres_image": "home-2019/card_12/detox-high-res.6aadffd2ca1e.png",
+  "image": "home-2019/card_12/detox.24da426f85f1.png",
+  "link_url": "https://blog.mozilla.org/firefox/data-detox-computer/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Developers",
-  "title": "The Firefox browser made for developers"
+  "tag_label": "Tips",
+  "title": "Status update: It's complicated"
 }
