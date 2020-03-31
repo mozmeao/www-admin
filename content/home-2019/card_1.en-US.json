@@ -1,12 +1,9 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Thousands of trackers follow you around the internet every day. Firefox blocks them automatically.",
-  "highres_image": "home-2019/card_1/master-high-res.45db737208c9.png",
-  "image": "home-2019/card_1/master.b8b7b1df67c3.png",
-  "link_url": "https://blog.mozilla.org/blog/2019/10/22/latest-firefox-brings-privacy-protections-front-and-center-letting-you-track-the-trackers/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
+  "desc": "Looking for reliable facts and context on coronavirus? Stay informed with Pocket's curated guide to the global outbreak.",
+  "image": "home-2019/card_1/corona.ce92523a561d.jpg",
+  "link_url": "https://getpocket.com/coronavirus-info?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "large",
-  "tag_label": "Video",
-  "title": "Get 2,000+ trackers off your trail",
-  "youtube_id": "dKmoubR-nVg"
+  "tag_label": "Pocket",
+  "title": "Essential reads from Pocket"
 }

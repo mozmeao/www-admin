@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "See if you’ve been part of an online data breach. Search for your email address in public data breaches going back to 2007.",
-  "highres_image": "home-2019/card_6/monitor-high-res.b1f186f8d7f3.jpg",
-  "image": "home-2019/card_6/monitor.06cf5bc21707.jpg",
-  "link_url": "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Share a virtual room with friends. Watch videos, play with 3D objects, or just hang out.",
+  "highres_image": "home-2019/card_6/hubs-high-res.ad51ef0f06bd.jpg",
+  "image": "home-2019/card_6/hubs.0a4b53111091.jpg",
+  "link_url": "https://hubs.mozilla.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Security",
-  "title": "Monitor watches for account breaches"
+  "tag_label": "Emerging Technologies",
+  "title": "Hubs by Mozilla"
 }

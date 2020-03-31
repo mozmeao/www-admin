@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "3-2",
-  "desc": "Creators can access 400+ different pieces that are designed to be used together to create beautiful, immersive building experiences.",
-  "highres_image": "home-2019/card_8/spoke-high-res.b339ae5ebe3c.jpg",
-  "image": "home-2019/card_8/spoke.916176e107b4.jpg",
-  "link_url": "https://blog.mozvr.com/year-with-spoke-architecture-kit/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "16-9",
+  "desc": "Catch up on real talk about the future of the web with stories about the surveillance economy, privacy vs profits, and more.",
+  "highres_image": "home-2019/card_8/irl-high-res.608df7e8cda3.jpg",
+  "image": "home-2019/card_8/irl.68b3f6e2e15a.jpg",
+  "link_url": "https://irlpodcast.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Emerging Technologies",
-  "title": "Spoke: the Architecture Kit"
+  "tag_label": "Podcast",
+  "title": "An original podcast from Firefox"
 }
