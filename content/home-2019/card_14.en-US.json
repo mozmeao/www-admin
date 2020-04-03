@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Common Voice is our initiative to help teach machines how real people speak. Pitch in with your voice or help us validate others.",
-  "highres_image": "home-2019/card_14/common-high-res.7284fc96fbc3.jpg",
-  "image": "home-2019/card_14/common.94281f1a24ed.jpg",
-  "link_url": "https://voice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "size": "medium",
-  "tag_label": "Emerging Technologies",
-  "title": "Have a minute? Come talk to us."
+  "desc": "Apply for an award of up to $50k to fund open source technology projects that respond to the COVID-19 pandemic in some way.",
+  "highres_image": "home-2019/card_14/heart-high-res.46367ba64484.png",
+  "image": "home-2019/card_14/heart.4e5b87626c93.png",
+  "link_url": "https://blog.mozilla.org/blog/2020/03/31/moss-launches-covid-19-solutions-fund/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "size": "small",
+  "tag_label": "MOSS",
+  "title": "Mozilla COVID-19 Solutions Fund"
 }
