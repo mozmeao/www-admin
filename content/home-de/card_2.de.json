@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "1-1",
   "desc": "Wir finanzieren Open-Source-Projekte, die zu Erleichterungen während der Corona-Pandemie beitragen, mit bis zu 50.000 USD. Jetzt bewerben!",
-  "highres_image": "home-de/card_2/protections-high-res.5ccd99947991.jpg",
-  "image": "home-de/card_2/protections.425fc3faf3aa.jpg",
+  "highres_image": "home-de/card_2/heart-high-res.2893cda1fc61.png",
+  "image": "home-de/card_2/heart.5c661e9acb25.png",
   "link_url": "https://blog.mozilla.org/press-de/2020/04/07/moss-richtet-fonds-zur-unterstuetzung-von-covid-19-loesungen-ein/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
   "size": "small",
   "tag_label": "MOSS",
-  "title": "Mozilla unterstützt COVID-19-Lösungen",
-  "youtube_id": "furGGGe1Mwg "
+  "title": "Mozilla unterstützt COVID-19-Lösungen"
 }
