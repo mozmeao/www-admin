@@ -1,11 +1,11 @@
 ---
 # card 7
-title: "Das Firefox Daten-Versprechen"
+title: "Pass auf dich auf – auch online "
 tag_label: "Privatsphäre"
-desc: "Wir behandeln dich nicht wie ein Produkt, sondern wie der wunderbare Mensch, der du bist: unser Versprechen für deine persönlichen Daten."
-link_url: "https://blog.mozilla.org/firefox/de/firefox-versprechen-fuer-deine-persoenlichen-daten/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+desc: "Jetzt wo wir noch mehr Zeit im Web verbringen als je zuvor, sollten wir auf ein paar Dinge achten, um auch weiterhin sicher zu bleiben."
+link_url: "https://blog.mozilla.org/firefox/de/pass-auf-dich-auf-auch-online/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "promise.png"
+image: "passwords.png"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---

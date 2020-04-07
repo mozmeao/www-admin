@@ -1,11 +1,11 @@
 ---
 # card 3
-title: "Firefox Send: Dateien sicher teilen"
+title: "Lockwise: Passwörter sicher speichern"
 tag_label: "Firefox Tool"
-desc: "File-Sharing mit Firefox: Versende bis zu 2,5 GB einfach, schnell und sicher – passwortgeschützt und mit verschlüsseltem Link."
-link_url: "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+desc: "Verwalte deine Passwörter jetzt direkt im Browser und nimm sie per Lockwise App mit aufs Smartphone oder Tablet."
+link_url: "https://www.mozilla.org/firefox/lockwise/"
 size: "small"
-image: "send.png"
+image: "lockwise.jpg"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---
