@@ -1,11 +1,11 @@
 ---
 # card 6
-title: "aweb: der Tech-Podcast für Nicht-Techies"
-tag_label: "Podcast"
-desc: "Influencer, Darknet, Kids on the Web: In aweb sprechen wir über Dinge, die das Web bedeuten – so, dass es jeder versteht."
-link_url: "https://awebpodcast.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Firefox Send: Dateien sicher teilen"
+tag_label: "Firefox Tool"
+desc: "File-Sharing mit Firefox: Versende bis zu 2,5 GB einfach, schnell und sicher – passwortgeschützt und mit verschlüsseltem Link."
+link_url: "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "aweb.jpg"
+image: "send.png"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---
