@@ -3,10 +3,8 @@
   "desc": "Über 2000 Online-Tracker gefährden deine Privatsphäre. Firefox mag Privatsphäre. Also blocken wir Tracker.",
   "highres_image": "home-de/card_1/firefox-high-res.c08539c712ca.png",
   "image": "home-de/card_1/firefox.cc6a7b5d4621.png",
-  "link_url": "https://www.youtube.com/playlist?list=PLFlAJDI87Jg1uPivlk8WntzaXh0aq5DFE",
-  "media_icon": "video",
+  "link_url": "https://blog.mozilla.org/firefox/de/hass-im-web-was-koennen-wir-gegen-hate-speech-tun/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "large",
-  "tag_label": "Firefox",
-  "title": "Verbesserter Tracking-Schutz",
-  "youtube_id": "1haCP8aAzFA"
+  "tag_label": "Internet Health",
+  "title": "Hass im Web: Was können wir gegen Hate Speech tun?"
 }
