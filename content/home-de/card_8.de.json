@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Hol dir die neuesten Features, super Performance und die Entwickler-Tools, die du brauchst, um ein offenes Web mitzugestalten.",
-  "highres_image": "home-de/card_8/dev-high-res.45d0c5e81418.jpg",
-  "image": "home-de/card_8/dev.1f163d18201f.jpg",
-  "link_url": "https://www.mozilla.org/firefox/developer/",
+  "desc": "Der aktuelle Statusbericht zur Internetgesundheit ist da und zeigt, was ein gesundes Internet jetzt unbedingt braucht.",
+  "highres_image": "home-de/card_8/health-high-res.b6fc30dd43b3.jpg",
+  "image": "home-de/card_8/health.0a184c3c7111.jpg",
+  "link_url": "https://internethealthreport.org/de/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Programmiersprache",
-  "title": "Der Firefox Browser für Entwickler"
+  "tag_label": "Internet Health",
+  "title": "Internet Health Report 2019"
 }

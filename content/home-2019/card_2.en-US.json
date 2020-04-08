@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "We're doing our best to check in on one another, stay connected and invite pets and kids to our calls for a bit of joy.",
-  "highres_image": "home-2019/card_2/pup-high-res.0c2bb1d5b735.jpg",
-  "image": "home-2019/card_2/pup.024e51b0c0fd.jpg",
-  "link_url": "https://blog.mozilla.org/careers/working-from-home-at-mozilla/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
+  "desc": "Mitchell’s deep understanding of Mozilla’s existing businesses gives her the ability to provide direction and support to drive this important work forward.",
+  "highres_image": "home-2019/card_2/ceo-high-res.e285fe670665.jpg",
+  "image": "home-2019/card_2/ceo.c5574484862e.jpg",
+  "link_url": "https://blog.mozilla.org/blog/2020/04/08/mitchell-baker-named-ceo-of-mozilla/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Video",
-  "title": "At Mozilla, we're all in this together",
-  "youtube_id": "_EeFDE5WW0I"
+  "tag_label": "Announcement",
+  "title": "Mitchell Baker named CEO of Mozilla"
 }

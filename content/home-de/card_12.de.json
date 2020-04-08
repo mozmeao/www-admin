@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Der Statusbericht zur Internetgesundheit zeigt, was ein gesundes Internet jetzt unbedingt braucht.",
-  "highres_image": "home-de/card_12/health-high-res.1efabf62de8b.jpg",
-  "image": "home-de/card_12/health.c17bb44fc21b.jpg",
-  "link_url": "https://internethealthreport.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Das Common-Voice-Projekt ist eine Initiative von Mozilla, die dabei helfen soll, Maschinen beizubringen, wie echte Menschen sprechen.",
+  "highres_image": "home-de/card_12/common-voice-high-res.27423e936f12.png",
+  "image": "home-de/card_12/common-voice.65fbb8a26b45.png",
+  "link_url": "https://voice.mozilla.org/de?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Internet Health",
-  "title": "Internet Health Report 2019"
+  "tag_label": "Spracherkennung",
+  "title": "Sprachtechnologie für alle! Common Voice"
 }
