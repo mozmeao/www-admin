@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "File-Sharing mit Firefox: Versende bis zu 2,5 GB einfach, schnell und sicher – passwortgeschützt und mit verschlüsseltem Link.",
-  "highres_image": "home-de/card_3/send-high-res.934ae31d2d40.png",
-  "image": "home-de/card_3/send.3be094c6134c.png",
-  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Verwalte deine Passwörter jetzt direkt im Browser und nimm sie per Lockwise App mit aufs Smartphone oder Tablet.",
+  "highres_image": "home-de/card_3/lockwise-high-res.bad446deb2b4.jpg",
+  "image": "home-de/card_3/lockwise.34eb3a6b5447.jpg",
+  "link_url": "https://www.mozilla.org/firefox/lockwise/",
   "size": "small",
   "tag_label": "Firefox Tool",
-  "title": "Firefox Send: Dateien sicher teilen"
+  "title": "Lockwise: Passwörter sicher speichern"
 }
