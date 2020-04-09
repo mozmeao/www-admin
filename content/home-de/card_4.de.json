@@ -1,11 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Schau dir direkt in deinem Browser an, welche Tracker Firefox für dich blockt.",
-  "image": "home-de/card_4/privacy.31c2bf452d9b.jpg",
-  "link_url": "https://www.mozilla.org/firefox/privacy/products",
-  "media_icon": "video",
+  "desc": "Mit der Facebook-Container-Erweiterung ziehst du eine Grenze zwischen deinem Facebook-Profil und dem Rest deiner Online-Aktivitäten.",
+  "highres_image": "home-de/card_4/container-high-res.1e5e799fdd9b.jpg",
+  "image": "home-de/card_4/container.03a4d4758367.jpg",
+  "link_url": "https://addons.mozilla.org/de/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
   "tag_label": "Firefox Tool",
-  "title": "Dein persönlicher Tracking-Bericht",
-  "youtube_id": "furGGGe1Mwg"
+  "title": "Facebook: Ja. Facebook-Tracking: NEIN!"
 }

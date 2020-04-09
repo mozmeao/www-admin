@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Influencer, Darknet, Kids on the Web: In aweb sprechen wir über Dinge, die das Web bedeuten – so, dass es jeder versteht.",
-  "highres_image": "home-de/card_6/aweb-high-res.3c8874899607.jpg",
-  "image": "home-de/card_6/aweb.9e4c3821afba.jpg",
-  "link_url": "https://awebpodcast.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "File-Sharing mit Firefox: Versende bis zu 2,5 GB einfach, schnell und sicher – passwortgeschützt und mit verschlüsseltem Link.",
+  "highres_image": "home-de/card_6/send-high-res.d8ecc3f21b3d.png",
+  "image": "home-de/card_6/send.357af9eaf624.png",
+  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Podcast",
-  "title": "aweb: der Tech-Podcast für Nicht-Techies"
+  "tag_label": "Firefox Tool",
+  "title": "Firefox Send: Dateien sicher teilen"
 }
