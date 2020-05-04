@@ -1,7 +1,8 @@
 process data:
   stage: build
   tags:
-    - meao
+    - mozmeao
+    - aws
   only:
     - dev
     - master
