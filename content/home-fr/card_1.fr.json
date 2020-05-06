@@ -1,12 +1,11 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Plus de 2000 traqueurs vous suivent partout sur le Web et menacent votre vie privée. Alors Firefox les bloque pour vous.",
-  "highres_image": "home-fr/card_1/firefox-high-res.c08539c712ca.png",
-  "image": "home-fr/card_1/firefox.cc6a7b5d4621.png",
-  "link_url": "https://youtu.be/4OKMVy859wA",
+  "desc": "Pour nous, protéger votre vie privée est une mission, pas un slogan publicitaire. Prenez le contrôle en rejoignant Firefox.",
+  "image": "home-fr/card_1/five.be44c76d580c.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/fr/rejoignez-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "media_icon": "video",
   "size": "large",
-  "tag_label": "Firefox",
-  "title": "Dites stop aux traqueurs publicitaires",
-  "youtube_id": "4OKMVy859wA"
+  "tag_label": "Vidéo",
+  "title": "Vie privée : des actes, pas des paroles",
+  "youtube_id": "3lPSQ5KjamI"
 }

@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Découvrez les mesures à prendre immédiatement quand vous apprenez qu'une fuite de données vous concerne afin de limiter les dégâts.",
-  "highres_image": "home-fr/card_11/breach-high-res.99570c2e8bae.jpg",
-  "image": "home-fr/card_11/breach.67eb873fa22a.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/que-faire-en-cas-de-fuite-de-donnees/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Le langage Rust permet de programmer de façon sûre et efficace.",
+  "highres_image": "home-fr/card_11/rust-high-res.3ca2dd473894.png",
+  "image": "home-fr/card_11/rust.49abd545f7ce.png",
+  "link_url": "https://www.rust-lang.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Sécurité",
-  "title": "Que faire en cas de fuite de données"
+  "tag_label": "Codage",
+  "title": "L'édition 2018 de Rust est arrivée"
 }

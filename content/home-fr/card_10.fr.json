@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Connexions sécurisées, mises à jour régulières, gestion des mots de passe : les mesures qui permettent d’améliorer sa sécurité en ligne.",
-  "highres_image": "home-fr/card_10/identity-high-res.4e13f9ba6897.jpg",
-  "image": "home-fr/card_10/identity.200593562c64.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/comment-proteger-son-identite-en-ligne/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Common Voice est une initiative de Mozilla pour aider à apprendre aux machines comment les humains parlent vraiment.",
+  "highres_image": "home-fr/card_10/common-voice-high-res.27423e936f12.png",
+  "image": "home-fr/card_10/common-voice.65fbb8a26b45.png",
+  "link_url": "https://voice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Sécurité",
-  "title": "Comment protéger son identité en ligne"
+  "tag_label": "Technologies émergentes",
+  "title": "Common Voice, un projet en bonne voie"
 }
