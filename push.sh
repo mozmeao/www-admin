@@ -50,7 +50,6 @@ if git status --porcelain | grep ".json"; then
     aws s3 sync \
         --acl public-read \
         --cache-control "max-age=315360000, public, immutable" \
-        --profile bedrock-media \
         "./static" "${S3_URL}"
     git push github-mozmar-robot:mozmeao/www-admin.git HEAD:${GIT_BRANCH_PROCESSED}
 else
