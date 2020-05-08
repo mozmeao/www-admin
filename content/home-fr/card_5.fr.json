@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Partagez gratuitement vos fichiers avec un chiffrement de bout en bout et un lien qui expire automatiquement avec Firefox Send.",
-  "highres_image": "home-fr/card_5/send-high-res.d8ecc3f21b3d.png",
-  "image": "home-fr/card_5/send.357af9eaf624.png",
-  "link_url": "https://blog.mozilla.org/firefox/fr/utilisez-firefox-send-pour-partager-gratuitement-des-fichiers-en-toute-securite/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Gérez vos mots de passe en toute sécurité et emportez-les partout avec vous avec Firefox Lockwise.",
+  "highres_image": "home-fr/card_5/lockwise-high-res.5110dcced92c.jpg",
+  "image": "home-fr/card_5/lockwise.fb2e8d229192.jpg",
+  "link_url": "https://www.mozilla.org/firefox/lockwise/",
   "size": "small",
   "tag_label": "Outils Firefox",
-  "title": "Un partage fichiers simple et sécurisé"
+  "title": "Lockwise mémorise vos mots de passe"
 }

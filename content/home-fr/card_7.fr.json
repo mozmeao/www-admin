@@ -1,10 +1,9 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Vérifiez si votre adresse électronique fait partie d’une fuite de données. On vous alerte si elle apparaît dans une nouvelle fuite.",
-  "highres_image": "home-fr/card_7/monitor-high-res.14aa266e43ab.jpg",
-  "image": "home-fr/card_7/monitor.c050e15fc378.jpg",
-  "link_url": "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Partagez gratuitement vos fichiers avec un chiffrement de bout en bout et un lien qui expire automatiquement avec Firefox Send.",
+  "image": "home-fr/card_7/send.357af9eaf624.png",
+  "link_url": "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Sécurité",
-  "title": "Monitor surveille les fuites de données"
+  "tag_label": "Outils Firefox",
+  "title": "Un partage fichiers simple et sécurisé"
 }

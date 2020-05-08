@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "La protection renforcée contre le pistage est désormais automatique avec Firefox, empêchant les sites de vous pister.",
-  "highres_image": "home-fr/card_3/etp-high-res.6a344138c820.jpg",
-  "image": "home-fr/card_3/etp.d19ca0c8cd83.jpg",
-  "link_url": "https://youtu.be/TIyixFhOhYU",
-  "media_icon": "video",
+  "desc": "Vérifiez si votre adresse électronique fait partie d’une fuite de données. On vous alerte si elle apparaît dans une nouvelle fuite.",
+  "highres_image": "home-fr/card_3/monitor-high-res.f9d6c1cc0dcb.jpg",
+  "image": "home-fr/card_3/monitor.5532d3f8239c.jpg",
+  "link_url": "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Vidéo",
-  "title": "Firefox empêche les sites de vous pister",
-  "youtube_id": "TIyixFhOhYU"
+  "tag_label": "Sécurité",
+  "title": "Monitor surveille les fuites de données"
 }

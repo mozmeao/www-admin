@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Si vous voyez souvent la même pub, c'est peut-être à cause d'une prise d'empreinte numérique, une forme de pistage différente des cookies",
-  "highres_image": "home-fr/card_9/fp-high-res.f84921227376.jpg",
-  "image": "home-fr/card_9/fp.341eea55c994.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/comment-bloquer-le-fingerprinting-avec-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "La fonction Picture-in-Picture rend le multitâche avec le contenu vidéo fluide et facile, aucun changement de fenêtre n'est nécessaire.",
+  "highres_image": "home-fr/card_9/panda-in-picture-high-res.fb7aaa6a2225.jpg",
+  "image": "home-fr/card_9/panda-in-picture.c5c9619c928c.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/fr/picture-in-picture/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Vie privée",
-  "title": "Comment bloquer la prise d'empreintes"
+  "tag_label": "Outils Firefox",
+  "title": "Picture-in-Picture vous permet de regarder des vidéos tout en «travaillant»"
 }

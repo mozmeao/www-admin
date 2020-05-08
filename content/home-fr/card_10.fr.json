@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Common Voice est une initiative de Mozilla pour aider à apprendre aux machines comment les humains parlent vraiment.",
-  "highres_image": "home-fr/card_10/common-voice-high-res.27423e936f12.png",
-  "image": "home-fr/card_10/common-voice.65fbb8a26b45.png",
-  "link_url": "https://voice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Rester connecté·e malgré la distance qui nous préoccupe. Voici quelques moyens pour vous protéger aussi en ligne.",
+  "highres_image": "home-fr/card_10/pass-high-res.3117d703cdda.jpg",
+  "image": "home-fr/card_10/pass.10e78bcf9ec0.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/fr/restez-en-bonne-sante-en-ligne-mais-pas-que/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Technologies émergentes",
-  "title": "Common Voice, un projet en bonne voie"
+  "tag_label": "Sécurité",
+  "title": "Protégez-vous également en ligne "
 }

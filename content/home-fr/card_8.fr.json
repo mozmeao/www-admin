@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Les mineurs de cryptomonnaie pourraient utiliser les ressources de votre ordinateur pour générer la monnaie sans votre consentement. Firefox les en empêche.",
-  "highres_image": "home-fr/card_8/ico-high-res.ab4561c1537c.jpg",
-  "image": "home-fr/card_8/ico.92a27500f287.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/bloquez-les-cryptominers-avec-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Ajustez ces paramètres sur votre téléphone pour protéger vos données et trouver un équilibre d'utilisation raisonnable.",
+  "highres_image": "home-fr/card_8/common-voice-high-res.9458fd39740a.png",
+  "image": "home-fr/card_8/common-voice.dbab2b8d4786.png",
+  "link_url": "https://blog.mozilla.org/firefox/fr/donnees-detox-smartphone/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Sécurité",
-  "title": "Cryptominage : mauvaise pioche"
+  "tag_label": "Conseils",
+  "title": "Repartez de zéro avec votre téléphone"
 }

@@ -1,11 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Pour nous, protéger votre vie privée est une mission, pas un slogan publicitaire. Prenez le contrôle en rejoignant Firefox.",
-  "image": "home-fr/card_1/five.be44c76d580c.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/rejoignez-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
+  "desc": "Mitchell est au cœur des entreprises existantes de Mozilla, ce qui lui confère une vision et les bases pour continuer notre mission.",
+  "highres_image": "home-fr/card_1/mitchell-high-res.e48932044089.jpg",
+  "image": "home-fr/card_1/mitchell.267440059d52.jpg",
+  "link_url": "https://blog.mozilla.org/press-fr/2020/04/09/mitchell-baker-nommee-pdg-de-mozilla/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "large",
-  "tag_label": "Vidéo",
-  "title": "Vie privée : des actes, pas des paroles",
-  "youtube_id": "3lPSQ5KjamI"
+  "tag_label": "Annonce",
+  "title": "Mitchell Baker nommée CEO de Mozilla"
 }
