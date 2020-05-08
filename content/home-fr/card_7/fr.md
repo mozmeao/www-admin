@@ -1,10 +1,10 @@
 ---
 # card 7
-title: "Nous jurons de protéger vos données"
-tag_label: "Vie privée"
-desc: "Firefox ne dépend pas de l'exploitation de vos données. Au contraire, le respect de votre vie privée est au cœur de chacun de nos produits."
-link_url: "https://blog.mozilla.org/firefox/fr/engagements-concernant-les-donnees-personnelles-de-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Un partage fichiers simple et sécurisé"
+tag_label: "Outils Firefox"
+desc: "Partagez gratuitement vos fichiers avec un chiffrement de bout en bout et un lien qui expire automatiquement avec Firefox Send."
+link_url: "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "promise.jpg"
+image: "send.png"
 aspect_ratio: "16-9"
 ---

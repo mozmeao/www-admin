@@ -1,11 +1,11 @@
 ---
 # card 12
-title: "Comment créer des mots de passe robustes"
-tag_label: "Sécurité"
-desc: "La performance de vos mots de passe a un impact direct sur votre sécurité en ligne. Apprenez à les rendre plus difficile à deviner."
-link_url: "https://blog.mozilla.org/firefox/fr/comment-creer-des-mots-de-passe-robustes/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Common Voice, un projet en bonne voie"
+tag_label: "Technologies émergentes"
+desc: "Common Voice est une initiative de Mozilla pour apprendre aux machines comment les humains parlent vraiment."
+link_url: "https://voice.mozilla.org/fr?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "password.jpg"
+image: "common-voice.png"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---
