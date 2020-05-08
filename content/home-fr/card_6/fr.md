@@ -1,11 +1,10 @@
 ---
-# card 12
-title: "Bulletin de santé d’Internet 2019"
-tag_label: "Santé d'internet"
-desc: "Cette compilation 2019 d’études et d’articles présente les éléments clés au développement d’un Internet plus sain."
-link_url: "https://internethealthreport.org/2019/?lang=fr&utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage-de&utm_content=card"
+# card 6
+title: "Nous jurons de protéger vos données"
+tag_label: "Vie privée"
+desc: "Firefox ne dépend pas de l'exploitation de vos données. Au contraire, le respect de votre vie privée est au cœur de chacun de nos produits."
+link_url: "https://blog.mozilla.org/firefox/fr/engagements-concernant-les-donnees-personnelles-de-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "health.jpg"
+image: "promise.jpg"
 aspect_ratio: "16-9"
-include_highres_image: true
 ---

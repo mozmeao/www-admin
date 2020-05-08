@@ -1,11 +1,11 @@
 ---
 # card 3
-title: "Un partage fichiers simple et sécurisé"
-tag_label: "Outils Firefox"
-desc: "Partagez gratuitement vos fichiers avec un chiffrement de bout en bout et un lien qui expire automatiquement avec Firefox Send."
-link_url: "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Monitor surveille les fuites de données"
+tag_label: "Sécurité"
+desc: "Vérifiez si votre adresse électronique fait partie d’une fuite de données. On vous alerte si elle apparaît dans une nouvelle fuite."
+link_url: "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "send.png"
+image: "monitor.jpg"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---

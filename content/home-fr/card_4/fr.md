@@ -1,13 +1,11 @@
 ---
 # card 4
-title: "Découvrez votre rapport de protection"
+title: "Mettez Facebook en boîte"
 tag_label: "Outils Firefox"
-desc: "Visualisez les traqueurs que nous bloquons directement dans le navigateur."
-link_url: "https://www.mozilla.org/firefox/privacy/products"
+desc: "Avec l'extension Facebook Container, vous rendez difficile pour Facebook de collecter vos données et de vous pister sur le Web."
+link_url: "https://addons.mozilla.org/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "privacy.jpg"
+image: "container.jpg"
 aspect_ratio: "16-9"
 include_highres_image: true
-youtube_id: "FawHxwNzyPM"
-media_icon: "video"
 ---

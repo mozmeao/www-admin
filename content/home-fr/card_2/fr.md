@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "Monitor surveille les fuites de données"
-tag_label: "Sécurité"
-desc: "Vérifiez si votre adresse électronique fait partie d’une fuite de données. On vous alerte si elle apparaît dans une nouvelle fuite."
-link_url: "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Mozilla COVID-19: un fonds de solutions"
+tag_label: "MOSS"
+desc: "Postulez et gagnez 50 000€ pour financer votre projet de technologie open source axé sur la pandémie de COVID-19."
+link_url: "https://blog.mozilla.org/press-fr/2020/04/16/moss-cree-un-fonds-de-soutien-au-developpement-de-solutions-pour-lutter-contre-le-covid-19/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "monitor.jpg"
+image: "heart.png"
 aspect_ratio: "1-1"
 include_highres_image: true
 ---
