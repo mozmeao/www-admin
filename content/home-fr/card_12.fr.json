@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Common Voice est une initiative de Mozilla pour apprendre aux machines comment les humains parlent vraiment.",
-  "highres_image": "home-fr/card_12/common-voice-high-res.27423e936f12.png",
-  "image": "home-fr/card_12/common-voice.65fbb8a26b45.png",
-  "link_url": "https://voice.mozilla.org/fr?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "La performance de vos mots de passe a un impact direct sur votre sécurité en ligne. Apprenez à les rendre plus difficile à deviner.",
+  "highres_image": "home-fr/card_12/password-high-res.7f5241795f70.jpg",
+  "image": "home-fr/card_12/password.47462daf2c14.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/fr/comment-creer-des-mots-de-passe-robustes/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Technologies émergentes",
-  "title": "Common Voice, un projet en bonne voie"
+  "tag_label": "Sécurité",
+  "title": "Comment créer des mots de passe robustes"
 }

@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Social media has become an online extension of who we are. Check out these four ways to protect yourself while being social.",
-  "highres_image": "home-2019/card_12/detox-high-res.6aadffd2ca1e.png",
-  "image": "home-2019/card_12/detox.24da426f85f1.png",
-  "link_url": "https://blog.mozilla.org/firefox/data-detox-computer/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Super fast. Private by default. Blocks 2000+ online trackers on iOS and Android.",
+  "highres_image": "home-2019/card_12/mobile-high-res.7b7d172f5213.jpg",
+  "image": "home-2019/card_12/mobile.4e51b84dde10.jpg",
+  "link_url": "https://www.mozilla.org/en-US/firefox/mobile/",
   "size": "medium",
-  "tag_label": "Tips",
-  "title": "Status update: It's complicated"
+  "tag_label": "Firefox for Mobile",
+  "title": "Get automatic privacy on mobile"
 }

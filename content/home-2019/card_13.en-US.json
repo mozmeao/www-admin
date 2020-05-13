@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Adjust these settings on your phone to protect your data and find a usage balance.",
-  "highres_image": "home-2019/card_13/phone-high-res.f4d5b7549321.png",
-  "image": "home-2019/card_13/phone.7ec9aa37df99.png",
-  "link_url": "https://blog.mozilla.org/firefox/data-detox-phone/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Here’s how to import your bookmarks, history and passwords from Microsoft Edge to Firefox in a few minutes.",
+  "highres_image": "home-2019/card_13/switch-high-res.e2667120ba5e.jpg",
+  "image": "home-2019/card_13/switch.257ee428122d.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/switch-from-microsoft-edge-to-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Data detox",
-  "title": "Reset your relationship with your phone"
+  "tag_label": "Tips",
+  "title": "Make the switch"
 }

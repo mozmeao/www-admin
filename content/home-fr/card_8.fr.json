@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Ajustez ces paramètres sur votre téléphone pour protéger vos données et retrouver l'équilibre dans votre utilisation.",
-  "highres_image": "home-fr/card_8/detox-high-res.9053a2385e3b.png",
-  "image": "home-fr/card_8/detox.425a5a991f33.png",
-  "link_url": "https://blog.mozilla.org/firefox/fr/donnees-detox-smartphone/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Common Voice est une initiative de Mozilla pour aider à apprendre aux machines comment les humains parlent vraiment.",
+  "highres_image": "home-fr/card_8/common-voice-high-res.9458fd39740a.png",
+  "image": "home-fr/card_8/common-voice.dbab2b8d4786.png",
+  "link_url": "https://voice.mozilla.org/fr?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Conseils",
-  "title": "Repartez de zéro avec votre téléphone"
+  "tag_label": "Technologies émergentes",
+  "title": "Common Voice, un projet en bonne voie"
 }

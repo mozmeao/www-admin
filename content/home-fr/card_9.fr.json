@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "La fonction Incrustation Vidéo facilite et fluidifie le multitâche et permet de regarder des contenus vidéo sans changement de fenêtre.",
-  "highres_image": "home-fr/card_9/panda-in-picture-high-res.fb7aaa6a2225.jpg",
-  "image": "home-fr/card_9/panda-in-picture.c5c9619c928c.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/picture-in-picture/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Le langage Rust permet de programmer de façon sûre et efficace.",
+  "highres_image": "home-fr/card_9/rust-high-res.2f4b2890c84f.png",
+  "image": "home-fr/card_9/rust.c9d73e20c92f.png",
+  "link_url": "https://www.rust-lang.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Outils Firefox",
-  "title": "Regardez des vidéos tout en travaillant avec l'Incrustation Vidéo"
+  "tag_label": "Codage",
+  "title": "L'édition 2018 de Rust est arrivée"
 }
