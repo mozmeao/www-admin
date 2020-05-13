@@ -1,11 +1,11 @@
 ---
 # card 3
-title: "Protect yourself online, too"
-tag_label: "Security"
-desc: "Staying connected while being physically distant is top of many of our minds. Here are some tips to protect yourself online, too."
-link_url: "https://blog.mozilla.org/firefox/stay-safe-in-your-online-life-too/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Picture-in-picture this"
+tag_label: "Firefox"
+desc: "We're here for your baking shows, sitcoms, sports reruns and anything else you want to watch on the side, like frolicking red pandas."
+link_url: "https://blog.mozilla.org/firefox/firefox-picture-in-picture-for-videos/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "pass.jpg"
+image: "panda.jpg"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---

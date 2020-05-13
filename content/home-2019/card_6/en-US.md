@@ -1,11 +1,11 @@
 ---
 # card 6
-title: "Hubs by Mozilla"
-tag_label: "Emerging Technologies"
-desc: "Share a virtual room with friends. Watch videos, play with 3D objects, or just hang out."
-link_url: "https://hubs.mozilla.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Which video call apps can you trust?"
+tag_label: "Mozilla Foundation"
+desc: "It’s more important than ever for this technology to be trustworthy — but some apps don’t always respect our privacy and security."
+link_url: "https://blog.mozilla.org/blog/2020/04/28/which-video-call-apps-can-you-trust/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "hubs.jpg"
-aspect_ratio: "3-2"
+image: "video.jpg"
+aspect_ratio: "16-9"
 include_highres_image: true
 ---
