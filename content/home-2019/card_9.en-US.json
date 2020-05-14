@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "Thinking about a new smart device for your home? Our guide will help you shop for safe, secure connected products.",
-  "highres_image": "home-2019/card_9/shop-high-res.9c0637f1538e.jpg",
-  "image": "home-2019/card_9/shop.3d91d45a210f.jpg",
-  "link_url": "https://foundation.mozilla.org/en/privacynotincluded/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "Try these six extensions to make video and music streaming even better in your browser.",
+  "highres_image": "home-2019/card_9/stream-high-res.5bb947ff30cd.jpg",
+  "image": "home-2019/card_9/stream.afb20a1b89c8.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/firefox-extensions-streaming?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Privacy",
-  "title": "Be smart. Shop safe."
+  "tag_label": "Extensions",
+  "title": "Streaming made better"
 }

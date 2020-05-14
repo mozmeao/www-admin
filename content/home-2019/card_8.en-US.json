@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "Catch up on real talk about the future of the web with stories about the surveillance economy, privacy vs profits, and more.",
-  "highres_image": "home-2019/card_8/irl-high-res.608df7e8cda3.jpg",
-  "image": "home-2019/card_8/irl.68b3f6e2e15a.jpg",
-  "link_url": "https://irlpodcast.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "These 13 extensions are here to make remote work and school a little easier and more productive.",
+  "highres_image": "home-2019/card_8/productivity-high-res.9659ecc72aeb.jpg",
+  "image": "home-2019/card_8/productivity.f940c6182a90.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/firefox-extensions-work-from-home?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Podcast",
-  "title": "An original podcast from Firefox"
+  "tag_label": "Extensions",
+  "title": "Productivity boosters"
 }
