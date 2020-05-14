@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "The internet is full of information we need to stay healthy right now. We pulled together some some resources to help.",
-  "highres_image": "home-2019/card_5/foundation-high-res.107e7265a888.png",
-  "image": "home-2019/card_5/foundation.812f3bc4c6dc.png",
-  "link_url": "https://foundation.mozilla.org/en/blog/thank-goodness-internet/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "A quick guide to four Firefox browser privacy features and how they protect you when you’re online.",
+  "highres_image": "home-2019/card_5/privacy-high-res.1cd5b8911382.jpg",
+  "image": "home-2019/card_5/privacy.26025df762aa.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/firefox-privacy-features-explained/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Mozilla Foundation",
-  "title": "Thank goodness for the internet"
+  "tag_label": "Privacy",
+  "title": "Privacy features explained"
 }
