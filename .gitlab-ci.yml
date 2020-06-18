@@ -11,3 +11,5 @@ process data:
     - docker-compose build --pull app
     - docker-compose run --rm --user "$(id -u)" app
     - ./push.sh
+  after_script:
+    - docker-compose down
