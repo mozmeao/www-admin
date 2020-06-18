@@ -12,5 +12,4 @@ process data:
     - docker-compose run --rm --user "$(id -u)" app
     - ./push.sh
   after_script:
-    - docker-compose down
     - docker network rm $(docker network ls -f name="www-admin_default" -q) || true
