@@ -1,8 +1,8 @@
 {
   "aspect_ratio": "3-2",
   "desc": "Common Voice is our initiative to help teach machines how real people speak. Pitch in with your voice or help us validate others.",
-  "image": "home-en/card_11/card_11.0606930974ae.png",
-  "include_highres_image": false,
+  "highres_image": "home-en/card_11/card_11-high-res.611bad39aed7.jpg",
+  "image": "home-en/card_11/card_11.e6336c0c4564.jpg",
   "link_url": "https://voice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
   "tag_label": "Emerging Technologies",

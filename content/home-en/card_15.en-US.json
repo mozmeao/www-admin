@@ -1,8 +1,8 @@
 {
   "aspect_ratio": "3-2",
   "desc": "Our favorite projects, promoting a more open, inclusive, decentralized internet",
-  "image": "home-en/card_15/card_15.178809054616.jpg",
-  "include_highres_image": false,
+  "highres_image": "home-en/card_15/card_15-high-res.3a1b559e4a0e.jpg",
+  "image": "home-en/card_15/card_15.1d41cf5fac8f.jpg",
   "link_url": "https://foundation.mozilla.org/awards/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
   "tag_label": "Leaders",

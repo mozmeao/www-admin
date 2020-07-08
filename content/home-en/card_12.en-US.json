@@ -1,8 +1,8 @@
 {
   "aspect_ratio": "16-9",
   "desc": "Companies that share facial recognition tech with cops are pausing their programs. This includes some of Amazon’s tech, but not all of it.",
-  "image": "home-en/card_12/card_12.97b06dfd20c5.png",
-  "include_highres_image": false,
+  "highres_image": "home-en/card_12/card_12-high-res.f887761d58b8.png",
+  "image": "home-en/card_12/card_12.3624a4ba7716.png",
   "link_url": "https://foundation.mozilla.org/en/campaigns/tell-amazon-ring-stop-sharing-information-police-services/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "large",
   "tag_label": "Campaign",
