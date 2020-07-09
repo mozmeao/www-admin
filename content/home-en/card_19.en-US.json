@@ -1,8 +1,8 @@
 {
   "aspect_ratio": "1-1",
   "desc": "Staying lean and being smart about how data is collected can build trust and ultimately help grow business.",
-  "image": "home-en/card_19/card_19.049347ac0f4c.png",
-  "include_highres_image": false,
+  "highres_image": "home-en/card_19/card_19-high-res.88a4583315e4.jpg",
+  "image": "home-en/card_19/card_19.e6d949b2db93.jpg",
   "link_url": "https://www.mozilla.org/en-US/about/policy/lean-data/",
   "size": "small",
   "tag_label": "Data",
