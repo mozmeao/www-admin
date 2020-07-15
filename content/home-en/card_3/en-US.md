@@ -7,5 +7,5 @@ link_url: "https://blog.mozilla.org/blog/2020/04/29/contact-tracing-governments-
 size: "small"
 image: "card_3.jpg"
 aspect_ratio: "3-2"
-include_highres_image: false
+include_highres_image: true
 ---

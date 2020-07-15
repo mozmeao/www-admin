@@ -7,5 +7,5 @@ link_url: "https://foundation.mozilla.org/privacynotincluded/?utm_source=www.moz
 size: "small"
 image: "card_13.jpg"
 aspect_ratio: "1-1"
-include_highres_image: false
+include_highres_image: true
 ---

@@ -7,5 +7,5 @@ link_url: "https://foundation.mozilla.org/en/blog/tech-helps-us-and-tech-harms-u
 image: "card_5.jpg"
 size: "small"
 aspect_ratio: "3-2"
-include_highres_image: false
+include_highres_image: true
 ---

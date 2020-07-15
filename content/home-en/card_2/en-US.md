@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "Black lives matter. Black voices matter."
-tag_label: "Pocket"
-desc: "Educating ourselves is how we can begin dismantling systemic racism. This Pocket collection is one place to start."
-link_url: "https://blog.getpocket.com/2020/06/the-fight-for-racial-equity-justice-and-black-lives/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Mitchell Baker: It's time to build a better internet"
+tag_label: "From the CEO"
+desc: "People, technology, and willpower can change the world fast. So we must demand something better."
+link_url: "https://www.independent.co.uk/independentpremium/voices/coronavirus-internet-online-hate-learning-surveillance-a9616451.html"
 size: "small"
-image: "card_2.png"
+image: "card_2.jpg"
 aspect_ratio: "1-1"
-include_highres_image: false
+include_highres_image: true
 ---

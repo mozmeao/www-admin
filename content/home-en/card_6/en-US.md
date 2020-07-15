@@ -7,5 +7,5 @@ link_url: "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=re
 size: "extra-small"
 image: "card_6.jpg"
 aspect_ratio: "16-9"
-include_highres_image: false
+include_highres_image: true
 ---
