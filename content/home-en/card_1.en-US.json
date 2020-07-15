@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "16-9",
   "desc": "People like you built Firefox. People like you will write the next amazing chapter of the internet.",
-  "image": "home-en/card_1/card_1.1a66a92d33e0.png",
-  "include_highres_image": false,
+  "highres_image": "home-en/card_1/builders-high-res.81c454d2c15f.jpg",
+  "image": "home-en/card_1/builders.050a6d89799b.jpg",
   "link_url": "https://builders.mozilla.community/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "large",
   "tag_label": "Mozilla Builders",
-  "title": "We're on a mission. Join us."
+  "title": "We're on a mission. Join us.",
+  "youtube_id": "OarBwHc2JzY"
 }
