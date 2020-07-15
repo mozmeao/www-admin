@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Meet the teams who have been awarded funds to fight the pandemic using open source technology.",
-  "image": "home-en/card_4/card_4.f346eea1d24d.png",
-  "include_highres_image": false,
-  "link_url": "https://blog.mozilla.org/blog/2020/06/08/mozilla-announces-second-three-covid-19-solutions-fund-recipients/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Educating ourselves is how we can begin dismantling systemic racism. This Pocket collection is one place to start.",
+  "highres_image": "home-en/card_4/bvm-high-res.8f4c7722a842.png",
+  "image": "home-en/card_4/bvm.a85820112ebc.png",
+  "link_url": "https://blog.getpocket.com/2020/06/the-fight-for-racial-equity-justice-and-black-lives/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Grants",
-  "title": "COVID-19 Solutions Fund"
+  "tag_label": "Pocket",
+  "title": "Black lives matter. Black voices matter."
 }
