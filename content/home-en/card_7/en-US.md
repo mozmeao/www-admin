@@ -7,5 +7,5 @@ link_url: "https://www.mozilla.org/firefox/facebookcontainer/?utm_source=www.moz
 size: "extra-small"
 image: "card_7.jpg"
 aspect_ratio: "16-9"
-include_highres_image: false
+include_highres_image: true
 ---

@@ -9,5 +9,5 @@ link_url: "https://blog.mozilla.org/blog/2019/10/22/latest-firefox-brings-privac
 image: "card_8.jpg"
 size: "extra-small"
 aspect_ratio: "16-9"
-include_highres_image: false
+include_highres_image: true
 ---

@@ -7,5 +7,5 @@ link_url: "https://blog.mozvr.com/scaling-virtual-events-with-hubs-and-hubs-clou
 size: "medium"
 image: "card_10.jpg"
 aspect_ratio: "3-2"
-include_highres_image: false
+include_highres_image: true
 ---
