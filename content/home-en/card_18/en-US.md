@@ -1,6 +1,6 @@
 ---
 # card 18
-title: "Our 2019 Divesity and Inclusion results"
+title: "Our 2019 Diversity and Inclusion results"
 tag_label: "Video"
 youtube_id: "VkK6rDcEEhU"
 media_icon: "video"
