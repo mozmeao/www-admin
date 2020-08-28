@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Should contact tracing apps follow a centralized or decentralized design? We have an opinion on that.",
-  "highres_image": "home-en/card_3/card_3-high-res.9aa915f27c05.jpg",
-  "image": "home-en/card_3/card_3.1260d02c7f68.jpg",
-  "link_url": "https://blog.mozilla.org/blog/2020/04/29/contact-tracing-governments-and-data/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Search the way you want and get the privacy you deserve with our customizable Android browser.",
+  "highres_image": "home-en/card_3/card3-high-res.7c5f4ce8e8ff.png",
+  "image": "home-en/card_3/card3.7df549c55d32.png",
+  "link_url": "https://blog.mozilla.org/blog/2020/08/25/introducing-a-new-firefox-for-android-experience/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Policy",
-  "title": "Contact tracing, governments and data"
+  "tag_label": "Announcement",
+  "title": "Fast, personalized and private by design"
 }
