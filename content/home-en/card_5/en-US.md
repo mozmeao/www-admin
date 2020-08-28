@@ -1,10 +1,10 @@
 ---
 # card 5
-title: "Tech that helps and harms us"
-tag_label: "Dialogues & Debates"
-desc: "Our panel explores the ways consumer technology both helps and harms communities of color."
-link_url: "https://foundation.mozilla.org/en/blog/tech-helps-us-and-tech-harms-us-june-12-virtual-panel/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-image: "card_5.jpg"
+title: "Collections put order at your fingertips"
+tag_label: "Tips"
+desc: "Keeping a zillion open tabs is the sign of an enthusiastic, curious digital citizen, but sometimes you need to organize that chaos."
+link_url: "https://blog.mozilla.org/firefox/get-organized-with-firefox-collections/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+image: "card5.png"
 size: "small"
 aspect_ratio: "3-2"
 include_highres_image: true

@@ -1,11 +1,11 @@
 ---
 # card 4
-title: "Black lives matter. Black voices matter."
-tag_label: "Pocket"
-desc: "Educating ourselves is how we can begin dismantling systemic racism. This Pocket collection is one place to start."
-link_url: "https://blog.getpocket.com/2020/06/the-fight-for-racial-equity-justice-and-black-lives/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "7 reasons to love Firefox for Android"
+tag_label: "Firefox for Mobile"
+desc: "A thumb-friendly address bar plus six more things to know (and love) about the new Firefox for Android."
+link_url: "https://blog.mozilla.org/firefox/new-firefox-for-android/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "bvm.png"
+image: "thumb.png"
 aspect_ratio: "3-2"
 include_highres_image: true
 ---

@@ -1,16 +1,15 @@
 ---
 # card 1
-title: "We're on a mission. Join us."
-tag_label: "Mozilla Builders"
-desc: "People like you built Firefox. People like you will write the next amazing chapter of the internet."
-link_url: "https://builders.mozilla.community/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Get the most out of mobile"
+tag_label: "Video"
+desc: "The brand new, dramatically redesigned Firefox browser for Android is faster, easy to use, customizable and private."
+link_url: "https://app.adjust.com/2uo1qc?campaign=fenix&adgroup=homevideo&creative=daylightlaunch&fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dorg.mozilla.firefox"
 size: "large"
-image: "builders.jpg"
+image: "card1.png"
 aspect_ratio: "16-9"
 include_highres_image: true
-youtube_id: "OarBwHc2JzY"
+youtube_id: "6npc3QXJT9Q"
 media_icon: "video"
-
 ---
 
 
