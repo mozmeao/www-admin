@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Educating ourselves is how we can begin dismantling systemic racism. This Pocket collection is one place to start.",
-  "highres_image": "home-en/card_4/bvm-high-res.8f4c7722a842.png",
-  "image": "home-en/card_4/bvm.a85820112ebc.png",
-  "link_url": "https://blog.getpocket.com/2020/06/the-fight-for-racial-equity-justice-and-black-lives/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "A thumb-friendly address bar plus six more things to know (and love) about the new Firefox for Android.",
+  "highres_image": "home-en/card_4/thumb-high-res.3111fd27b2de.png",
+  "image": "home-en/card_4/thumb.20e53bd0ed95.png",
+  "link_url": "https://blog.mozilla.org/firefox/new-firefox-for-android/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Pocket",
-  "title": "Black lives matter. Black voices matter."
+  "tag_label": "Firefox for Mobile",
+  "title": "7 reasons to love Firefox for Android"
 }

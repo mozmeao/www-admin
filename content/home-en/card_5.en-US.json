@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Our panel explores the ways consumer technology both helps and harms communities of color.",
-  "highres_image": "home-en/card_5/card_5-high-res.4198ff597270.jpg",
-  "image": "home-en/card_5/card_5.ad73d291d00e.jpg",
-  "link_url": "https://foundation.mozilla.org/en/blog/tech-helps-us-and-tech-harms-us-june-12-virtual-panel/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Keeping a zillion open tabs is the sign of an enthusiastic, curious digital citizen, but sometimes you need to organize that chaos.",
+  "highres_image": "home-en/card_5/card5-high-res.b04730bb3b4c.png",
+  "image": "home-en/card_5/card5.0d38b313b5a7.png",
+  "link_url": "https://blog.mozilla.org/firefox/get-organized-with-firefox-collections/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Dialogues & Debates",
-  "title": "Tech that helps and harms us"
+  "tag_label": "Tips",
+  "title": "Collections put order at your fingertips"
 }
