@@ -1,10 +1,11 @@
 ---
 # card 7
-title: "Un partage fichiers simple et sécurisé"
-tag_label: "Outils Firefox"
-desc: "Partagez gratuitement vos fichiers avec un chiffrement de bout en bout et un lien qui expire automatiquement avec Firefox Send."
-link_url: "https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Ambiance des années 90"
+tag_label: "Firefox"
+desc: "De nouveaux fonds d’écran pour le chat vidéo et bien plus encore"
+link_url: "https://blog.mozilla.org/firefox/fr/ambiance-des-annees-90/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "send.png"
+image: "bg.png"
 aspect_ratio: "16-9"
+include_highres_image: true
 ---
