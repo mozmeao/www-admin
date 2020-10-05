@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Jetzt wo wir noch mehr Zeit im Web verbringen als je zuvor, sollten wir auf ein paar Dinge achten, um auch weiterhin sicher zu bleiben.",
-  "highres_image": "home-de/card_7/passwords-high-res.b06fca3a678a.png",
-  "image": "home-de/card_7/passwords.8e426a3c74ba.png",
-  "link_url": "https://blog.mozilla.org/firefox/de/pass-auf-dich-auf-auch-online/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Die Netflix Doku “The Social Dilemma” zeigt, wie Menschen zur Handelsware der Konzerne werden. Und es gibt noch mehr zum Thema zu sagen.",
+  "highres_image": "home-de/card_7/social-high-res.6c1521d8f399.jpg",
+  "image": "home-de/card_7/social.3d8e0cfbb6b8.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/de/soziale-medien-warum-kostenlos-doch-seinen-preis-hat/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Privatsphäre",
-  "title": "Pass auf dich auf – auch online "
+  "tag_label": "Blog post",
+  "title": "Das Dilemma mit den sozialen Medien"
 }
