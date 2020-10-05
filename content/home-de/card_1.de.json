@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Hasskommentare und Mobbing sind allgegenwärtige Phänomene im Web. Wie geht man damit um und wie kann man sich davor schützen?",
-  "highres_image": "home-de/card_1/hero-high-res.1591d530235a.jpg",
-  "image": "home-de/card_1/hero.02e2b889e1f2.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/de/hass-im-web-was-koennen-wir-gegen-hate-speech-tun/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Unfck the Internet: damit das Internet ein Ort bleibt, an dem wir geschützt und inspiriert statt ausgebeutet und manipuliert werden.",
+  "highres_image": "home-de/card_1/unfck-video-high-res.2ceabae02cbe.png",
+  "image": "home-de/card_1/unfck-video.a250442bab6f.png",
+  "link_url": "https://www.mozilla.org/de/firefox/unfck/",
+  "media_icon": "video",
   "size": "large",
-  "tag_label": "Internet Health",
-  "title": "Hass im Web: Was können wir gegen Hate Speech tun?"
+  "tag_label": "Video",
+  "title": "Schütze das Web, das du liebst",
+  "youtube_id": "nPtKhbqohZU"
 }
