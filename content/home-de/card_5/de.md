@@ -1,11 +1,11 @@
 ---
 # card 5
-title: "Dein Schutz vor Hackern: Firefox Monitor"
-tag_label: "Sicherheit"
-desc: "Warst du schon mal von einem Daten-Leak betroffen? Finde es heraus und lass dich auch in Zukunft warnen."
-link_url: "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Der neue Firefox für Android ist da"
+tag_label: "Firefox Tool"
+desc: "Firefox für Android wurde so umfassend überarbeitet, dass er noch schneller läuft, individuell anpassbar und privat ist. Probier's aus."
+link_url: "https://www.mozilla.org/firefox/mobile/"
 size: "small"
-image: "monitor.jpg"
+image: "mobile.png"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---
