@@ -1,11 +1,11 @@
 ---
 # card 6
-title: "Das Firefox Daten-Versprechen"
-tag_label: "Privatsphäre"
-desc: "Wir behandeln dich nicht wie ein Produkt, sondern wie der wunderbare Mensch, der du bist: unser Versprechen für deine persönlichen Daten."
-link_url: "https://blog.mozilla.org/firefox/de/firefox-versprechen-fuer-deine-persoenlichen-daten/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Misinformation blog post"
+tag_label: "Blog post"
+desc: "Alles fake? Mit diesen easy Tipps erkennst du Falschinformationen schneller und fällst nicht mehr auf sie hinein."
+link_url: "https://blog.mozilla.org/firefox/de/so-entlarvst-du-falschinformationen-im-web/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "medium"
-image: "promise.jpg"
+image: "misinformation.png"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---
