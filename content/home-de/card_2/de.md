@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "Mozilla unterstützt COVID-19-Lösungen"
-tag_label: "MOSS"
-desc: "Wir finanzieren Open-Source-Projekte, die zu Erleichterungen während der Corona-Pandemie beitragen, mit bis zu 50.000 USD. Jetzt bewerben!"
-link_url: "https://blog.mozilla.org/press-de/2020/04/07/moss-richtet-fonds-zur-unterstuetzung-von-covid-19-loesungen-ein/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Unfck the Internet – Aus Liebe zum Web"
+tag_label: "Campaign"
+desc: "Wenn das Internet genutzt wird, um Menschen zu folgen und ihre persönliche Daten zu sammeln, müssen wir etwas tun. Hier sind 5 Vorschläge."
+link_url: "https://www.mozilla.org/de/firefox/unfck/"
 size: "small"
-image: "heart.png"
+image: "unfck-heart.png"
 aspect_ratio: "1-1"
 include_highres_image: true
 ---
