@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Warst du schon mal von einem Daten-Leak betroffen? Finde es heraus und lass dich auch in Zukunft warnen.",
-  "highres_image": "home-de/card_5/monitor-high-res.f9d6c1cc0dcb.jpg",
-  "image": "home-de/card_5/monitor.5532d3f8239c.jpg",
-  "link_url": "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Firefox für Android wurde so umfassend überarbeitet, dass er noch schneller läuft, individuell anpassbar und privat ist. Probier's aus.",
+  "highres_image": "home-de/card_5/mobile-high-res.5ab45859f31d.png",
+  "image": "home-de/card_5/mobile.8a1aacfb940e.png",
+  "link_url": "https://www.mozilla.org/firefox/mobile/",
   "size": "small",
-  "tag_label": "Sicherheit",
-  "title": "Dein Schutz vor Hackern: Firefox Monitor"
+  "tag_label": "Firefox Tool",
+  "title": "Der neue Firefox für Android ist da"
 }
