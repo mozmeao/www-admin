@@ -8,4 +8,6 @@ image: "card7.png"
 size: "small"
 aspect_ratio: "3-2"
 include_highres_image: true
+youtube_id: "qnBgO5eUp4Q"
+media_icon: "video"
 ---
