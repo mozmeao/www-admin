@@ -9,5 +9,4 @@ image: "card1.png"
 aspect_ratio: "16-9"
 include_highres_image: true
 youtube_id: "6npc3QXJT9Q"
-media_icon: "video"
 ---

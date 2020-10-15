@@ -6,6 +6,6 @@ desc: "Find out what hackers already know about you and get alerts when data bre
 link_url: "https://monitor.firefox.com/"
 size: "small"
 image: "monitor.jpg"
-aspect_ratio: "1-1"
+aspect_ratio: "3-2"
 include_highres_image: true
 ---
