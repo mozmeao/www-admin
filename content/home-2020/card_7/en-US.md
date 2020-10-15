@@ -6,7 +6,7 @@ desc: "Create your own virtual Halloween parties that are physically-distant, sp
 link_url: "https://blog.mozilla.org/firefox/virtual-halloween-mozilla-hubs/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 image: "card7.jpg"
 size: "small"
-aspect_ratio: "3-2"
+aspect_ratio: "1-1"
 include_highres_image: true
 youtube_id: "qnBgO5eUp4Q"
 media_icon: "video"
