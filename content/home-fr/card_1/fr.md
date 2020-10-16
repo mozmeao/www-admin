@@ -1,11 +1,12 @@
 ---
 # card 1
-title: "Mitchell Baker nommée PDG de Mozilla"
-tag_label: "Annonce"
-desc: "Mitchell est au cœur des initiatives de Mozilla, ce qui lui confère une vision et les bases pour continuer notre mission."
-link_url: "https://blog.mozilla.org/press-fr/2020/04/09/mitchell-baker-nommee-pdg-de-mozilla/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Protégez l’Internet que vous aimez"
+tag_label: "Video"
+desc: "N’acceptez pas tout du Net. Internet doit rester un lieu qui nous protège, nous inspire et non un lieu qui nous exploite et nous manipule."
+link_url: "https://www.mozilla.org/fr/firefox/unfck/"
 size: "large"
-image: "mitchell.jpg"
+image: "unfck-fr.png"
 aspect_ratio: "16-9"
-include_highres_image: true
+youtube_id: "wrsDr0-2xnU"
+media_icon: "video"
 ---
