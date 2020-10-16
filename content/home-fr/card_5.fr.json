@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Gérez vos mots de passe en toute sécurité et emportez-les partout avec vous avec Firefox Lockwise.",
-  "highres_image": "home-fr/card_5/lockwise-high-res.5110dcced92c.jpg",
-  "image": "home-fr/card_5/lockwise.fb2e8d229192.jpg",
-  "link_url": "https://www.mozilla.org/firefox/lockwise/",
+  "desc": "Firefox pour Android a été largement remanié pour être encore plus rapide, plus personnalisable et plus sécurisé. Essayez-le.",
+  "highres_image": "home-fr/card_5/mobile-high-res.5ab45859f31d.png",
+  "image": "home-fr/card_5/mobile.8a1aacfb940e.png",
+  "link_url": "https://www.mozilla.org/fr/firefox/mobile/",
   "size": "small",
-  "tag_label": "Outils Firefox",
-  "title": "Lockwise mémorise vos mots de passe"
+  "tag_label": "Firefox",
+  "title": "Le nouveau Firefox pour Android"
 }
