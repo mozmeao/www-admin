@@ -1,8 +1,8 @@
 ---
 # card 4
-title: "Mettez Facebook en boîte"
+title: "Facebook : Oui. Facebook tracking : NON."
 tag_label: "Outils Firefox"
-desc: "Avec l'extension Facebook Container, vous rendez difficile pour Facebook de collecter vos données et de vous pister sur le Web."
+desc: "Avec l'extension Facebook Container, vous protégez votre profil Facebook et le reste de vos activités en ligne."
 link_url: "https://addons.mozilla.org/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
 image: "container.jpg"
