@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Vérifiez si votre adresse électronique fait partie d’une fuite de données. On vous alerte si elle apparaît dans une nouvelle fuite.",
+  "desc": "Avez-vous déjà été affecté-e par une fuite de vos données ? Renseignez-vous et soyez averti-e à l'avenir.",
   "highres_image": "home-fr/card_3/monitor-high-res.f9d6c1cc0dcb.jpg",
   "image": "home-fr/card_3/monitor.5532d3f8239c.jpg",
   "link_url": "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "size": "medium",
+  "size": "small",
   "tag_label": "Sécurité",
-  "title": "Monitor surveille les fuites de données"
+  "title": "Firefox Monitor protège des hackers"
 }

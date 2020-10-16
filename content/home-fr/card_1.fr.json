@@ -1,10 +1,11 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Mitchell est au cœur des initiatives de Mozilla, ce qui lui confère une vision et les bases pour continuer notre mission.",
-  "highres_image": "home-fr/card_1/mitchell-high-res.e48932044089.jpg",
-  "image": "home-fr/card_1/mitchell.267440059d52.jpg",
-  "link_url": "https://blog.mozilla.org/press-fr/2020/04/09/mitchell-baker-nommee-pdg-de-mozilla/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "N’acceptez pas tout du Net. Internet doit rester un lieu qui nous protège, nous inspire et non un lieu qui nous exploite et nous manipule.",
+  "image": "home-fr/card_1/unfck-fr.f79ff2a30e3c.png",
+  "link_url": "https://www.mozilla.org/fr/firefox/unfck/",
+  "media_icon": "video",
   "size": "large",
-  "tag_label": "Annonce",
-  "title": "Mitchell Baker nommée PDG de Mozilla"
+  "tag_label": "Video",
+  "title": "Protégez l’Internet que vous aimez",
+  "youtube_id": "wrsDr0-2xnU"
 }

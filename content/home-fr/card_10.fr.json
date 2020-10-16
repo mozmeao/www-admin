@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Restez connecté·e malgré la distance. Voici quelques conseils pour aussi vous protéger en ligne.",
-  "highres_image": "home-fr/card_10/pass-high-res.3117d703cdda.jpg",
-  "image": "home-fr/card_10/pass.10e78bcf9ec0.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/restez-en-bonne-sante-en-ligne-mais-pas-que/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Comment obtenir Firefox Reality sur votre casque de réalité virtuelle.",
+  "highres_image": "home-fr/card_10/reality-high-res.360db676ea6d.png",
+  "image": "home-fr/card_10/reality.3a0e499c8c3d.png",
+  "link_url": "https://blog.mozilla.org/press-fr/2019/07/25/firefox-reality-est-disponible-pour-oculus-quest/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Sécurité",
-  "title": "Protégez-vous également en ligne "
+  "tag_label": "Firefox Réalité",
+  "title": "Firefox: explorez les mondes virtuels"
 }

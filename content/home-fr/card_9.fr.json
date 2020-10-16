@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "La fonction Incrustation Vidéo facilite et fluidifie le multitâche et permet de regarder des contenus vidéo sans changement de fenêtre.",
-  "highres_image": "home-fr/card_9/panda-in-picture-high-res.fb7aaa6a2225.jpg",
-  "image": "home-fr/card_9/panda-in-picture.c5c9619c928c.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/picture-in-picture/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Les dernières fonctionnalités, des performances exceptionnelles et les outils dont vous avez besoin pour vous aider à créer un web ouvert.",
+  "highres_image": "home-fr/card_9/dev-high-res.45d0c5e81418.jpg",
+  "image": "home-fr/card_9/dev.1f163d18201f.jpg",
+  "link_url": "https://www.mozilla.org/fr/firefox/developer/",
   "size": "medium",
-  "tag_label": "Outils Firefox",
-  "title": "Regardez des vidéos tout en travaillant avec l'Incrustation Vidéo"
+  "tag_label": "Codage",
+  "title": "Firefox pour les développeurs"
 }
