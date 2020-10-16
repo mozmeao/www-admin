@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "De nouveaux fonds d’écran pour le chat vidéo et bien plus encore",
-  "highres_image": "home-fr/card_7/bg-high-res.f20f7e773351.png",
-  "image": "home-fr/card_7/bg.3753459b543e.png",
-  "link_url": "https://blog.mozilla.org/firefox/fr/ambiance-des-annees-90/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Netflix dans “The Social Dilemma” montre comment des gens deviennent de la monnaie d’échange pour des entreprises. Et ce n’est pas tout.",
+  "highres_image": "home-fr/card_7/social-high-res.6c1521d8f399.jpg",
+  "image": "home-fr/card_7/social.3d8e0cfbb6b8.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/fr/si-tu-nas-pas-a-payer-pour-un-produit-cest-que-tu-es-certainement-le-produit/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Firefox",
-  "title": "Ambiance des années 90"
+  "tag_label": "Conseils",
+  "title": "Le dilemme des réseaux sociaux"
 }
