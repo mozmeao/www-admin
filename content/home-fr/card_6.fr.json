@@ -1,9 +1,9 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Firefox ne dépend pas de l'exploitation de vos données. Au contraire, le respect de votre vie privée est au cœur de chacun de nos produits.",
-  "image": "home-fr/card_6/promise.6ef879301d8d.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/fr/engagements-concernant-les-donnees-personnelles-de-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Tout est faux ? Grâce à ces conseils simples, vous pouvez reconnaître toutes les intox et ainsi éviter de vous faire avoir si facilement.",
+  "image": "home-fr/card_6/misinformation.d8a3af58765b.png",
+  "link_url": "https://blog.mozilla.org/firefox/fr/comment-eviter-la-desinformation-en-ligne/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Vie privée",
-  "title": "Nous jurons de protéger vos données"
+  "tag_label": "Conseils",
+  "title": "Détecte les intox plus rapidement"
 }
