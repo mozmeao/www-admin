@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "Create your own virtual Halloween parties that are physically-distant, spooky and fun with Mozilla Hubs.",
-  "highres_image": "home-2020/card_7/card7-high-res.083ca06888af.jpg",
-  "image": "home-2020/card_7/card7.3dd9d364cef6.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/virtual-halloween-mozilla-hubs/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
+  "desc": "These tips can help anyone involved in activism — organizing to participating — protect their digital privacy and security.",
+  "highres_image": "home-2020/card_7/card7-high-res.a2ed7f058f79.jpg",
+  "image": "home-2020/card_7/card7.7b89b3925f66.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/activism-digital-security/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Virtual Reality",
-  "title": "Halloween goes virtual",
-  "youtube_id": "qnBgO5eUp4Q"
+  "tag_label": "Security",
+  "title": "Protect your digital security and know your rights"
 }
