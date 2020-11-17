@@ -1,9 +1,9 @@
 ---
 # card 6
-title: "How to spot (and fight) misinformation"
-tag_label: "Pocket"
-desc: "Don’t let the web be a vehicle to sow confusion on how, when and where to vote. Read up on how to spot and fight misinformation."
-link_url: "https://getpocket.com/explore/item/u-s-election-2020-how-to-spot-and-fight-misinformation?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "2020 *Privacy Not Included buyers guide"
+tag_label: "Privacy"
+desc: "Does your new gadget collect data? Will that connected gift track you? We created a guide to help you shop for safe, secure connected products."
+link_url: "https://privacynotincluded.org?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 image: "card6.jpg"
 size: "large"
 aspect_ratio: "16-9"
