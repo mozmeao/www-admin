@@ -1,11 +1,11 @@
 ---
 # card 11
-title: "Our community participation guidelines"
-tag_label: "Community"
-desc: "We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors"
-link_url: "https://www.mozilla.org/about/governance/policies/participation/"
+title: "Keep gift ideas under wraps"
+tag_label: "Enhanced Tracking Protection"
+desc: "Don't let trackers and advertisers spoil your surprises. Give them a lump of coal instead."
+link_url: "https://blog.mozilla.org/firefox/holiday-shopping-privacy/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "card_11.jpg"
-aspect_ratio: "1-1"
+image: "gift.jpg"
+aspect_ratio: "3-2"
 include_highres_image: true
 ---

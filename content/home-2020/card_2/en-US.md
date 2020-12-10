@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "Secure your connection"
-tag_label: "Security"
-desc: "With one tap, Mozilla VPN encrypts your connection to keep your online activity private on any network — safe from prying eyes."
-link_url: "https://vpn.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "2019-2020 State of Mozilla"
+tag_label: "Annual Report"
+desc: "Every year in the spirit of openness, we share our annual report to show how we are meeting the challenges of online life."
+link_url: "https://www.mozilla.org/foundation/annualreport/2019/"
 size: "small"
-image: "vpn.jpg"
+image: "som.png"
 aspect_ratio: "1-1"
 include_highres_image: true
 ---
