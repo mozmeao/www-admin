@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "1-1",
-  "desc": "Staying lean and being smart about how data is collected can build trust and ultimately help grow business.",
-  "highres_image": "home-2020/card_13/card_13-high-res.c7cec88e5349.jpg",
-  "image": "home-2020/card_13/card_13.544eafdb7bc7.jpg",
-  "link_url": "https://www.mozilla.org/about/policy/lean-data/",
+  "aspect_ratio": "3-2",
+  "desc": "Hide your real email address to help protect your online accounts — and your identity — from hackers.",
+  "highres_image": "home-2020/card_13/fxrelay-high-res.46cd7a1feeb6.png",
+  "image": "home-2020/card_13/fxrelay.091937996266.png",
+  "link_url": "https://relay.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Data",
-  "title": "Lean Data Practices"
+  "tag_label": "Extensions",
+  "title": "Firefox Relay cuts down on email spam"
 }
