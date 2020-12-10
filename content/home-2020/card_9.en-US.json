@@ -1,10 +1,11 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "How are six popular streaming platforms handling political ads? Here are our findings.",
-  "highres_image": "home-2020/card_9/card9-high-res.ad451badb5bd.jpg",
-  "image": "home-2020/card_9/card9.a408b0d7311d.jpg",
-  "link_url": "https://foundation.mozilla.org/en/campaigns/paid-programming/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Following the U.S. election, our panel discusses how internet platforms prepared and performed against disinformation.",
+  "highres_image": "home-2020/card_9/dialogues-high-res.8604ee833e78.jpg",
+  "image": "home-2020/card_9/dialogues.ebf868a82a1d.jpg",
+  "link_url": "https://www.mozillafestival.org/speakers/virtual-dialogue-and-debates/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Research",
-  "title": "Paid programming"
+  "tag_label": "Dialogues & Debates",
+  "title": "Platforms and the Election: An Autopsy",
+  "youtube_id": "ix48z1ZgLJg"
 }

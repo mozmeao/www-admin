@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "These tips can help anyone involved in activism — organizing to participating — protect their digital privacy and security.",
-  "highres_image": "home-2020/card_7/card7-high-res.a2ed7f058f79.jpg",
-  "image": "home-2020/card_7/card7.7b89b3925f66.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/activism-digital-security/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Ever regret watching the next recommended video? This extension doesn’t give you a redo, but it might just keep it from happening to others.",
+  "image": "home-2020/card_7/regretsreporter.c0fa2cb12ee0.jpg",
+  "include_highres_image": false,
+  "link_url": "https://foundation.mozilla.org/campaigns/regrets-reporter/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Security",
-  "title": "Protect your digital security and know your rights"
+  "tag_label": "Extensions",
+  "title": "Close the YouTube rabbit hole"
 }
