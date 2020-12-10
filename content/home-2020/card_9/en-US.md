@@ -1,11 +1,13 @@
 ---
 # card 9
-title: "Paid programming"
-tag_label: "Research"
-desc: "How are six popular streaming platforms handling political ads? Here are our findings."
-link_url: "https://foundation.mozilla.org/en/campaigns/paid-programming/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Platforms and the Election: An Autopsy"
+tag_label: "Dialogues & Debates"
+desc: "Following the U.S. election, our panel discusses how internet platforms prepared and performed against disinformation."
+link_url: "https://www.mozillafestival.org/speakers/virtual-dialogue-and-debates/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "card9.jpg"
+image: "dialogues.jpg"
 aspect_ratio: "3-2"
 include_highres_image: true
+youtube_id: "ix48z1ZgLJg"
+media_icon: "video"
 ---

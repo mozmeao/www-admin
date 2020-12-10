@@ -1,13 +1,11 @@
 ---
 # card 12
-title: "Our 2019 Diversity and Inclusion results"
-tag_label: "Video"
-youtube_id: "VkK6rDcEEhU"
-media_icon: "video"
-desc: "Here are the main lessons that we’ve learned over the past three years."
-link_url: "https://blog.mozilla.org/careers/mozilla-diversity-inclusion-2019-results/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Here's to a better 2021"
+tag_label: "Pocket"
+desc: "The world is unpredictable. But you have the power to set yourself up for better days ahead."
+link_url: "https://getpocket.com/explore/item/the-choose-your-own-adventure-guide-to-a-better-2021/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "card_12.png"
+image: "pocket2021.png"
 aspect_ratio: "3-2"
 include_highres_image: true
 ---

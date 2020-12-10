@@ -1,11 +1,11 @@
 ---
 # card 13
-title: "Lean Data Practices"
-tag_label: "Data"
-desc: "Staying lean and being smart about how data is collected can build trust and ultimately help grow business."
-link_url: "https://www.mozilla.org/about/policy/lean-data/"
+title: "Firefox Relay cuts down on email spam"
+tag_label: "Extensions"
+desc: "Hide your real email address to help protect your online accounts — and your identity — from hackers."
+link_url: "https://relay.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "card_13.jpg"
-aspect_ratio: "1-1"
+image: "fxrelay.png"
+aspect_ratio: "3-2"
 include_highres_image: true
 ---
