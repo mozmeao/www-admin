@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Find out what hackers already know about you and get alerts when data breaches put you at risk.",
-  "highres_image": "home-2020/card_3/monitor-high-res.8d531436f539.jpg",
-  "image": "home-2020/card_3/monitor.53257e43b072.jpg",
-  "link_url": "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Facebook Container prevents them from following you around the rest of the web — which they are doing, even if you don’t have an account.",
+  "highres_image": "home-2020/card_3/fbc-high-res.6d3f04be61e0.jpg",
+  "image": "home-2020/card_3/fbc.8cdbce162a13.jpg",
+  "link_url": "https://www.mozilla.org/firefox/facebookcontainer/",
   "size": "small",
-  "tag_label": "Security",
-  "title": "Monitor your accounts for data breaches"
+  "tag_label": "Privacy",
+  "title": "Get Facebook out of your business"
 }

@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Here are the main lessons that we’ve learned over the past three years.",
-  "highres_image": "home-2020/card_12/card_12-high-res.e4094b3c158c.png",
-  "image": "home-2020/card_12/card_12.6ab6c8468572.png",
-  "link_url": "https://blog.mozilla.org/careers/mozilla-diversity-inclusion-2019-results/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
+  "desc": "The world is unpredictable. But you have the power to set yourself up for better days ahead.",
+  "highres_image": "home-2020/card_12/pocket2021-high-res.c42704c745d0.png",
+  "image": "home-2020/card_12/pocket2021.d8b01b092a27.png",
+  "link_url": "https://getpocket.com/explore/item/the-choose-your-own-adventure-guide-to-a-better-2021/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Video",
-  "title": "Our 2019 Diversity and Inclusion results",
-  "youtube_id": "VkK6rDcEEhU"
+  "tag_label": "Pocket",
+  "title": "Here's to a better 2021"
 }

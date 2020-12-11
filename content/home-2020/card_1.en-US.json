@@ -1,11 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "The brand new, dramatically redesigned Firefox browser for Android is faster, easy to use, customizable and private.",
-  "highres_image": "home-2020/card_1/card1-high-res.1726940bba0b.png",
-  "image": "home-2020/card_1/card1.f268bc8a4dc4.png",
-  "link_url": "https://app.adjust.com/2uo1qc?campaign=fenix&adgroup=homevideo&creative=daylightlaunch&fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dorg.mozilla.firefox",
+  "desc": "Mozilla VPN offers an encrypted connection on-demand for all your devices to keep your online activity safe from prying eyes on any network.",
+  "highres_image": "home-2020/card_1/vpn-high-res.e631cc1760f3.jpg",
+  "image": "home-2020/card_1/vpn.120da6eca54f.jpg",
+  "link_url": "https://vpn.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "large",
-  "tag_label": "Firefox for Mobile",
-  "title": "Get the most out of mobile",
-  "youtube_id": "6npc3QXJT9Q"
+  "tag_label": "Security",
+  "title": "Close the gap in your online security"
 }

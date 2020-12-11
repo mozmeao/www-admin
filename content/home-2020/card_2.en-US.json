@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "With one tap, Mozilla VPN encrypts your connection to keep your online activity private on any network — safe from prying eyes.",
-  "highres_image": "home-2020/card_2/vpn-high-res.0736c8f08060.jpg",
-  "image": "home-2020/card_2/vpn.41a743647433.jpg",
-  "link_url": "https://vpn.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Every year in the spirit of openness, we share our annual report to show how we are meeting the challenges of online life.",
+  "highres_image": "home-2020/card_2/som-high-res.91729ab3d59a.png",
+  "image": "home-2020/card_2/som.c9038eb008fe.png",
+  "link_url": "https://www.mozilla.org/foundation/annualreport/2019/",
   "size": "small",
-  "tag_label": "Security",
-  "title": "Secure your connection"
+  "tag_label": "Annual Report",
+  "title": "2019-2020 State of Mozilla"
 }
