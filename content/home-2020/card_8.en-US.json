@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Every Monday, we dig into the news and give you the tools, tips and tricks needed to cut the crap and find the truth.",
-  "highres_image": "home-2020/card_8/card8-high-res.fdabeef65dd5.jpg",
-  "image": "home-2020/card_8/card8.cc07165daf82.jpg",
-  "link_url": "https://foundation.mozilla.org/en/blog/tags/misinformation-monday/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "We asked people around the world how the internet has kept them sane, hopeful and connected this year. See their thoughts and share yours.",
+  "highres_image": "home-2020/card_8/dearinternet-high-res.d241216bc759.png",
+  "image": "home-2020/card_8/dearinternet.16a170c3b339.png",
+  "link_url": "https://foundation.mozilla.org/campaigns/dearinternet/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Mozilla Foundation",
-  "title": "Misinfo Mondays"
+  "tag_label": "Share your thoughts",
+  "title": "What do you love about the internet?"
 }
