@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "2019-2020 State of Mozilla"
-tag_label: "Annual Report"
-desc: "Every year in the spirit of openness, we share our annual report to show how we are meeting the challenges of online life."
-link_url: "https://www.mozilla.org/foundation/annualreport/2019/"
+title: "We need more than deplatforming"
+tag_label: "Mitchell Baker, Mozilla CEO"
+desc: "We need solutions that don’t start after untold damage has been done. Here are actions social platforms can and should commit to today."
+link_url: "https://blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "som.png"
+image: "cap.jpg"
 aspect_ratio: "1-1"
 include_highres_image: true
 ---
