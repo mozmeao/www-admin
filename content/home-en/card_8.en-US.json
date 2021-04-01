@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Thousands of trackers follow you around the internet every day. Firefox blocks them automatically.",
-  "highres_image": "home-en/card_8/card_8-high-res.7b7efd1cc56d.jpg",
-  "image": "home-en/card_8/card_8.a0c485067e7f.jpg",
-  "link_url": "https://blog.mozilla.org/blog/2019/10/22/latest-firefox-brings-privacy-protections-front-and-center-letting-you-track-the-trackers/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
-  "size": "extra-small",
-  "tag_label": "Video",
-  "title": "Get 2,000+ trackers off your trail",
-  "youtube_id": "dKmoubR-nVg"
+  "desc": "We have answers all of your questions about IP addresses from what is an IP address, to how it works, and if you should hide it.",
+  "highres_image": "home-en/card_8/explains-high-res.7922a96889b0.jpg",
+  "image": "home-en/card_8/explains.eb21a5734821.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/what-is-an-ip-address/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "size": "small",
+  "tag_label": "Mozilla Explains",
+  "title": "What is an IP address?"
 }

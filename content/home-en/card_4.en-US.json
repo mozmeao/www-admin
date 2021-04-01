@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "3-2",
-  "desc": "A thumb-friendly address bar plus six more things to know (and love) about the new Firefox for Android.",
-  "highres_image": "home-en/card_4/thumb-high-res.3111fd27b2de.png",
-  "image": "home-en/card_4/thumb.20e53bd0ed95.png",
-  "link_url": "https://blog.mozilla.org/firefox/new-firefox-for-android/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "16-9",
+  "desc": "Hide your real email address to help protect your online accounts — and your identity — from hackers.",
+  "highres_image": "home-en/card_4/relay-high-res.f50381f4d5c7.png",
+  "image": "home-en/card_4/relay.4f18eca2f862.png",
+  "link_url": "https://relay.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Firefox for Mobile",
-  "title": "7 reasons to love Firefox for Android"
+  "tag_label": "Extension",
+  "title": "Firefox Relay cuts down on email spam"
 }
