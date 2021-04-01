@@ -1,11 +1,11 @@
 ---
 # card 3
-title: "Fast, personalized and private by design"
-tag_label: "Announcement"
-desc: "Search the way you want and get the privacy you deserve with our customizable Android browser."
-link_url: "https://blog.mozilla.org/blog/2020/08/25/introducing-a-new-firefox-for-android-experience/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+title: "Close the gap in your online security"
+tag_label: "Security"
+desc: "Mozilla VPN offers an encrypted connection on-demand for all your devices to keep your online activity safe from prying eyes on any network."
+link_url: "https://www.mozilla.org/products/vpn/"
 size: "small"
-image: "card3.png"
-aspect_ratio: "3-2"
+image: "vpn.png"
+aspect_ratio: "16-9"
 include_highres_image: true
 ---

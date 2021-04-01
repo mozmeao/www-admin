@@ -1,11 +1,11 @@
 ---
 # card 11
-title: "Have a minute? Come talk to us"
-tag_label: "Emerging Technologies"
-desc: "Common Voice is our initiative to help teach machines how real people speak. Pitch in with your voice or help us validate others."
-link_url: "https://voice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-size: "medium"
-image: "card_11.jpg"
-aspect_ratio: "3-2"
+title: "There are no stupid questions"
+tag_label: "Pocket Collection"
+desc: "Let your imagination run wild with this curated collection exploring eleven out-there scientific “What ifs?”"
+link_url: "https://getpocket.com/explore/item/what-if-11-highly-hypothetical-science-questions-answered?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+size: "small"
+image: "collection.jpg"
+aspect_ratio: "16-9"
 include_highres_image: true
 ---
