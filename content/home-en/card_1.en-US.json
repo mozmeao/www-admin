@@ -1,12 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Mozilla VPN offers an encrypted connection on-demand for all your devices to keep your online activity safe from prying eyes on any network.",
+  "desc": "Got things to do and games to watch? Do both using Picture-in-Picture in Firefox. ",
   "highres_image": "home-en/card_1/pip-high-res.c39591c4da67.png",
   "image": "home-en/card_1/pip.1ebb8ae444d5.png",
-  "link_url": "https://www.mozilla.org/products/vpn/",
+  "link_url": "https://www.mozilla.org/en-US/firefox/features/picture-in-picture/",
   "media_icon": "video",
   "size": "large",
-  "tag_label": "Security",
-  "title": "Close the gap in your online security",
+  "tag_label": "Video",
+  "title": "Game on with Firefox Picture-in-Picture",
   "youtube_id": "AQybEhWZ8YA"
 }
