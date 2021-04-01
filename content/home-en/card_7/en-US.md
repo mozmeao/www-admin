@@ -1,11 +1,13 @@
 ---
 # card 7
-title: "Keep Facebook contained"
-tag_label: "Privacy"
-desc: "Facebook Container lets you connect with friends while making it harder for Facebook to track you on the web."
-link_url: "https://www.mozilla.org/firefox/facebookcontainer/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-size: "extra-small"
-image: "card_7.jpg"
-aspect_ratio: "16-9"
+title: "Mozilla Explains: AI"
+tag_label: "Video"
+desc: "How does an algorithm train a machine learning model, and what happens next?"
+link_url: "https://foundation.mozilla.org/en/blog/mozilla-explains-what-is-ai/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+image: "ml.jpg"
+size: "medium"
+aspect_ratio: "3-2"
 include_highres_image: true
+youtube_id: "P-iiN0c2uic"
+media_icon: "video"
 ---

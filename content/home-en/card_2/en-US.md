@@ -1,11 +1,11 @@
 ---
 # card 2
-title: "Mitchell Baker: It's time to build a better internet"
-tag_label: "From the CEO"
-desc: "People, technology, and willpower can change the world fast. So we must demand something better."
-link_url: "https://www.independent.co.uk/independentpremium/voices/coronavirus-internet-online-hate-learning-surveillance-a9616451.html"
+title: "It's time to reinstate net neutrality"
+tag_label: "Policy"
+desc: "Net neutrality is good for people, personal expression, business, innovation, our economic recovery, and the internet."
+link_url: "https://blog.mozilla.org/blog/2021/03/19/reinstating-net-neutrality-in-the-us/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "card_2.jpg"
+image: "net.png"
 aspect_ratio: "1-1"
 include_highres_image: true
 ---
