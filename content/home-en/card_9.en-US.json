@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Mozilla VPN delivers security you can rely on from a name you can trust.",
-  "highres_image": "home-en/card_9/vpn-high-res.943473bb9d27.jpg",
-  "image": "home-en/card_9/vpn.43b970f74b0f.jpg",
-  "link_url": "https://vpn.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "size": "extra-small",
-  "tag_label": "Security",
-  "title": "Mozilla VPN is here"
+  "desc": "Let your imagination run wild with this curated collection exploring eleven out-there scientific “What ifs?”",
+  "highres_image": "home-en/card_9/quote-high-res.03697c31e7a2.jpg",
+  "image": "home-en/card_9/quote.6afa696b54ff.jpg",
+  "link_url": "https://blog.mozilla.org/firefox/tag/womens-history-month-2021/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "size": "small",
+  "tag_label": "Interviews",
+  "title": "Doing business through the pandemic"
 }

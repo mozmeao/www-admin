@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Facebook Container lets you connect with friends while making it harder for Facebook to track you on the web.",
-  "highres_image": "home-en/card_7/card_7-high-res.dd328b603ff6.jpg",
-  "image": "home-en/card_7/card_7.a01d0997c8ed.jpg",
-  "link_url": "https://www.mozilla.org/firefox/facebookcontainer/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "size": "extra-small",
-  "tag_label": "Privacy",
-  "title": "Keep Facebook contained"
+  "desc": "How does an algorithm train a machine learning model, and what happens next?",
+  "highres_image": "home-en/card_7/ml-high-res.f70b81dc486e.jpg",
+  "image": "home-en/card_7/ml.d06d29620974.jpg",
+  "link_url": "https://foundation.mozilla.org/en/blog/mozilla-explains-what-is-ai/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
+  "size": "medium",
+  "tag_label": "Video",
+  "title": "Mozilla Explains: AI",
+  "youtube_id": "P-iiN0c2uic"
 }

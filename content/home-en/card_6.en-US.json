@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Find out what hackers already know about you and get alerts when data breaches put you at risk.",
-  "highres_image": "home-en/card_6/card_6-high-res.796a3e0f1287.jpg",
-  "image": "home-en/card_6/card_6.52e449070c2e.jpg",
-  "link_url": "https://monitor.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "size": "extra-small",
-  "tag_label": "Security",
-  "title": "Monitor your accounts for data breaches"
+  "desc": "We asked 100+ people to share their expertise on what can be done to make the internet healthier. Here's what we heard.",
+  "highres_image": "home-en/card_6/ihr-high-res.5caec9562b9c.png",
+  "image": "home-en/card_6/ihr.919b6c2be53f.png",
+  "link_url": "https://2020.internethealthreport.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "size": "medium",
+  "tag_label": "Internet Health",
+  "title": "Internet Health Report 2020"
 }
