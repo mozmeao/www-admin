@@ -1,9 +1,9 @@
 ---
 # card 1
-title: "Close the gap in your online security"
-tag_label: "Security"
-desc: "Mozilla VPN offers an encrypted connection on-demand for all your devices to keep your online activity safe from prying eyes on any network."
-link_url: "https://www.mozilla.org/products/vpn/"
+title: "Game on with Firefox Picture-in-Picture"
+tag_label: "Video"
+desc: "Got things to do and games to watch? Do both using Picture-in-Picture in Firefox. "
+link_url: "https://www.mozilla.org/en-US/firefox/features/picture-in-picture/"
 size: "large"
 image: "pip.png"
 aspect_ratio: "16-9"
