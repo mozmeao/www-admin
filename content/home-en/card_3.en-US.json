@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "3-2",
-  "desc": "Search the way you want and get the privacy you deserve with our customizable Android browser.",
-  "highres_image": "home-en/card_3/card3-high-res.7c5f4ce8e8ff.png",
-  "image": "home-en/card_3/card3.7df549c55d32.png",
-  "link_url": "https://blog.mozilla.org/blog/2020/08/25/introducing-a-new-firefox-for-android-experience/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "16-9",
+  "desc": "Mozilla VPN offers an encrypted connection on-demand for all your devices to keep your online activity safe from prying eyes on any network.",
+  "highres_image": "home-en/card_3/vpn-high-res.3c96a0c32a07.png",
+  "image": "home-en/card_3/vpn.9fb041abb74c.png",
+  "link_url": "https://www.mozilla.org/products/vpn/",
   "size": "small",
-  "tag_label": "Announcement",
-  "title": "Fast, personalized and private by design"
+  "tag_label": "Security",
+  "title": "Close the gap in your online security"
 }

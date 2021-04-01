@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "3-2",
-  "desc": "If you’ve considered using Hubs for a meetup or conference, or are just generally interested in how the platform works, read on.",
-  "highres_image": "home-en/card_10/card_10-high-res.12854a4bb826.jpg",
-  "image": "home-en/card_10/card_10.646c6364cba9.jpg",
-  "link_url": "https://blog.mozvr.com/scaling-virtual-events-with-hubs-and-hubs-cloud/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "size": "medium",
-  "tag_label": "Virtual Reality",
-  "title": "Scaling virtual events with Hubs"
+  "aspect_ratio": "16-9",
+  "desc": "Every week we take a fun look at what’s going on in the world and on the internet from awesome to awful.",
+  "highres_image": "home-en/card_10/news-high-res.15e44ac9b354.jpg",
+  "image": "home-en/card_10/news.fa123da109e6.jpg",
+  "link_url": "https://foundation.mozilla.org/en/blog/category/moz-news-beat/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "size": "small",
+  "tag_label": "Mozilla Foundation",
+  "title": "Internet news, from best to worst"
 }

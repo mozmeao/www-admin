@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "People, technology, and willpower can change the world fast. So we must demand something better.",
-  "highres_image": "home-en/card_2/card_2-high-res.7f53d2324df6.jpg",
-  "image": "home-en/card_2/card_2.73be009fe44e.jpg",
-  "link_url": "https://www.independent.co.uk/independentpremium/voices/coronavirus-internet-online-hate-learning-surveillance-a9616451.html",
+  "desc": "Net neutrality is good for people, personal expression, business, innovation, our economic recovery, and the internet.",
+  "highres_image": "home-en/card_2/net-high-res.f64055ffccc7.png",
+  "image": "home-en/card_2/net.ea5792d929b3.png",
+  "link_url": "https://blog.mozilla.org/blog/2021/03/19/reinstating-net-neutrality-in-the-us/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "From the CEO",
-  "title": "Mitchell Baker: It's time to build a better internet"
+  "tag_label": "Policy",
+  "title": "It's time to reinstate net neutrality"
 }
