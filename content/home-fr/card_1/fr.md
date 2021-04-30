@@ -1,12 +1,11 @@
 ---
 # card 1
-title: "Protégez l’Internet que vous aimez"
-tag_label: "Video"
-desc: "N’acceptez pas tout du Net. Internet doit rester un lieu qui nous protège, nous inspire et non un lieu qui nous exploite et nous manipule."
-link_url: "https://www.mozilla.org/fr/firefox/unfck/"
+title: "Mozilla VPN est maintenant disponible"
+tag_label: "Outils Mozilla"
+desc: "Surfez, jouez, travaillez et streamez tout en préservant votre confidentialité sur Internet contre les fournisseurs Internet trop curieux et les pirates informatiques."
+link_url: "https://www.mozilla.org/fr/products/vpn/"
 size: "large"
-image: "unfck-fr.png"
+image: "vpn.jpg"
 aspect_ratio: "16-9"
-youtube_id: "wrsDr0-2xnU"
-media_icon: "video"
+include_highres_image: true
 ---

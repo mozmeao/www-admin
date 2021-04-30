@@ -1,13 +1,11 @@
 ---
 # card 1
-title: "Schütze das Web, das du liebst"
-tag_label: "Video"
-desc: "Unfck the Internet: damit das Internet ein Ort bleibt, an dem wir geschützt und inspiriert statt ausgebeutet und manipuliert werden."
-link_url: "https://www.mozilla.org/de/firefox/unfck/"
+title: "Mozilla VPN is da!"
+tag_label: "Mozilla Tool"
+desc: "Beim Surfen, Streamen, Zocken oder Arbeiten: Schütze dein gesamtes Gerät vor neugierigen Internetanbieter und Hackern."
+link_url: "https://www.mozilla.org/de/products/vpn/"
 size: "large"
-image: "unfck-video.png"
+image: "vpn.jpg"
 aspect_ratio: "16-9"
 include_highres_image: true
-youtube_id: "nPtKhbqohZU"
-media_icon: "video"
 ---
