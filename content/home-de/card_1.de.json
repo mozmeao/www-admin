@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Unfck the Internet: damit das Internet ein Ort bleibt, an dem wir geschützt und inspiriert statt ausgebeutet und manipuliert werden.",
-  "highres_image": "home-de/card_1/unfck-video-high-res.e1b3c4a8a9ce.png",
-  "image": "home-de/card_1/unfck-video.4eba2c7895ad.png",
-  "link_url": "https://www.mozilla.org/de/firefox/unfck/",
-  "media_icon": "video",
+  "desc": "Beim Surfen, Streamen, Zocken oder Arbeiten: Schütze dein gesamtes Gerät gegen neugierige Internetanbieter und Hacker.",
+  "highres_image": "home-de/card_1/vpn-high-res.e631cc1760f3.jpg",
+  "image": "home-de/card_1/vpn.120da6eca54f.jpg",
+  "link_url": "https://www.mozilla.org/de/products/vpn/",
   "size": "large",
-  "tag_label": "Video",
-  "title": "Schütze das Web, das du liebst",
-  "youtube_id": "nPtKhbqohZU"
+  "tag_label": "Mozilla Tool",
+  "title": "Mozilla VPN is da!"
 }
