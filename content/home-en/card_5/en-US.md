@@ -1,11 +1,11 @@
 ---
 # card 5
-title: "Mozilla Hubs"
-tag_label: "Mozilla Hubs"
-desc: "Create and share an instant virtual room with friends. Watch videos, play with 3D objects, or just hang out."
-link_url: "https://hubs.mozilla.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
-image: "hubs.jpg"
+title: "Enjoy being online again"
+tag_label: "Deep Dive"
+desc: "It has been a year. Here are some tips for how to reset and choose joy when online."
+link_url: "https://blog.mozilla.org/en/internet-culture/deep-dives/how-to-enjoy-being-online-again/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+image: "enjoy.jpg"
 size: "small"
-aspect_ratio: "16-9"
+aspect_ratio: "3-2"
 include_highres_image: true
 ---
