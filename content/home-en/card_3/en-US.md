@@ -1,11 +1,11 @@
 ---
 # card 3
-title: "Close the gap in your online security"
-tag_label: "Security"
-desc: "Mozilla VPN offers an encrypted connection on-demand for all your devices to keep your online activity safe from prying eyes on any network."
-link_url: "https://www.mozilla.org/products/vpn/"
+title: "Things are looking different in 2021"
+tag_label: "Firefox"
+desc: "While we make small design improvements regularly, major overhauls are big undertakings that don’t come around all that often."
+link_url: "https://blog.mozilla.org/en/products/firefox/new-firefox-coming-june-1/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "vpn.png"
-aspect_ratio: "16-9"
+image: "different.jpg"
+aspect_ratio: "3-2"
 include_highres_image: true
 ---

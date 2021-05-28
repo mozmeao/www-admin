@@ -1,11 +1,11 @@
 ---
-# card 11
-title: "There are no stupid questions"
-tag_label: "Pocket Collection"
-desc: "Let your imagination run wild with this curated collection exploring eleven out-there scientific “What ifs?”"
-link_url: "https://getpocket.com/explore/item/what-if-11-highly-hypothetical-science-questions-answered?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
+# card 12
+title: "The Joy List Project"
+tag_label: "Pocket"
+desc: "Read on as our contributors walk you through their all-time essential articles, videos, recipes, poems, memes and more."
+link_url: "https://getpocket.com/explore/item/the-joy-lists?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "collection.jpg"
+image: "pocket_joy.png"
 aspect_ratio: "16-9"
 include_highres_image: true
 ---
