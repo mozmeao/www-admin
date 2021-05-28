@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Facebook Container prevents them from following you around the rest of the web — which they are doing, even if you don’t have an account.",
+  "desc": "We obsessed over every detail. The result is a fresh, streamlined experience that delivers more efficiency and privacy than ever before.",
   "highres_image": "home-2020/card_3/fbc-high-res.6d3f04be61e0.jpg",
   "image": "home-2020/card_3/fbc.8cdbce162a13.jpg",
-  "link_url": "https://www.mozilla.org/firefox/facebookcontainer/",
+  "link_url": "https://blog.mozilla.org/en/products/firefox/new-firefox-coming-june-1/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "small",
-  "tag_label": "Privacy",
-  "title": "Get Facebook out of your business"
+  "tag_label": "Video",
+  "title": "Go behind the design",
+  "youtube_id": "Cyxdu0EwIk"
 }

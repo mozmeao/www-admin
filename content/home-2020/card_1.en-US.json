@@ -1,10 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Mozilla VPN offers an encrypted connection on-demand for all your devices to keep your online activity safe from prying eyes on any network.",
+  "desc": "This major redesign gives you a new, wide-open window to the internet with more privacy than ever before.",
   "highres_image": "home-2020/card_1/vpn-high-res.e631cc1760f3.jpg",
   "image": "home-2020/card_1/vpn.120da6eca54f.jpg",
-  "link_url": "https://www.mozilla.org/products/vpn/",
+  "link_url": "https://blog.mozilla.org/en/products/firefox/fresh-new-look-for-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "large",
-  "tag_label": "Security",
-  "title": "Close the gap in your online security"
+  "tag_label": "Video",
+  "title": "Introducing a new look for Firefox",
+  "youtube_id": "czEGwcZSYyo"
 }
