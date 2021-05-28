@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "We obsessed over every detail. The result is a fresh, streamlined experience that delivers more efficiency and privacy than ever before.",
-  "highres_image": "home-en/card_3/behind-high-res.a3f3a5f28be7.jpg",
-  "image": "home-en/card_3/behind.cba790c8502e.jpg",
+  "desc": "While we make small design improvements regularly, major overhauls are big undertakings that don’t come around all that often.",
+  "highres_image": "home-en/card_3/different-high-res.efc71fde1b40.jpg",
+  "image": "home-en/card_3/different.fa66bf337ace.jpg",
   "link_url": "https://blog.mozilla.org/en/products/firefox/new-firefox-coming-june-1/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
-  "media_icon": "video",
   "size": "small",
-  "tag_label": "Video",
-  "title": "Go behind the design",
-  "youtube_id": "-Cyxdu0EwIk"
+  "tag_label": "Firefox",
+  "title": "Things are looking different in 2021"
 }
