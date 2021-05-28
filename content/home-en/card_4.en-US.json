@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "Hide your real email address to help protect your online accounts — and your identity — from hackers.",
-  "highres_image": "home-en/card_4/relay-high-res.f50381f4d5c7.png",
-  "image": "home-en/card_4/relay.4f18eca2f862.png",
-  "link_url": "https://relay.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "While we make small design improvements regularly, major overhauls are big undertakings that don’t come around all that often.",
+  "highres_image": "home-en/card_4/pocket2020-high-res.e00beec60193.png",
+  "image": "home-en/card_4/pocket2020.0fee21874c40.png",
+  "link_url": "https://blog.mozilla.org/en/products/firefox/new-firefox-coming-june-1/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Extension",
-  "title": "Firefox Relay cuts down on email spam"
+  "tag_label": "Firefox",
+  "title": "Things are looking different in 2021"
 }

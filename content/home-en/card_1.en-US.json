@@ -1,12 +1,12 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "Got things to do and games to watch? Do both using Picture-in-Picture in Firefox. ",
-  "highres_image": "home-en/card_1/pip-high-res.c39591c4da67.png",
-  "image": "home-en/card_1/pip.1ebb8ae444d5.png",
-  "link_url": "https://www.mozilla.org/en-US/firefox/features/picture-in-picture/",
+  "desc": "This major redesign gives you a new, wide-open window to the internet with more privacy than ever before.",
+  "highres_image": "home-en/card_1/vpn-high-res.e631cc1760f3.jpg",
+  "image": "home-en/card_1/vpn.120da6eca54f.jpg",
+  "link_url": "https://blog.mozilla.org/en/products/firefox/fresh-new-look-for-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "media_icon": "video",
   "size": "large",
   "tag_label": "Video",
-  "title": "Game on with Firefox Picture-in-Picture",
-  "youtube_id": "AQybEhWZ8YA"
+  "title": "Introducing a new look for Firefox",
+  "youtube_id": "czEGwcZSYyo"
 }

@@ -1,10 +1,12 @@
 {
-  "aspect_ratio": "1-1",
-  "desc": "Get up to speed on SIM swapping scams and learn how to protect yourself from this new form of identity theft.",
-  "image": "home-2020/card_9/swap.2337546cef38.jpg",
-  "include_highres_image": false,
-  "link_url": "https://blog.mozilla.org/en/internet-culture/mozilla-explains/mozilla-explains-sim-swapping/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "Following the U.S. election, our panel discusses how internet platforms prepared and performed against disinformation.",
+  "highres_image": "home-2020/card_9/dialogues-high-res.8604ee833e78.jpg",
+  "image": "home-2020/card_9/dialogues.ebf868a82a1d.jpg",
+  "link_url": "https://www.mozillafestival.org/speakers/virtual-dialogue-and-debates/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "small",
-  "tag_label": "Mozilla Explains",
-  "title": "What is SIM swapping?"
+  "tag_label": "Dialogues & Debates",
+  "title": "Platforms and the Election: An Autopsy",
+  "youtube_id": "ix48z1ZgLJg"
 }

@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "Detroit’s digital divide reminds us how far America has to go for internet equity.",
-  "highres_image": "home-2020/card_10/divide-high-res.75780a1ff0f9.jpg",
-  "image": "home-2020/card_10/divide.a2ebbe23a6ba.jpg",
-  "link_url": "https://blog.mozilla.org/en/internet-culture/deep-dives/digital-divide-detroit-broadband-internet-access-2021/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Every week we take a fun look at what’s going on in the world and on the internet from awesome to awful.",
+  "highres_image": "home-2020/card_10/newsbeat-high-res.111b82061ae5.jpg",
+  "image": "home-2020/card_10/newsbeat.1da501e818cd.jpg",
+  "link_url": "https://foundation.mozilla.org/blog/category/moz-news-beat/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Deep Dive",
-  "title": "The digital divide"
+  "tag_label": "Mozilla Foundation",
+  "title": "Internet news, from best to worst"
 }

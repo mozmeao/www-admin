@@ -1,10 +1,10 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "Let your imagination run wild with this curated collection exploring eleven out-there scientific “What ifs?”",
-  "highres_image": "home-en/card_9/quote-high-res.03697c31e7a2.jpg",
-  "image": "home-en/card_9/quote.6afa696b54ff.jpg",
-  "link_url": "https://blog.mozilla.org/firefox/tag/womens-history-month-2021/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "Detroit’s digital divide reminds us how far America has to go for internet equity.",
+  "highres_image": "home-en/card_9/divide-high-res.75780a1ff0f9.jpg",
+  "image": "home-en/card_9/divide.a2ebbe23a6ba.jpg",
+  "link_url": "https://blog.mozilla.org/en/internet-culture/deep-dives/digital-divide-detroit-broadband-internet-access-2021/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Interviews",
-  "title": "Doing business through the pandemic"
+  "tag_label": "Deep Dive",
+  "title": "The digital divide"
 }

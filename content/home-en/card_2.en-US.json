@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "Net neutrality is good for people, personal expression, business, innovation, our economic recovery, and the internet.",
-  "highres_image": "home-en/card_2/net-high-res.f64055ffccc7.png",
-  "image": "home-en/card_2/net.ea5792d929b3.png",
-  "link_url": "https://blog.mozilla.org/blog/2021/03/19/reinstating-net-neutrality-in-the-us/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "It's fast, efficient and private so you feel safe and free to be yourself online with fewer eyes following you across the web.",
+  "highres_image": "home-en/card_2/cap-high-res.ddb9a876493d.jpg",
+  "image": "home-en/card_2/cap.72e1c51e651d.jpg",
+  "link_url": "https://blog.mozilla.org/en/products/firefox/fresh-new-look-for-firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Policy",
-  "title": "It's time to reinstate net neutrality"
+  "tag_label": "Firefox",
+  "title": "The new Firefox is here"
 }
