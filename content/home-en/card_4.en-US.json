@@ -1,10 +1,12 @@
 {
-  "aspect_ratio": "16-9",
-  "desc": "Hide your real email address to help protect your online accounts — and your identity — from hackers.",
-  "highres_image": "home-en/card_4/relay-high-res.f50381f4d5c7.png",
-  "image": "home-en/card_4/relay.4f18eca2f862.png",
-  "link_url": "https://relay.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "aspect_ratio": "3-2",
+  "desc": "We obsessed over every detail. The result is a fresh, streamlined experience that delivers more efficiency and privacy than ever before.",
+  "highres_image": "home-en/card_4/behind-high-res.a3f3a5f28be7.jpg",
+  "image": "home-en/card_4/behind.cba790c8502e.jpg",
+  "link_url": "https://blog.mozilla.org/en/products/firefox/new-firefox-coming-june-1/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "media_icon": "video",
   "size": "small",
-  "tag_label": "Extension",
-  "title": "Firefox Relay cuts down on email spam"
+  "tag_label": "Video",
+  "title": "Go behind the design",
+  "youtube_id": "-Cyxdu0EwIk"
 }
