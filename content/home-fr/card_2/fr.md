@@ -1,7 +1,7 @@
 ---
 # card 2
 title: "Le nouveau Firefox est disponible"
-tag_label: "Firefox"
+tag_label: "Vidéo"
 desc: "Découvrez le nouveau Firefox. Épuré, fluide et efficace, avec une barre d’outils simplifiée et des menus optimisés."
 link_url: "https://www.youtube.com/watch?v=6Ck1d6qo8a0"
 size: "small"
