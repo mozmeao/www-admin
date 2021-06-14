@@ -1,11 +1,10 @@
 {
   "aspect_ratio": "16-9",
-  "desc": "N’acceptez pas tout du Net. Internet doit rester un lieu qui nous protège, nous inspire et non un lieu qui nous exploite et nous manipule.",
-  "image": "home-fr/card_1/unfck-fr.f79ff2a30e3c.png",
-  "link_url": "https://www.mozilla.org/fr/firefox/unfck/",
-  "media_icon": "video",
+  "desc": "Surfez, jouez, travaillez et streamez tout en préservant votre confidentialité sur Internet contre les fournisseurs Internet trop curieux et les pirates informatiques.",
+  "highres_image": "home-fr/card_1/vpn-high-res.e631cc1760f3.jpg",
+  "image": "home-fr/card_1/vpn.120da6eca54f.jpg",
+  "link_url": "https://www.mozilla.org/fr/products/vpn/",
   "size": "large",
-  "tag_label": "Video",
-  "title": "Protégez l’Internet que vous aimez",
-  "youtube_id": "wrsDr0-2xnU"
+  "tag_label": "Outils Mozilla",
+  "title": "Mozilla VPN est maintenant disponible"
 }
