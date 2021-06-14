@@ -1,11 +1,13 @@
 ---
 # card 2
-title: "Unfck the Internet – Aus Liebe zum Web"
-tag_label: "Campaign"
-desc: "Wenn das Internet genutzt wird, um Menschen zu folgen und ihre persönliche Daten zu sammeln, müssen wir etwas tun. Hier sind 5 Vorschläge."
-link_url: "https://www.mozilla.org/de/firefox/unfck/"
+title: "Der neue Firefox ist da"
+tag_label: "Video"
+desc: "Ein frisches, cleanes Design und hochmoderne Tools für deine Sicherheit machen diese Version zum besten Firefox aller Zeiten."
+link_url: "https://www.youtube.com/watch?v=LuEX_Wih8g4"
 size: "small"
-image: "unfck-heart.png"
+image: "look.jpg"
 aspect_ratio: "1-1"
 include_highres_image: true
+youtube_id: "LuEX_Wih8g4"
+media_icon: "video"
 ---
