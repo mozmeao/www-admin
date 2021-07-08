@@ -1,10 +1,10 @@
 {
   "aspect_ratio": "3-2",
-  "desc": "We asked 100+ people to share their expertise on what can be done to make the internet healthier. Here's what we heard.",
-  "highres_image": "home-en/card_6/ihr-high-res.5caec9562b9c.png",
-  "image": "home-en/card_6/ihr.919b6c2be53f.png",
-  "link_url": "https://2020.internethealthreport.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
+  "desc": "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. This is what we learned.",
+  "highres_image": "home-en/card_6/ytregrets-high-res.75d81210228a.png",
+  "image": "home-en/card_6/ytregrets.0bd84ebe16d8.png",
+  "link_url": "https://foundation.mozilla.org/en/campaigns/regrets-reporter/findings/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "medium",
-  "tag_label": "Internet Health",
-  "title": "Internet Health Report 2020"
+  "tag_label": "Report",
+  "title": "YouTube Regrets"
 }
