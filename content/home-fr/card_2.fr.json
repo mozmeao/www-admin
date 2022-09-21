@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "Découvrez le nouveau Firefox. Épuré, fluide et efficace, avec une barre d’outils simplifiée et des menus optimisés.",
-  "highres_image": "home-fr/card_2/look-high-res.143700d89985.jpg",
-  "image": "home-fr/card_2/look.8a7fc3352df6.jpg",
-  "link_url": "https://www.youtube.com/watch?v=6Ck1d6qo8a0",
-  "media_icon": "video",
+  "desc": "Enregistrez les articles qui vous inspirent, organisez-les par tags, et emportez-les partout avec vous.",
+  "highres_image": "home-fr/card_2/pocket-high-res.b1d9b2b89439.jpg",
+  "image": "home-fr/card_2/pocket.3d78771ae045.jpg",
+  "link_url": "https://getpocket.com/signup?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Vidéo",
-  "title": "Le nouveau Firefox est disponible",
-  "youtube_id": "6Ck1d6qo8a0"
+  "tag_label": "Pocket",
+  "title": "Enregistrez le contenu qui vous plaît"
 }
