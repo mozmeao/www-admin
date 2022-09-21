@@ -1,13 +1,11 @@
 ---
 # card 2
-title: "Le nouveau Firefox est disponible"
-tag_label: "Vidéo"
-desc: "Découvrez le nouveau Firefox. Épuré, fluide et efficace, avec une barre d’outils simplifiée et des menus optimisés."
-link_url: "https://www.youtube.com/watch?v=6Ck1d6qo8a0"
+title: "Enregistrez le contenu qui vous plaît"
+tag_label: "Pocket"
+desc: "Enregistrez les articles qui vous inspirent, organisez-les par tags, et emportez-les partout avec vous."
+link_url: "https://getpocket.com/signup?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card"
 size: "small"
-image: "look.jpg"
+image: "pocket.jpg"
 aspect_ratio: "1-1"
 include_highres_image: true
-youtube_id: "6Ck1d6qo8a0"
-media_icon: "video"
 ---
