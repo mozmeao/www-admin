@@ -1,12 +1,10 @@
 {
   "aspect_ratio": "1-1",
-  "desc": "Ein frisches, cleanes Design und hochmoderne Tools für deine Sicherheit machen diese Version zum besten Firefox aller Zeiten.",
-  "highres_image": "home-de/card_2/look-high-res.143700d89985.jpg",
-  "image": "home-de/card_2/look.8a7fc3352df6.jpg",
-  "link_url": "https://www.youtube.com/watch?v=LuEX_Wih8g4",
-  "media_icon": "video",
+  "desc": "Speichere die besten Artikel, ordne sie mit Tags und Markierungen und nimm sie überall hin mit.",
+  "highres_image": "home-de/card_2/pocket-high-res.7e09119ae5a3.jpg",
+  "image": "home-de/card_2/pocket.1aad6de73a88.jpg",
+  "link_url": "https://getpocket.com/signup?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card",
   "size": "small",
-  "tag_label": "Video",
-  "title": "Der neue Firefox ist da",
-  "youtube_id": "LuEX_Wih8g4"
+  "tag_label": "Pocket",
+  "title": "Content, der deine Zeit wert ist"
 }
