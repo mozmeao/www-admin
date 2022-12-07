@@ -1,0 +1,5 @@
+# To update dependencies, install pip-tools and run:
+# pip-compile --generate-hashes -r requirements.in
+
+Markdown==3.4.1
+ruamel.yaml==0.17.21
