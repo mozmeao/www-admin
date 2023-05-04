@@ -18,7 +18,7 @@ fi
 GIT_BRANCH_PROCESSED="${GIT_BRANCH}-processed"
 OUTPUT_DIR="output"
 export GIT_AUTHOR_NAME="MozMEAO Robot"
-export GIT_AUTHOR_EMAIL="pmac+github-mozmar-robot@mozilla.com"
+export GIT_AUTHOR_EMAIL="meao-bots@mozilla.com"
 export GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
 export GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
 
